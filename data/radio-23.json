@@ -1,0 +1,1794 @@
+[
+    {
+        "date": "2023-03-03T15:41:35.434000",
+        "driver_number": 23,
+        "session_key": 7766,
+        "meeting_key": 1141,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-03_Practice_2/TeamRadio/ALEALB01_23_20230303_154119.mp3"
+    },
+    {
+        "date": "2023-03-04T12:16:03.834000",
+        "driver_number": 23,
+        "session_key": 7767,
+        "meeting_key": 1141,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-04_Practice_3/TeamRadio/ALEALB01_23_20230304_121554.mp3"
+    },
+    {
+        "date": "2023-03-04T12:16:36.592000",
+        "driver_number": 23,
+        "session_key": 7767,
+        "meeting_key": 1141,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-04_Practice_3/TeamRadio/ALEALB01_23_20230304_121558.mp3"
+    },
+    {
+        "date": "2023-03-05T15:16:20.877000",
+        "driver_number": 23,
+        "session_key": 7953,
+        "meeting_key": 1141,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-05_Race/TeamRadio/ALEALB01_23_20230305_151555.mp3"
+    },
+    {
+        "date": "2023-03-05T15:30:15.377000",
+        "driver_number": 23,
+        "session_key": 7953,
+        "meeting_key": 1141,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-05_Race/TeamRadio/ALEALB01_23_20230305_152947.mp3"
+    },
+    {
+        "date": "2023-03-05T15:52:37.931000",
+        "driver_number": 23,
+        "session_key": 7953,
+        "meeting_key": 1141,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-05_Race/TeamRadio/ALEALB01_23_20230305_155216.mp3"
+    },
+    {
+        "date": "2023-03-05T16:42:52.674000",
+        "driver_number": 23,
+        "session_key": 7953,
+        "meeting_key": 1141,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-05_Race/TeamRadio/ALEALB01_23_20230305_164612.mp3"
+    },
+    {
+        "date": "2023-03-17T17:59:32.616000",
+        "driver_number": 23,
+        "session_key": 7773,
+        "meeting_key": 1142,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-19_Saudi_Arabian_Grand_Prix/2023-03-17_Practice_2/TeamRadio/ALEALB01_23_20230317_175918.mp3"
+    },
+    {
+        "date": "2023-03-19T17:45:54.999000",
+        "driver_number": 23,
+        "session_key": 7779,
+        "meeting_key": 1142,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-19_Saudi_Arabian_Grand_Prix/2023-03-19_Race/TeamRadio/ALEALB01_23_20230319_174513.mp3"
+    },
+    {
+        "date": "2023-03-19T17:48:09.888000",
+        "driver_number": 23,
+        "session_key": 7779,
+        "meeting_key": 1142,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-03-19_Saudi_Arabian_Grand_Prix/2023-03-19_Race/TeamRadio/ALEALB01_23_20230319_174753.mp3"
+    },
+    {
+        "date": "2023-03-31T01:51:36.208000",
+        "driver_number": 23,
+        "session_key": 7780,
+        "meeting_key": 1143,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-02_Australian_Grand_Prix/2023-03-31_Practice_1/TeamRadio/ALEALB01_23_20230331_025058.mp3"
+    },
+    {
+        "date": "2023-03-31T02:28:43.167000",
+        "driver_number": 23,
+        "session_key": 7780,
+        "meeting_key": 1143,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-02_Australian_Grand_Prix/2023-03-31_Practice_1/TeamRadio/ALEALB01_23_20230331_032826.mp3"
+    },
+    {
+        "date": "2023-04-01T05:14:15.670000",
+        "driver_number": 23,
+        "session_key": 7783,
+        "meeting_key": 1143,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-02_Australian_Grand_Prix/2023-04-01_Qualifying/TeamRadio/ALEALB01_23_20230401_061347.mp3"
+    },
+    {
+        "date": "2023-04-01T06:12:31.614000",
+        "driver_number": 23,
+        "session_key": 7783,
+        "meeting_key": 1143,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-02_Australian_Grand_Prix/2023-04-01_Qualifying/TeamRadio/ALEALB01_23_20230401_071219.mp3"
+    },
+    {
+        "date": "2023-04-02T05:13:23.349000",
+        "driver_number": 23,
+        "session_key": 7787,
+        "meeting_key": 1143,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-02_Australian_Grand_Prix/2023-04-02_Race/TeamRadio/ALEALB01_23_20230402_061259.mp3"
+    },
+    {
+        "date": "2023-04-02T05:15:03.645000",
+        "driver_number": 23,
+        "session_key": 7787,
+        "meeting_key": 1143,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-02_Australian_Grand_Prix/2023-04-02_Race/TeamRadio/ALEALB01_23_20230402_051455.mp3"
+    },
+    {
+        "date": "2023-04-28T09:42:40.886000",
+        "driver_number": 23,
+        "session_key": 9063,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-28_Practice_1/TeamRadio/ALEALB01_23_20230428_104220.mp3"
+    },
+    {
+        "date": "2023-04-28T14:08:41.240000",
+        "driver_number": 23,
+        "session_key": 9064,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-28_Qualifying/TeamRadio/ALEALB01_23_20230428_150851.mp3"
+    },
+    {
+        "date": "2023-04-29T08:52:55.086000",
+        "driver_number": 23,
+        "session_key": 9278,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint_Shootout/TeamRadio/ALEALB01_23_20230429_095222.mp3"
+    },
+    {
+        "date": "2023-04-29T09:06:48.743000",
+        "driver_number": 23,
+        "session_key": 9278,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint_Shootout/TeamRadio/ALEALB01_23_20230429_090706.mp3"
+    },
+    {
+        "date": "2023-04-29T09:21:19.774000",
+        "driver_number": 23,
+        "session_key": 9278,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint_Shootout/TeamRadio/ALEALB01_23_20230429_102038.mp3"
+    },
+    {
+        "date": "2023-04-29T13:08:42.682000",
+        "driver_number": 23,
+        "session_key": 9069,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/TeamRadio/ALEALB01_23_20230429_140808.mp3"
+    },
+    {
+        "date": "2023-04-29T13:54:51.869000",
+        "driver_number": 23,
+        "session_key": 9069,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/TeamRadio/ALEALB01_23_20230429_145443.mp3"
+    },
+    {
+        "date": "2023-04-29T13:57:45.710000",
+        "driver_number": 23,
+        "session_key": 9069,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/TeamRadio/ALEALB01_23_20230429_145730.mp3"
+    },
+    {
+        "date": "2023-04-29T14:10:18.061000",
+        "driver_number": 23,
+        "session_key": 9069,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/TeamRadio/ALEALB01_23_20230429_151520.mp3"
+    },
+    {
+        "date": "2023-04-30T11:19:58.538000",
+        "driver_number": 23,
+        "session_key": 9070,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-30_Race/TeamRadio/ALEALB01_23_20230430_121949.mp3"
+    },
+    {
+        "date": "2023-04-30T11:36:41.786000",
+        "driver_number": 23,
+        "session_key": 9070,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-30_Race/TeamRadio/ALEALB01_23_20230430_123615.mp3"
+    },
+    {
+        "date": "2023-04-30T12:46:47.725000",
+        "driver_number": 23,
+        "session_key": 9070,
+        "meeting_key": 1207,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-30_Race/TeamRadio/ALEALB01_23_20230430_134755.mp3"
+    },
+    {
+        "date": "2023-05-05T18:06:50.639000",
+        "driver_number": 23,
+        "session_key": 9071,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-05_Practice_1/TeamRadio/ALEALB01_23_20230505_190643.mp3"
+    },
+    {
+        "date": "2023-05-05T18:06:50.639000",
+        "driver_number": 23,
+        "session_key": 9071,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-05_Practice_1/TeamRadio/ALEALB01_23_20230505_190634.mp3"
+    },
+    {
+        "date": "2023-05-05T22:08:56.584000",
+        "driver_number": 23,
+        "session_key": 9072,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-05_Practice_2/TeamRadio/ALEALB01_23_20230505_230821.mp3"
+    },
+    {
+        "date": "2023-05-05T22:12:49.894000",
+        "driver_number": 23,
+        "session_key": 9072,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-05_Practice_2/TeamRadio/ALEALB01_23_20230505_231232.mp3"
+    },
+    {
+        "date": "2023-05-05T22:17:18.094000",
+        "driver_number": 23,
+        "session_key": 9072,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-05_Practice_2/TeamRadio/ALEALB01_23_20230505_231650.mp3"
+    },
+    {
+        "date": "2023-05-06T16:53:20.048000",
+        "driver_number": 23,
+        "session_key": 9073,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-06_Practice_3/TeamRadio/ALEALB01_23_20230506_175339.mp3"
+    },
+    {
+        "date": "2023-05-06T16:55:00.088000",
+        "driver_number": 23,
+        "session_key": 9073,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-06_Practice_3/TeamRadio/ALEALB01_23_20230506_175437.mp3"
+    },
+    {
+        "date": "2023-05-06T20:02:10.511000",
+        "driver_number": 23,
+        "session_key": 9074,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-06_Qualifying/TeamRadio/ALEALB01_23_20230506_210150.mp3"
+    },
+    {
+        "date": "2023-05-06T20:05:31.101000",
+        "driver_number": 23,
+        "session_key": 9074,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-06_Qualifying/TeamRadio/ALEALB01_23_20230506_210458.mp3"
+    },
+    {
+        "date": "2023-05-06T20:43:57.810000",
+        "driver_number": 23,
+        "session_key": 9074,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-06_Qualifying/TeamRadio/ALEALB01_23_20230506_214413.mp3"
+    },
+    {
+        "date": "2023-05-07T18:53:15.178000",
+        "driver_number": 23,
+        "session_key": 9078,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/TeamRadio/ALEALB01_23_20230507_195239.mp3"
+    },
+    {
+        "date": "2023-05-07T20:16:53.106000",
+        "driver_number": 23,
+        "session_key": 9078,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/TeamRadio/ALEALB01_23_20230507_201616.mp3"
+    },
+    {
+        "date": "2023-05-07T20:25:20.726000",
+        "driver_number": 23,
+        "session_key": 9078,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/TeamRadio/ALEALB01_23_20230507_212504.mp3"
+    },
+    {
+        "date": "2023-05-07T20:25:54.663000",
+        "driver_number": 23,
+        "session_key": 9078,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/TeamRadio/ALEALB01_23_20230507_212515.mp3"
+    },
+    {
+        "date": "2023-05-07T21:06:01.620000",
+        "driver_number": 23,
+        "session_key": 9078,
+        "meeting_key": 1208,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/TeamRadio/ALEALB01_23_20230507_220719.mp3"
+    },
+    {
+        "date": "2023-05-26T11:59:27.909000",
+        "driver_number": 23,
+        "session_key": 9087,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-26_Practice_1/TeamRadio/ALEALB01_23_20230526_125909.mp3"
+    },
+    {
+        "date": "2023-05-26T12:00:35.002000",
+        "driver_number": 23,
+        "session_key": 9087,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-26_Practice_1/TeamRadio/ALEALB01_23_20230526_130004.mp3"
+    },
+    {
+        "date": "2023-05-26T15:56:25.029000",
+        "driver_number": 23,
+        "session_key": 9088,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-26_Practice_2/TeamRadio/ALEALB01_23_20230526_165600.mp3"
+    },
+    {
+        "date": "2023-05-27T10:17:52.777000",
+        "driver_number": 23,
+        "session_key": 9089,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-27_Practice_3/TeamRadio/ALEALB01_23_20230527_111745.mp3"
+    },
+    {
+        "date": "2023-05-27T10:54:57.814000",
+        "driver_number": 23,
+        "session_key": 9089,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-27_Practice_3/TeamRadio/ALEALB01_23_20230527_115450.mp3"
+    },
+    {
+        "date": "2023-05-27T11:06:43.649000",
+        "driver_number": 23,
+        "session_key": 9089,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-27_Practice_3/TeamRadio/ALEALB01_23_20230527_120608.mp3"
+    },
+    {
+        "date": "2023-05-27T11:08:55.082000",
+        "driver_number": 23,
+        "session_key": 9089,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-27_Practice_3/TeamRadio/ALEALB01_23_20230527_120838.mp3"
+    },
+    {
+        "date": "2023-05-27T14:39:29.238000",
+        "driver_number": 23,
+        "session_key": 9090,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-27_Qualifying/TeamRadio/ALEALB01_23_20230527_153856.mp3"
+    },
+    {
+        "date": "2023-05-27T14:53:25.561000",
+        "driver_number": 23,
+        "session_key": 9090,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-27_Qualifying/TeamRadio/ALEALB01_23_20230527_155302.mp3"
+    },
+    {
+        "date": "2023-05-28T12:21:03.049000",
+        "driver_number": 23,
+        "session_key": 9094,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/TeamRadio/ALEALB01_23_20230528_132029.mp3"
+    },
+    {
+        "date": "2023-05-28T13:50:56.344000",
+        "driver_number": 23,
+        "session_key": 9094,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/TeamRadio/ALEALB01_23_20230528_145047.mp3"
+    },
+    {
+        "date": "2023-05-28T14:40:14.228000",
+        "driver_number": 23,
+        "session_key": 9094,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/TeamRadio/ALEALB01_23_20230528_154001.mp3"
+    },
+    {
+        "date": "2023-05-28T14:48:04.470000",
+        "driver_number": 23,
+        "session_key": 9094,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/TeamRadio/ALEALB01_23_20230528_154728.mp3"
+    },
+    {
+        "date": "2023-05-28T14:57:10.585000",
+        "driver_number": 23,
+        "session_key": 9094,
+        "meeting_key": 1210,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/TeamRadio/ALEALB01_23_20230528_160513.mp3"
+    },
+    {
+        "date": "2023-06-02T11:41:02",
+        "driver_number": 23,
+        "session_key": 9095,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-02_Practice_1/TeamRadio/ALEALB01_23_20230602_124036.mp3"
+    },
+    {
+        "date": "2023-06-02T15:51:45.057000",
+        "driver_number": 23,
+        "session_key": 9096,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-02_Practice_2/TeamRadio/ALEALB01_23_20230602_165135.mp3"
+    },
+    {
+        "date": "2023-06-03T10:43:36.391000",
+        "driver_number": 23,
+        "session_key": 9097,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-03_Practice_3/TeamRadio/ALEALB01_23_20230603_114317.mp3"
+    },
+    {
+        "date": "2023-06-03T11:16:17.995000",
+        "driver_number": 23,
+        "session_key": 9097,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-03_Practice_3/TeamRadio/ALEALB01_23_20230603_121556.mp3"
+    },
+    {
+        "date": "2023-06-03T11:16:51.854000",
+        "driver_number": 23,
+        "session_key": 9097,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-03_Practice_3/TeamRadio/ALEALB01_23_20230603_121653.mp3"
+    },
+    {
+        "date": "2023-06-03T14:06:06.625000",
+        "driver_number": 23,
+        "session_key": 9098,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-03_Qualifying/TeamRadio/ALEALB01_23_20230603_150547.mp3"
+    },
+    {
+        "date": "2023-06-03T14:26:10.494000",
+        "driver_number": 23,
+        "session_key": 9098,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-03_Qualifying/TeamRadio/ALEALB01_23_20230603_152559.mp3"
+    },
+    {
+        "date": "2023-06-03T14:28:58.101000",
+        "driver_number": 23,
+        "session_key": 9098,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-03_Qualifying/TeamRadio/ALEALB01_23_20230603_152838.mp3"
+    },
+    {
+        "date": "2023-06-04T13:08:09.011000",
+        "driver_number": 23,
+        "session_key": 9102,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/TeamRadio/ALEALB01_23_20230604_140755.mp3"
+    },
+    {
+        "date": "2023-06-04T13:45:05.596000",
+        "driver_number": 23,
+        "session_key": 9102,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/TeamRadio/ALEALB01_23_20230604_144432.mp3"
+    },
+    {
+        "date": "2023-06-04T13:45:05.846000",
+        "driver_number": 23,
+        "session_key": 9102,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/TeamRadio/ALEALB01_23_20230604_144453.mp3"
+    },
+    {
+        "date": "2023-06-04T13:47:56.108000",
+        "driver_number": 23,
+        "session_key": 9102,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/TeamRadio/ALEALB01_23_20230604_144748.mp3"
+    },
+    {
+        "date": "2023-06-04T14:35:20.838000",
+        "driver_number": 23,
+        "session_key": 9102,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/TeamRadio/ALEALB01_23_20230604_153522.mp3"
+    },
+    {
+        "date": "2023-06-04T14:35:20.838000",
+        "driver_number": 23,
+        "session_key": 9102,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/TeamRadio/ALEALB01_23_20230604_153528.mp3"
+    },
+    {
+        "date": "2023-06-04T14:35:20.838000",
+        "driver_number": 23,
+        "session_key": 9102,
+        "meeting_key": 1211,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-04_Spanish_Grand_Prix/2023-06-04_Race/TeamRadio/ALEALB01_23_20230604_153532.mp3"
+    },
+    {
+        "date": "2023-06-16T21:21:27.005000",
+        "driver_number": 23,
+        "session_key": 9104,
+        "meeting_key": 1212,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-18_Canadian_Grand_Prix/2023-06-16_Practice_2/TeamRadio/ALEALB01_23_20230616_222103.mp3"
+    },
+    {
+        "date": "2023-06-17T16:49:38",
+        "driver_number": 23,
+        "session_key": 9105,
+        "meeting_key": 1212,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-18_Canadian_Grand_Prix/2023-06-17_Practice_3/TeamRadio/ALEALB01_23_20230617_174927.mp3"
+    },
+    {
+        "date": "2023-06-17T16:55:13.868000",
+        "driver_number": 23,
+        "session_key": 9105,
+        "meeting_key": 1212,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-18_Canadian_Grand_Prix/2023-06-17_Practice_3/TeamRadio/ALEALB01_23_20230617_175503.mp3"
+    },
+    {
+        "date": "2023-06-18T18:10:50.288000",
+        "driver_number": 23,
+        "session_key": 9110,
+        "meeting_key": 1212,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-18_Canadian_Grand_Prix/2023-06-18_Race/TeamRadio/ALEALB01_23_20230618_191019.mp3"
+    },
+    {
+        "date": "2023-06-18T19:10:36.490000",
+        "driver_number": 23,
+        "session_key": 9110,
+        "meeting_key": 1212,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-06-18_Canadian_Grand_Prix/2023-06-18_Race/TeamRadio/ALEALB01_23_20230618_201028.mp3"
+    },
+    {
+        "date": "2023-07-01T10:03:38.138000",
+        "driver_number": 23,
+        "session_key": 9282,
+        "meeting_key": 1213,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-02_Austrian_Grand_Prix/2023-07-01_Sprint_Shootout/TeamRadio/ALEALB01_23_20230701_110330.mp3"
+    },
+    {
+        "date": "2023-07-01T10:27:03.637000",
+        "driver_number": 23,
+        "session_key": 9282,
+        "meeting_key": 1213,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-02_Austrian_Grand_Prix/2023-07-01_Sprint_Shootout/TeamRadio/ALEALB01_23_20230701_112645.mp3"
+    },
+    {
+        "date": "2023-07-01T14:44:05.941000",
+        "driver_number": 23,
+        "session_key": 9117,
+        "meeting_key": 1213,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-02_Austrian_Grand_Prix/2023-07-01_Sprint/TeamRadio/ALEALB01_23_20230701_154327.mp3"
+    },
+    {
+        "date": "2023-07-01T15:09:15.159000",
+        "driver_number": 23,
+        "session_key": 9117,
+        "meeting_key": 1213,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-02_Austrian_Grand_Prix/2023-07-01_Sprint/TeamRadio/ALEALB01_23_20230701_160906.mp3"
+    },
+    {
+        "date": "2023-07-01T15:09:15.159000",
+        "driver_number": 23,
+        "session_key": 9117,
+        "meeting_key": 1213,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-02_Austrian_Grand_Prix/2023-07-01_Sprint/TeamRadio/ALEALB01_23_20230701_160900.mp3"
+    },
+    {
+        "date": "2023-07-02T13:47:16.444000",
+        "driver_number": 23,
+        "session_key": 9118,
+        "meeting_key": 1213,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/TeamRadio/ALEALB01_23_20230702_144651.mp3"
+    },
+    {
+        "date": "2023-07-02T13:59:01.713000",
+        "driver_number": 23,
+        "session_key": 9118,
+        "meeting_key": 1213,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/TeamRadio/ALEALB01_23_20230702_145827.mp3"
+    },
+    {
+        "date": "2023-07-02T14:33:14.598000",
+        "driver_number": 23,
+        "session_key": 9118,
+        "meeting_key": 1213,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/TeamRadio/ALEALB01_23_20230702_153447.mp3"
+    },
+    {
+        "date": "2023-07-02T14:33:14.598000",
+        "driver_number": 23,
+        "session_key": 9118,
+        "meeting_key": 1213,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-02_Austrian_Grand_Prix/2023-07-02_Race/TeamRadio/ALEALB01_23_20230702_153454.mp3"
+    },
+    {
+        "date": "2023-07-07T11:30:28.997000",
+        "driver_number": 23,
+        "session_key": 9119,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-07_Practice_1/TeamRadio/ALEALB01_23_20230707_123007.mp3"
+    },
+    {
+        "date": "2023-07-07T12:02:52.402000",
+        "driver_number": 23,
+        "session_key": 9119,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-07_Practice_1/TeamRadio/ALEALB01_23_20230707_130242.mp3"
+    },
+    {
+        "date": "2023-07-07T12:02:52.709000",
+        "driver_number": 23,
+        "session_key": 9119,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-07_Practice_1/TeamRadio/ALEALB01_23_20230707_130251.mp3"
+    },
+    {
+        "date": "2023-07-07T15:29:15.212000",
+        "driver_number": 23,
+        "session_key": 9120,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-07_Practice_2/TeamRadio/ALEALB01_23_20230707_162903.mp3"
+    },
+    {
+        "date": "2023-07-08T10:56:51.500000",
+        "driver_number": 23,
+        "session_key": 9121,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-08_Practice_3/TeamRadio/ALEALB01_23_20230708_115700.mp3"
+    },
+    {
+        "date": "2023-07-08T11:08:00.067000",
+        "driver_number": 23,
+        "session_key": 9121,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-08_Practice_3/TeamRadio/ALEALB01_23_20230708_120740.mp3"
+    },
+    {
+        "date": "2023-07-08T11:09:43.393000",
+        "driver_number": 23,
+        "session_key": 9121,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-08_Practice_3/TeamRadio/ALEALB01_23_20230708_120919.mp3"
+    },
+    {
+        "date": "2023-07-08T14:06:43.543000",
+        "driver_number": 23,
+        "session_key": 9122,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-08_Qualifying/TeamRadio/ALEALB01_23_20230708_150611.mp3"
+    },
+    {
+        "date": "2023-07-08T14:44:09.601000",
+        "driver_number": 23,
+        "session_key": 9122,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-08_Qualifying/TeamRadio/ALEALB01_23_20230708_154346.mp3"
+    },
+    {
+        "date": "2023-07-08T15:08:39.220000",
+        "driver_number": 23,
+        "session_key": 9122,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-08_Qualifying/TeamRadio/ALEALB01_23_20230708_160813.mp3"
+    },
+    {
+        "date": "2023-07-08T15:18:31.338000",
+        "driver_number": 23,
+        "session_key": 9122,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-08_Qualifying/TeamRadio/ALEALB01_23_20230708_162144.mp3"
+    },
+    {
+        "date": "2023-07-09T13:13:49.396000",
+        "driver_number": 23,
+        "session_key": 9126,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/TeamRadio/ALEALB01_23_20230709_141323.mp3"
+    },
+    {
+        "date": "2023-07-09T14:07:37.089000",
+        "driver_number": 23,
+        "session_key": 9126,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/TeamRadio/ALEALB01_23_20230709_150719.mp3"
+    },
+    {
+        "date": "2023-07-09T14:07:37.308000",
+        "driver_number": 23,
+        "session_key": 9126,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/TeamRadio/ALEALB01_23_20230709_150724.mp3"
+    },
+    {
+        "date": "2023-07-09T14:25:30.793000",
+        "driver_number": 23,
+        "session_key": 9126,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/TeamRadio/ALEALB01_23_20230709_152502.mp3"
+    },
+    {
+        "date": "2023-07-09T15:17:00.894000",
+        "driver_number": 23,
+        "session_key": 9126,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/TeamRadio/ALEALB01_23_20230709_161642.mp3"
+    },
+    {
+        "date": "2023-07-09T15:31:42.566000",
+        "driver_number": 23,
+        "session_key": 9126,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/TeamRadio/ALEALB01_23_20230709_163559.mp3"
+    },
+    {
+        "date": "2023-07-09T15:31:42.566000",
+        "driver_number": 23,
+        "session_key": 9126,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/TeamRadio/ALEALB01_23_20230709_163606.mp3"
+    },
+    {
+        "date": "2023-07-09T15:31:42.566000",
+        "driver_number": 23,
+        "session_key": 9126,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/TeamRadio/ALEALB01_23_20230709_163551.mp3"
+    },
+    {
+        "date": "2023-07-09T15:31:42.566000",
+        "driver_number": 23,
+        "session_key": 9126,
+        "meeting_key": 1214,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-09_British_Grand_Prix/2023-07-09_Race/TeamRadio/ALEALB01_23_20230709_163610.mp3"
+    },
+    {
+        "date": "2023-07-21T11:58:12.960000",
+        "driver_number": 23,
+        "session_key": 9223,
+        "meeting_key": 1215,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-21_Practice_1/TeamRadio/ALEALB01_23_20230721_125732.mp3"
+    },
+    {
+        "date": "2023-07-21T15:56:32.861000",
+        "driver_number": 23,
+        "session_key": 9127,
+        "meeting_key": 1215,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-21_Practice_2/TeamRadio/ALEALB01_23_20230721_165525.mp3"
+    },
+    {
+        "date": "2023-07-21T15:56:32.861000",
+        "driver_number": 23,
+        "session_key": 9127,
+        "meeting_key": 1215,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-21_Practice_2/TeamRadio/ALEALB01_23_20230721_165518.mp3"
+    },
+    {
+        "date": "2023-07-21T16:05:56.786000",
+        "driver_number": 23,
+        "session_key": 9127,
+        "meeting_key": 1215,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-21_Practice_2/TeamRadio/ALEALB01_23_20230721_170506.mp3"
+    },
+    {
+        "date": "2023-07-22T10:58:27.143000",
+        "driver_number": 23,
+        "session_key": 9128,
+        "meeting_key": 1215,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-22_Practice_3/TeamRadio/ALEALB01_23_20230722_115812.mp3"
+    },
+    {
+        "date": "2023-07-22T14:11:55.059000",
+        "driver_number": 23,
+        "session_key": 9129,
+        "meeting_key": 1215,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-22_Qualifying/TeamRadio/ALEALB01_23_20230722_151137.mp3"
+    },
+    {
+        "date": "2023-07-23T14:45:29.170000",
+        "driver_number": 23,
+        "session_key": 9133,
+        "meeting_key": 1215,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-23_Race/TeamRadio/ALEALB01_23_20230723_155301.mp3"
+    },
+    {
+        "date": "2023-07-23T14:45:29.170000",
+        "driver_number": 23,
+        "session_key": 9133,
+        "meeting_key": 1215,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-23_Race/TeamRadio/ALEALB01_23_20230723_155250.mp3"
+    },
+    {
+        "date": "2023-07-28T11:32:40.202000",
+        "driver_number": 23,
+        "session_key": 9134,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-28_Practice_1/TeamRadio/ALEALB01_23_20230728_123209.mp3"
+    },
+    {
+        "date": "2023-07-28T15:17:19.900000",
+        "driver_number": 23,
+        "session_key": 9135,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-28_Qualifying/TeamRadio/ALEALB01_23_20230728_161652.mp3"
+    },
+    {
+        "date": "2023-07-29T11:06:03.300000",
+        "driver_number": 23,
+        "session_key": 9286,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-29_Sprint_Shootout/TeamRadio/ALEALB01_23_20230729_120509.mp3"
+    },
+    {
+        "date": "2023-07-29T14:34:52.198000",
+        "driver_number": 23,
+        "session_key": 9140,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-29_Sprint/TeamRadio/ALEALB01_23_20230729_153425.mp3"
+    },
+    {
+        "date": "2023-07-29T14:34:52.419000",
+        "driver_number": 23,
+        "session_key": 9140,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-29_Sprint/TeamRadio/ALEALB01_23_20230729_153437.mp3"
+    },
+    {
+        "date": "2023-07-29T16:19:26.278000",
+        "driver_number": 23,
+        "session_key": 9140,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-29_Sprint/TeamRadio/ALEALB01_23_20230729_172031.mp3"
+    },
+    {
+        "date": "2023-07-30T12:12:39.991000",
+        "driver_number": 23,
+        "session_key": 9141,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/TeamRadio/ALEALB01_23_20230730_131229.mp3"
+    },
+    {
+        "date": "2023-07-30T12:22:10.907000",
+        "driver_number": 23,
+        "session_key": 9141,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/TeamRadio/ALEALB01_23_20230730_132136.mp3"
+    },
+    {
+        "date": "2023-07-30T14:32:30.836000",
+        "driver_number": 23,
+        "session_key": 9141,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/TeamRadio/ALEALB01_23_20230730_153145.mp3"
+    },
+    {
+        "date": "2023-07-30T14:32:30.836000",
+        "driver_number": 23,
+        "session_key": 9141,
+        "meeting_key": 1216,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-30_Belgian_Grand_Prix/2023-07-30_Race/TeamRadio/ALEALB01_23_20230730_153213.mp3"
+    },
+    {
+        "date": "2023-08-25T11:08:38.575000",
+        "driver_number": 23,
+        "session_key": 9142,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-25_Practice_1/TeamRadio/ALEALB01_23_20230825_120815.mp3"
+    },
+    {
+        "date": "2023-08-25T11:19:50.563000",
+        "driver_number": 23,
+        "session_key": 9142,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-25_Practice_1/TeamRadio/ALEALB01_23_20230825_121915.mp3"
+    },
+    {
+        "date": "2023-08-25T14:43:41.078000",
+        "driver_number": 23,
+        "session_key": 9143,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-25_Practice_2/TeamRadio/ALEALB01_23_20230825_154253.mp3"
+    },
+    {
+        "date": "2023-08-26T09:36:50.836000",
+        "driver_number": 23,
+        "session_key": 9144,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-26_Practice_3/TeamRadio/ALEALB01_23_20230826_103632.mp3"
+    },
+    {
+        "date": "2023-08-26T10:15:25.183000",
+        "driver_number": 23,
+        "session_key": 9144,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-26_Practice_3/TeamRadio/ALEALB01_23_20230826_111452.mp3"
+    },
+    {
+        "date": "2023-08-26T13:24:00.822000",
+        "driver_number": 23,
+        "session_key": 9145,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-26_Qualifying/TeamRadio/ALEALB01_23_20230826_142400.mp3"
+    },
+    {
+        "date": "2023-08-26T13:32:59.848000",
+        "driver_number": 23,
+        "session_key": 9145,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-26_Qualifying/TeamRadio/ALEALB01_23_20230826_143243.mp3"
+    },
+    {
+        "date": "2023-08-26T13:36:22.517000",
+        "driver_number": 23,
+        "session_key": 9145,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-26_Qualifying/TeamRadio/ALEALB01_23_20230826_143557.mp3"
+    },
+    {
+        "date": "2023-08-26T14:10:27.806000",
+        "driver_number": 23,
+        "session_key": 9145,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-26_Qualifying/TeamRadio/ALEALB01_23_20230826_150958.mp3"
+    },
+    {
+        "date": "2023-08-26T14:28:20.200000",
+        "driver_number": 23,
+        "session_key": 9145,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-26_Qualifying/TeamRadio/ALEALB01_23_20230826_152957.mp3"
+    },
+    {
+        "date": "2023-08-26T14:28:20.200000",
+        "driver_number": 23,
+        "session_key": 9145,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-26_Qualifying/TeamRadio/ALEALB01_23_20230826_152857.mp3"
+    },
+    {
+        "date": "2023-08-26T14:28:20.200000",
+        "driver_number": 23,
+        "session_key": 9145,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-26_Qualifying/TeamRadio/ALEALB01_23_20230826_153018.mp3"
+    },
+    {
+        "date": "2023-08-27T12:17:50.006000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_141808.mp3"
+    },
+    {
+        "date": "2023-08-27T12:21:12.643000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_132103.mp3"
+    },
+    {
+        "date": "2023-08-27T13:05:59.330000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_140523.mp3"
+    },
+    {
+        "date": "2023-08-27T13:09:24.983000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_140907.mp3"
+    },
+    {
+        "date": "2023-08-27T13:19:32.144000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_141904.mp3"
+    },
+    {
+        "date": "2023-08-27T13:35:21.455000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_143458.mp3"
+    },
+    {
+        "date": "2023-08-27T13:38:43.092000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_143816.mp3"
+    },
+    {
+        "date": "2023-08-27T13:39:17.295000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_143905.mp3"
+    },
+    {
+        "date": "2023-08-27T13:57:20.556000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_145655.mp3"
+    },
+    {
+        "date": "2023-08-27T14:13:08.383000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_151229.mp3"
+    },
+    {
+        "date": "2023-08-27T14:20:25.266000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_151915.mp3"
+    },
+    {
+        "date": "2023-08-27T14:36:13.469000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_153603.mp3"
+    },
+    {
+        "date": "2023-08-27T14:37:22.779000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_153654.mp3"
+    },
+    {
+        "date": "2023-08-27T15:23:21.996000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_162306.mp3"
+    },
+    {
+        "date": "2023-08-27T15:39:11.276000",
+        "driver_number": 23,
+        "session_key": 9149,
+        "meeting_key": 1217,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-08-27_Dutch_Grand_Prix/2023-08-27_Race/TeamRadio/ALEALB01_23_20230827_163811.mp3"
+    },
+    {
+        "date": "2023-09-01T12:03:37.407000",
+        "driver_number": 23,
+        "session_key": 9150,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-01_Practice_1/TeamRadio/ALEALB01_23_20230901_130256.mp3"
+    },
+    {
+        "date": "2023-09-01T15:14:34.849000",
+        "driver_number": 23,
+        "session_key": 9151,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-01_Practice_2/TeamRadio/ALEALB01_23_20230901_161415.mp3"
+    },
+    {
+        "date": "2023-09-01T15:49:17.641000",
+        "driver_number": 23,
+        "session_key": 9151,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-01_Practice_2/TeamRadio/ALEALB01_23_20230901_164856.mp3"
+    },
+    {
+        "date": "2023-09-01T15:56:00.395000",
+        "driver_number": 23,
+        "session_key": 9151,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-01_Practice_2/TeamRadio/ALEALB01_23_20230901_165546.mp3"
+    },
+    {
+        "date": "2023-09-01T16:01:04.957000",
+        "driver_number": 23,
+        "session_key": 9151,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-01_Practice_2/TeamRadio/ALEALB01_23_20230901_170021.mp3"
+    },
+    {
+        "date": "2023-09-02T11:08:11.673000",
+        "driver_number": 23,
+        "session_key": 9152,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-02_Practice_3/TeamRadio/ALEALB01_23_20230902_120805.mp3"
+    },
+    {
+        "date": "2023-09-02T14:05:38.565000",
+        "driver_number": 23,
+        "session_key": 9153,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-02_Qualifying/TeamRadio/ALEALB01_23_20230902_150516.mp3"
+    },
+    {
+        "date": "2023-09-02T14:40:29.526000",
+        "driver_number": 23,
+        "session_key": 9153,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-02_Qualifying/TeamRadio/ALEALB01_23_20230902_154017.mp3"
+    },
+    {
+        "date": "2023-09-02T15:03:39.448000",
+        "driver_number": 23,
+        "session_key": 9153,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-02_Qualifying/TeamRadio/ALEALB01_23_20230902_160512.mp3"
+    },
+    {
+        "date": "2023-09-03T13:08:46.780000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_140836.mp3"
+    },
+    {
+        "date": "2023-09-03T13:33:40.763000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_143335.mp3"
+    },
+    {
+        "date": "2023-09-03T13:41:41.039000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_144120.mp3"
+    },
+    {
+        "date": "2023-09-03T13:42:46.903000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_144233.mp3"
+    },
+    {
+        "date": "2023-09-03T13:44:29.162000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_144413.mp3"
+    },
+    {
+        "date": "2023-09-03T14:07:45.662000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_150716.mp3"
+    },
+    {
+        "date": "2023-09-03T14:13:56.783000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_161408.mp3"
+    },
+    {
+        "date": "2023-09-03T14:24:05.370000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_152347.mp3"
+    },
+    {
+        "date": "2023-09-03T14:27:29.461000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_152651.mp3"
+    },
+    {
+        "date": "2023-09-03T14:37:02.901000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_153639.mp3"
+    },
+    {
+        "date": "2023-09-03T14:44:22.356000",
+        "driver_number": 23,
+        "session_key": 9157,
+        "meeting_key": 1218,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-03_Italian_Grand_Prix/2023-09-03_Race/TeamRadio/ALEALB01_23_20230903_154311.mp3"
+    },
+    {
+        "date": "2023-09-15T09:39:37.678000",
+        "driver_number": 23,
+        "session_key": 9158,
+        "meeting_key": 1219,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-17_Singapore_Grand_Prix/2023-09-15_Practice_1/TeamRadio/ALEALB01_23_20230915_103908.mp3"
+    },
+    {
+        "date": "2023-09-15T13:05:07.363000",
+        "driver_number": 23,
+        "session_key": 9159,
+        "meeting_key": 1219,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-17_Singapore_Grand_Prix/2023-09-15_Practice_2/TeamRadio/ALEALB01_23_20230915_140459.mp3"
+    },
+    {
+        "date": "2023-09-15T13:10:09.470000",
+        "driver_number": 23,
+        "session_key": 9159,
+        "meeting_key": 1219,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-17_Singapore_Grand_Prix/2023-09-15_Practice_2/TeamRadio/ALEALB01_23_20230915_141043.mp3"
+    },
+    {
+        "date": "2023-09-16T13:23:36.441000",
+        "driver_number": 23,
+        "session_key": 9161,
+        "meeting_key": 1219,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-17_Singapore_Grand_Prix/2023-09-16_Qualifying/TeamRadio/ALEALB01_23_20230916_142256.mp3"
+    },
+    {
+        "date": "2023-09-17T12:16:11.884000",
+        "driver_number": 23,
+        "session_key": 9165,
+        "meeting_key": 1219,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-17_Singapore_Grand_Prix/2023-09-17_Race/TeamRadio/ALEALB01_23_20230917_131550.mp3"
+    },
+    {
+        "date": "2023-09-17T13:58:01.642000",
+        "driver_number": 23,
+        "session_key": 9165,
+        "meeting_key": 1219,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-17_Singapore_Grand_Prix/2023-09-17_Race/TeamRadio/ALEALB01_23_20230917_150442.mp3"
+    },
+    {
+        "date": "2023-09-22T02:30:06.517000",
+        "driver_number": 23,
+        "session_key": 9166,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-22_Practice_1/TeamRadio/ALEALB01_23_20230922_032933.mp3"
+    },
+    {
+        "date": "2023-09-22T02:49:16.075000",
+        "driver_number": 23,
+        "session_key": 9166,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-22_Practice_1/TeamRadio/ALEALB01_23_20230922_034855.mp3"
+    },
+    {
+        "date": "2023-09-22T03:20:35.858000",
+        "driver_number": 23,
+        "session_key": 9166,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-22_Practice_1/TeamRadio/ALEALB01_23_20230922_042000.mp3"
+    },
+    {
+        "date": "2023-09-22T06:17:35.497000",
+        "driver_number": 23,
+        "session_key": 9167,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-22_Practice_2/TeamRadio/ALEALB01_23_20230922_071707.mp3"
+    },
+    {
+        "date": "2023-09-22T06:52:53.094000",
+        "driver_number": 23,
+        "session_key": 9167,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-22_Practice_2/TeamRadio/ALEALB01_23_20230922_075247.mp3"
+    },
+    {
+        "date": "2023-09-23T02:55:05.791000",
+        "driver_number": 23,
+        "session_key": 9168,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-23_Practice_3/TeamRadio/ALEALB01_23_20230923_035443.mp3"
+    },
+    {
+        "date": "2023-09-23T02:57:53.676000",
+        "driver_number": 23,
+        "session_key": 9168,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-23_Practice_3/TeamRadio/ALEALB01_23_20230923_035727.mp3"
+    },
+    {
+        "date": "2023-09-23T06:07:19.256000",
+        "driver_number": 23,
+        "session_key": 9169,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-23_Qualifying/TeamRadio/ALEALB01_23_20230923_070640.mp3"
+    },
+    {
+        "date": "2023-09-23T06:29:07.726000",
+        "driver_number": 23,
+        "session_key": 9169,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-23_Qualifying/TeamRadio/ALEALB01_23_20230923_072855.mp3"
+    },
+    {
+        "date": "2023-09-23T06:44:53.012000",
+        "driver_number": 23,
+        "session_key": 9169,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-23_Qualifying/TeamRadio/ALEALB01_23_20230923_074413.mp3"
+    },
+    {
+        "date": "2023-09-24T05:13:01.212000",
+        "driver_number": 23,
+        "session_key": 9173,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/ALEALB01_23_20230924_061226.mp3"
+    },
+    {
+        "date": "2023-09-24T05:16:56.416000",
+        "driver_number": 23,
+        "session_key": 9173,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/ALEALB01_23_20230924_061638.mp3"
+    },
+    {
+        "date": "2023-09-24T05:20:21.219000",
+        "driver_number": 23,
+        "session_key": 9173,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/ALEALB01_23_20230924_062001.mp3"
+    },
+    {
+        "date": "2023-09-24T05:22:34.326000",
+        "driver_number": 23,
+        "session_key": 9173,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/ALEALB01_23_20230924_062206.mp3"
+    },
+    {
+        "date": "2023-09-24T05:37:46.654000",
+        "driver_number": 23,
+        "session_key": 9173,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/ALEALB01_23_20230924_063718.mp3"
+    },
+    {
+        "date": "2023-09-24T05:49:07.361000",
+        "driver_number": 23,
+        "session_key": 9173,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/ALEALB01_23_20230924_064833.mp3"
+    },
+    {
+        "date": "2023-10-21T18:01:32.689000",
+        "driver_number": 23,
+        "session_key": 9294,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-21_Sprint_Shootout/TeamRadio/ALEALB01_23_20231021_190145.mp3"
+    },
+    {
+        "date": "2023-10-21T18:09:59.007000",
+        "driver_number": 23,
+        "session_key": 9294,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-21_Sprint_Shootout/TeamRadio/ALEALB01_23_20231021_190939.mp3"
+    },
+    {
+        "date": "2023-10-21T18:17:29.890000",
+        "driver_number": 23,
+        "session_key": 9294,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-21_Sprint_Shootout/TeamRadio/ALEALB01_23_20231021_192042.mp3"
+    },
+    {
+        "date": "2023-10-21T21:59:56.453000",
+        "driver_number": 23,
+        "session_key": 9212,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-21_Sprint/TeamRadio/ALEALB01_23_20231021_225940.mp3"
+    },
+    {
+        "date": "2023-10-21T22:21:22.001000",
+        "driver_number": 23,
+        "session_key": 9212,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-21_Sprint/TeamRadio/ALEALB01_23_20231021_232050.mp3"
+    },
+    {
+        "date": "2023-10-21T22:26:28.544000",
+        "driver_number": 23,
+        "session_key": 9212,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-21_Sprint/TeamRadio/ALEALB01_23_20231021_232610.mp3"
+    },
+    {
+        "date": "2023-10-21T22:42:55.033000",
+        "driver_number": 23,
+        "session_key": 9212,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-21_Sprint/TeamRadio/ALEALB01_23_20231021_234216.mp3"
+    },
+    {
+        "date": "2023-10-22T18:21:48.994000",
+        "driver_number": 23,
+        "session_key": 9213,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/ALEALB01_23_20231022_192103.mp3"
+    },
+    {
+        "date": "2023-10-22T19:02:11.700000",
+        "driver_number": 23,
+        "session_key": 9213,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/ALEALB01_23_20231022_200153.mp3"
+    },
+    {
+        "date": "2023-10-22T19:46:55.293000",
+        "driver_number": 23,
+        "session_key": 9213,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/ALEALB01_23_20231022_204635.mp3"
+    },
+    {
+        "date": "2023-10-22T20:28:18.343000",
+        "driver_number": 23,
+        "session_key": 9213,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/ALEALB01_23_20231022_212808.mp3"
+    },
+    {
+        "date": "2023-10-22T20:32:52.385000",
+        "driver_number": 23,
+        "session_key": 9213,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/ALEALB01_23_20231022_213215.mp3"
+    },
+    {
+        "date": "2023-10-22T20:33:25.790000",
+        "driver_number": 23,
+        "session_key": 9213,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/ALEALB01_23_20231022_213308.mp3"
+    },
+    {
+        "date": "2023-10-22T20:49:42.320000",
+        "driver_number": 23,
+        "session_key": 9213,
+        "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/ALEALB01_23_20231022_214914.mp3"
+    },
+    {
+        "date": "2023-10-27T18:53:09.618000",
+        "driver_number": 23,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ALEALB01_23_20231027_195254.mp3"
+    },
+    {
+        "date": "2023-10-27T18:56:00.147000",
+        "driver_number": 23,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ALEALB01_23_20231027_195550.mp3"
+    },
+    {
+        "date": "2023-10-27T19:17:55.150000",
+        "driver_number": 23,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ALEALB01_23_20231027_201737.mp3"
+    },
+    {
+        "date": "2023-10-27T19:30:20.936000",
+        "driver_number": 23,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ALEALB01_23_20231027_202942.mp3"
+    },
+    {
+        "date": "2023-10-27T22:39:38.372000",
+        "driver_number": 23,
+        "session_key": 9175,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_2/TeamRadio/ALEALB01_23_20231027_233916.mp3"
+    },
+    {
+        "date": "2023-10-28T18:00:35.540000",
+        "driver_number": 23,
+        "session_key": 9176,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-28_Practice_3/TeamRadio/ALEALB01_23_20231028_185956.mp3"
+    },
+    {
+        "date": "2023-10-28T18:05:06.334000",
+        "driver_number": 23,
+        "session_key": 9176,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-28_Practice_3/TeamRadio/ALEALB01_23_20231028_190428.mp3"
+    },
+    {
+        "date": "2023-10-28T18:12:57.751000",
+        "driver_number": 23,
+        "session_key": 9176,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-28_Practice_3/TeamRadio/ALEALB01_23_20231028_191240.mp3"
+    },
+    {
+        "date": "2023-10-28T21:10:17.523000",
+        "driver_number": 23,
+        "session_key": 9177,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-28_Qualifying/TeamRadio/ALEALB01_23_20231028_221001.mp3"
+    },
+    {
+        "date": "2023-10-28T21:17:05.775000",
+        "driver_number": 23,
+        "session_key": 9177,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-28_Qualifying/TeamRadio/ALEALB01_23_20231028_221607.mp3"
+    },
+    {
+        "date": "2023-10-28T21:32:21.383000",
+        "driver_number": 23,
+        "session_key": 9177,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-28_Qualifying/TeamRadio/ALEALB01_23_20231028_223156.mp3"
+    },
+    {
+        "date": "2023-10-28T21:37:22.052000",
+        "driver_number": 23,
+        "session_key": 9177,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-28_Qualifying/TeamRadio/ALEALB01_23_20231028_223704.mp3"
+    },
+    {
+        "date": "2023-10-29T20:13:30.295000",
+        "driver_number": 23,
+        "session_key": 9181,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/TeamRadio/ALEALB01_23_20231029_201302.mp3"
+    },
+    {
+        "date": "2023-10-29T20:35:48.599000",
+        "driver_number": 23,
+        "session_key": 9181,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/TeamRadio/ALEALB01_23_20231029_203531.mp3"
+    },
+    {
+        "date": "2023-10-29T21:24:52.594000",
+        "driver_number": 23,
+        "session_key": 9181,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/TeamRadio/ALEALB01_23_20231029_212425.mp3"
+    },
+    {
+        "date": "2023-10-29T21:33:59.226000",
+        "driver_number": 23,
+        "session_key": 9181,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/TeamRadio/ALEALB01_23_20231029_213327.mp3"
+    },
+    {
+        "date": "2023-10-29T21:36:14.958000",
+        "driver_number": 23,
+        "session_key": 9181,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/TeamRadio/ALEALB01_23_20231029_213537.mp3"
+    },
+    {
+        "date": "2023-10-29T22:11:21.530000",
+        "driver_number": 23,
+        "session_key": 9181,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-29_Race/TeamRadio/ALEALB01_23_20231029_221328.mp3"
+    },
+    {
+        "date": "2023-11-03T15:18:06.641000",
+        "driver_number": 23,
+        "session_key": 9198,
+        "meeting_key": 1224,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-05_S\u00e3o_Paulo_Grand_Prix/2023-11-03_Practice_1/TeamRadio/ALEALB01_23_20231103_151741.mp3"
+    },
+    {
+        "date": "2023-11-03T15:20:53.998000",
+        "driver_number": 23,
+        "session_key": 9198,
+        "meeting_key": 1224,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-05_S\u00e3o_Paulo_Grand_Prix/2023-11-03_Practice_1/TeamRadio/ALEALB01_23_20231103_152039.mp3"
+    },
+    {
+        "date": "2023-11-04T18:41:02.415000",
+        "driver_number": 23,
+        "session_key": 9204,
+        "meeting_key": 1224,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-05_S\u00e3o_Paulo_Grand_Prix/2023-11-04_Sprint/TeamRadio/ALEALB01_23_20231104_184041.mp3"
+    },
+    {
+        "date": "2023-11-04T18:42:10.758000",
+        "driver_number": 23,
+        "session_key": 9204,
+        "meeting_key": 1224,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-05_S\u00e3o_Paulo_Grand_Prix/2023-11-04_Sprint/TeamRadio/ALEALB01_23_20231104_184145.mp3"
+    },
+    {
+        "date": "2023-11-04T18:48:23.579000",
+        "driver_number": 23,
+        "session_key": 9204,
+        "meeting_key": 1224,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-05_S\u00e3o_Paulo_Grand_Prix/2023-11-04_Sprint/TeamRadio/ALEALB01_23_20231104_184810.mp3"
+    },
+    {
+        "date": "2023-11-04T19:06:15.663000",
+        "driver_number": 23,
+        "session_key": 9204,
+        "meeting_key": 1224,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-05_S\u00e3o_Paulo_Grand_Prix/2023-11-04_Sprint/TeamRadio/ALEALB01_23_20231104_190759.mp3"
+    },
+    {
+        "date": "2023-11-17T11:44:32.398000",
+        "driver_number": 23,
+        "session_key": 9183,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-17_Practice_2/TeamRadio/ALEALB01_23_20231117_114415.mp3"
+    },
+    {
+        "date": "2023-11-17T11:51:52.162000",
+        "driver_number": 23,
+        "session_key": 9183,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-17_Practice_2/TeamRadio/ALEALB01_23_20231117_115116.mp3"
+    },
+    {
+        "date": "2023-11-17T11:55:15.299000",
+        "driver_number": 23,
+        "session_key": 9183,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-17_Practice_2/TeamRadio/ALEALB01_23_20231117_115440.mp3"
+    },
+    {
+        "date": "2023-11-18T05:05:34.664000",
+        "driver_number": 23,
+        "session_key": 9184,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-17_Practice_3/TeamRadio/ALEALB01_23_20231118_050518.mp3"
+    },
+    {
+        "date": "2023-11-18T05:07:50.085000",
+        "driver_number": 23,
+        "session_key": 9184,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-17_Practice_3/TeamRadio/ALEALB01_23_20231118_050713.mp3"
+    },
+    {
+        "date": "2023-11-18T05:24:38.839000",
+        "driver_number": 23,
+        "session_key": 9184,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-17_Practice_3/TeamRadio/ALEALB01_23_20231118_052429.mp3"
+    },
+    {
+        "date": "2023-11-18T05:28:27.977000",
+        "driver_number": 23,
+        "session_key": 9184,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-17_Practice_3/TeamRadio/ALEALB01_23_20231118_053340.mp3"
+    },
+    {
+        "date": "2023-11-18T05:28:27.977000",
+        "driver_number": 23,
+        "session_key": 9184,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-17_Practice_3/TeamRadio/ALEALB01_23_20231118_053347.mp3"
+    },
+    {
+        "date": "2023-11-18T08:26:59.830000",
+        "driver_number": 23,
+        "session_key": 9314,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Qualifying/TeamRadio/ALEALB01_23_20231118_082622.mp3"
+    },
+    {
+        "date": "2023-11-18T08:29:15.695000",
+        "driver_number": 23,
+        "session_key": 9314,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Qualifying/TeamRadio/ALEALB01_23_20231118_082843.mp3"
+    },
+    {
+        "date": "2023-11-18T09:03:38.143000",
+        "driver_number": 23,
+        "session_key": 9314,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Qualifying/TeamRadio/ALEALB01_23_20231118_090348.mp3"
+    },
+    {
+        "date": "2023-11-19T06:02:12.526000",
+        "driver_number": 23,
+        "session_key": 9189,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/TeamRadio/ALEALB01_23_20231119_060156.mp3"
+    },
+    {
+        "date": "2023-11-19T06:43:54.232000",
+        "driver_number": 23,
+        "session_key": 9189,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/TeamRadio/ALEALB01_23_20231119_064330.mp3"
+    },
+    {
+        "date": "2023-11-19T06:47:59.587000",
+        "driver_number": 23,
+        "session_key": 9189,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/TeamRadio/ALEALB01_23_20231119_064717.mp3"
+    },
+    {
+        "date": "2023-11-19T07:01:13.760000",
+        "driver_number": 23,
+        "session_key": 9189,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/TeamRadio/ALEALB01_23_20231119_070038.mp3"
+    },
+    {
+        "date": "2023-11-19T07:24:42.986000",
+        "driver_number": 23,
+        "session_key": 9189,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/TeamRadio/ALEALB01_23_20231119_072408.mp3"
+    },
+    {
+        "date": "2023-11-19T07:28:45.106000",
+        "driver_number": 23,
+        "session_key": 9189,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/TeamRadio/ALEALB01_23_20231119_072750.mp3"
+    },
+    {
+        "date": "2023-11-19T07:41:58.233000",
+        "driver_number": 23,
+        "session_key": 9189,
+        "meeting_key": 1225,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-18_Las_Vegas_Grand_Prix/2023-11-18_Race/TeamRadio/ALEALB01_23_20231119_074055.mp3"
+    },
+    {
+        "date": "2023-11-24T13:43:42.779000",
+        "driver_number": 23,
+        "session_key": 9191,
+        "meeting_key": 1226,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_2/TeamRadio/ALEALB01_23_20231124_134334.mp3"
+    },
+    {
+        "date": "2023-11-24T13:44:17.357000",
+        "driver_number": 23,
+        "session_key": 9191,
+        "meeting_key": 1226,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_2/TeamRadio/ALEALB01_23_20231124_134345.mp3"
+    },
+    {
+        "date": "2023-11-25T14:12:56.840000",
+        "driver_number": 23,
+        "session_key": 9193,
+        "meeting_key": 1226,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-25_Qualifying/TeamRadio/ALEALB01_23_20231125_141254.mp3"
+    },
+    {
+        "date": "2023-11-26T13:19:12.555000",
+        "driver_number": 23,
+        "session_key": 9197,
+        "meeting_key": 1226,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-26_Race/TeamRadio/ALEALB01_23_20231126_131615.mp3"
+    },
+    {
+        "date": "2023-11-26T14:40:42.327000",
+        "driver_number": 23,
+        "session_key": 9197,
+        "meeting_key": 1226,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-26_Race/TeamRadio/ALEALB01_23_20231126_144956.mp3"
+    },
+    {
+        "session_key": 9465,
+        "meeting_key": 1229,
+        "driver_number": 23,
+        "date": "2024-02-29T12:18:09.103000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/ALEALB01_23_20240229_121741.mp3"
+    },
+    {
+        "session_key": 9465,
+        "meeting_key": 1229,
+        "driver_number": 23,
+        "date": "2024-02-29T12:24:21.642000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/ALEALB01_23_20240229_122417.mp3"
+    }
+]
