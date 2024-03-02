@@ -18,7 +18,7 @@ logger_file_handler.setFormatter(formatter)
 logger.addHandler(logger_file_handler)
 
 # TODO: get current_driver_numbers automatically
-current_driver_numbers = [1, 2, 23, 24, 77, 11, 33, 44, 63, 4, 81, 20, 27, 16, 55, 14, 18, 3, 10, 22, 31]
+current_driver_numbers = range(1,100)
 
 def fetch_all():
     response = requests.get('https://api.openf1.org/v1/team_radio')
@@ -39,7 +39,8 @@ def fetch_from_local():
 def split_radios_per_driver(data):
     for driver_number in current_driver_numbers:
         driver_data = filter_by_driver_number(data, driver_number)
-        save_driver_data(driver_data, driver_number)
+        if driver_data != []:
+            save_driver_data(driver_data, driver_number)
     
 def filter_by_driver_number(data, driver_number):
     return [entry for entry in data if entry['driver_number'] == driver_number]
