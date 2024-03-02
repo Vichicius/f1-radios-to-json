@@ -17,7 +17,7 @@ formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(messag
 logger_file_handler.setFormatter(formatter)
 logger.addHandler(logger_file_handler)
 
-
+# TODO: get current_driver_numbers automatically
 current_driver_numbers = [1, 2, 23, 24, 77, 11, 33, 44, 63, 4, 81, 20, 27, 16, 55, 14, 18, 3, 10, 22, 31]
 
 def fetch_all():
@@ -50,8 +50,8 @@ def save_driver_data(driver_data, driver_number):
         logger.info(f'Saved radio data from driver nº {driver_number}')
 
 def main():
-    # data = fetch_all()
-    data = fetch_from_local()
+    data = fetch_all()
+    # data = fetch_from_local() # Use to test without making API calls
     split_radios_per_driver(data)
 
 
