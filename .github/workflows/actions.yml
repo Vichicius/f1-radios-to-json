@@ -2,7 +2,8 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '* 23 * * 4-6' # At 23:00 on Fri, Sat, Sun
+    - cron: '45 23 * * 0,5,6' # At 23:45 on Fri, Sat, Sun
+  workflow_dispatch:
 
 jobs:
   build:
