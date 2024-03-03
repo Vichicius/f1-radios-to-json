@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2023-10-27T18:36:13.741000",
+        "driver_number": 41,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ISAHAD01_41_20231027_193521.mp3"
+    },
+    {
+        "date": "2023-10-27T18:46:59.743000",
+        "driver_number": 41,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ISAHAD01_41_20231027_194636.mp3"
+    },
+    {
+        "date": "2023-10-27T19:07:48.264000",
+        "driver_number": 41,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ISAHAD01_41_20231027_200718.mp3"
+    },
+    {
+        "date": "2023-10-27T19:11:43.855000",
+        "driver_number": 41,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ISAHAD01_41_20231027_201134.mp3"
+    },
+    {
+        "date": "2023-10-27T19:13:25.292000",
+        "driver_number": 41,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ISAHAD01_41_20231027_201257.mp3"
+    },
+    {
+        "date": "2023-10-27T19:27:30.650000",
+        "driver_number": 41,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ISAHAD01_41_20231027_202712.mp3"
+    },
+    {
+        "date": "2023-10-27T19:32:36.357000",
+        "driver_number": 41,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ISAHAD01_41_20231027_203157.mp3"
+    },
+    {
+        "date": "2023-10-27T19:35:59.448000",
+        "driver_number": 41,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/ISAHAD01_41_20231027_203512.mp3"
+    }
+]

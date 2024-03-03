@@ -1,0 +1,58 @@
+[
+    {
+        "date": "2023-10-27T18:40:47.439000",
+        "driver_number": 50,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_194024.mp3"
+    },
+    {
+        "date": "2023-10-27T18:55:58.022000",
+        "driver_number": 50,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_195531.mp3"
+    },
+    {
+        "date": "2023-10-27T18:59:20.785000",
+        "driver_number": 50,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_195838.mp3"
+    },
+    {
+        "date": "2023-10-27T19:11:43.574000",
+        "driver_number": 50,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_201133.mp3"
+    },
+    {
+        "date": "2023-10-27T19:25:15.893000",
+        "driver_number": 50,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_202453.mp3"
+    },
+    {
+        "date": "2023-10-27T19:29:46.140000",
+        "driver_number": 50,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_202922.mp3"
+    },
+    {
+        "date": "2023-10-27T19:36:22.057000",
+        "driver_number": 50,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_203657.mp3"
+    },
+    {
+        "date": "2023-11-24T10:01:58.611000",
+        "driver_number": 50,
+        "session_key": 9190,
+        "meeting_key": 1226,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/OLIBEA01_50_20231124_100128.mp3"
+    }
+]
