@@ -2889,5 +2889,61 @@
         "driver_number": 11,
         "date": "2024-02-29T12:25:29.503000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240229_122523.mp3"
+    },
+    {
+        "session_key": 9491,
+        "meeting_key": 1232,
+        "driver_number": 11,
+        "date": "2024-04-06T02:35:47.317000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240406_033501.mp3"
+    },
+    {
+        "session_key": 9491,
+        "meeting_key": 1232,
+        "driver_number": 11,
+        "date": "2024-04-06T03:18:46.569000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240406_041826.mp3"
+    },
+    {
+        "session_key": 9491,
+        "meeting_key": 1232,
+        "driver_number": 11,
+        "date": "2024-04-06T03:27:16.795000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240406_042811.mp3"
+    },
+    {
+        "session_key": 9492,
+        "meeting_key": 1232,
+        "driver_number": 11,
+        "date": "2024-04-06T06:30:13.172000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240406_072952.mp3"
+    },
+    {
+        "session_key": 9492,
+        "meeting_key": 1232,
+        "driver_number": 11,
+        "date": "2024-04-06T06:31:54.883000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240406_073143.mp3"
+    },
+    {
+        "session_key": 9492,
+        "meeting_key": 1232,
+        "driver_number": 11,
+        "date": "2024-04-06T06:34:12.760000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240406_073401.mp3"
+    },
+    {
+        "session_key": 9492,
+        "meeting_key": 1232,
+        "driver_number": 11,
+        "date": "2024-04-06T06:52:20.599000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240406_075208.mp3"
+    },
+    {
+        "session_key": 9492,
+        "meeting_key": 1232,
+        "driver_number": 11,
+        "date": "2024-04-06T06:54:35.966000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240406_075413.mp3"
     }
 ]

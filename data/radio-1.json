@@ -3638,5 +3638,12 @@
         "driver_number": 1,
         "date": "2024-02-29T12:31:45.117000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/MAXVER01_1_20240229_123110.mp3"
+    },
+    {
+        "session_key": 9492,
+        "meeting_key": 1232,
+        "driver_number": 1,
+        "date": "2024-04-06T07:02:32.056000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/MAXVER01_1_20240406_080305.mp3"
     }
 ]
