@@ -1334,14 +1334,14 @@
         "driver_number": 16,
         "session_key": 9129,
         "meeting_key": 1215,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-22_Qualifying/TeamRadio/CHALEC01_16_20230722_160424.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-22_Qualifying/TeamRadio/CHALEC01_16_20230722_160420.mp3"
     },
     {
         "date": "2023-07-22T15:04:18.727000",
         "driver_number": 16,
         "session_key": 9129,
         "meeting_key": 1215,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-22_Qualifying/TeamRadio/CHALEC01_16_20230722_160420.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-07-23_Hungarian_Grand_Prix/2023-07-22_Qualifying/TeamRadio/CHALEC01_16_20230722_160424.mp3"
     },
     {
         "date": "2023-07-23T14:00:54.030000",
@@ -2027,13 +2027,6 @@
         "driver_number": 16,
         "session_key": 9173,
         "meeting_key": 1220,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/CHALEC01_16_20230924_074529.mp3"
-    },
-    {
-        "date": "2023-09-24T06:39:03.214000",
-        "driver_number": 16,
-        "session_key": 9173,
-        "meeting_key": 1220,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/CHALEC01_16_20230924_074159.mp3"
     },
     {
@@ -2042,6 +2035,13 @@
         "session_key": 9173,
         "meeting_key": 1220,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/CHALEC01_16_20230924_074206.mp3"
+    },
+    {
+        "date": "2023-09-24T06:39:03.214000",
+        "driver_number": 16,
+        "session_key": 9173,
+        "meeting_key": 1220,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-24_Race/TeamRadio/CHALEC01_16_20230924_074529.mp3"
     },
     {
         "date": "2023-09-24T06:39:03.214000",
@@ -2160,6 +2160,13 @@
         "driver_number": 16,
         "session_key": 9213,
         "meeting_key": 1222,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/CHALEC01_16_20231022_214658.mp3"
+    },
+    {
+        "date": "2023-10-22T20:46:54.276000",
+        "driver_number": 16,
+        "session_key": 9213,
+        "meeting_key": 1222,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/CHALEC01_16_20231022_214651.mp3"
     },
     {
@@ -2168,13 +2175,6 @@
         "session_key": 9213,
         "meeting_key": 1222,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/CHALEC01_16_20231022_214655.mp3"
-    },
-    {
-        "date": "2023-10-22T20:46:54.276000",
-        "driver_number": 16,
-        "session_key": 9213,
-        "meeting_key": 1222,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-22_United_States_Grand_Prix/2023-10-22_Race/TeamRadio/CHALEC01_16_20231022_214658.mp3"
     },
     {
         "date": "2023-10-27T18:36:49.004000",
@@ -2699,14 +2699,14 @@
         "meeting_key": 1232,
         "driver_number": 16,
         "date": "2024-04-06T03:29:32.151000",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240406_042913.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240406_042907.mp3"
     },
     {
         "session_key": 9491,
         "meeting_key": 1232,
         "driver_number": 16,
         "date": "2024-04-06T03:29:32.151000",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240406_042907.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240406_042913.mp3"
     },
     {
         "session_key": 9492,
@@ -2812,5 +2812,82 @@
         "driver_number": 16,
         "date": "2024-04-07T07:02:23.164000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240407_081201.mp3"
+    },
+    {
+        "session_key": 9663,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T03:55:36.656000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_045515.mp3"
+    },
+    {
+        "session_key": 9663,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T04:19:19.202000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_051859.mp3"
+    },
+    {
+        "session_key": 9663,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T04:31:46.370000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_053108.mp3"
+    },
+    {
+        "session_key": 9663,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T04:32:18.546000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_053140.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T07:33:21.055000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_083302.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T07:52:35.236000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_085358.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T07:59:24.782000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_085910.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T08:11:18.559000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_091052.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T08:13:02.071000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_091428.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T08:16:25.280000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_091611.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 16,
+        "date": "2024-04-19T08:24:54.340000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CHALEC01_16_20240419_092416.mp3"
     }
 ]

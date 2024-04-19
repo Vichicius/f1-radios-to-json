@@ -739,14 +739,14 @@
         "driver_number": 55,
         "session_key": 9094,
         "meeting_key": 1210,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/TeamRadio/CARSAI01_55_20230528_143455.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/TeamRadio/CARSAI01_55_20230528_143443.mp3"
     },
     {
         "date": "2023-05-28T13:35:08.439000",
         "driver_number": 55,
         "session_key": 9094,
         "meeting_key": 1210,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/TeamRadio/CARSAI01_55_20230528_143443.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-05-28_Monaco_Grand_Prix/2023-05-28_Race/TeamRadio/CARSAI01_55_20230528_143455.mp3"
     },
     {
         "date": "2023-05-28T13:36:49.359000",
@@ -2412,14 +2412,14 @@
         "driver_number": 55,
         "session_key": 9175,
         "meeting_key": 1223,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_2/TeamRadio/CARSAI01_55_20231027_233215.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_2/TeamRadio/CARSAI01_55_20231027_233233.mp3"
     },
     {
         "date": "2023-10-27T22:32:51.892000",
         "driver_number": 55,
         "session_key": 9175,
         "meeting_key": 1223,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_2/TeamRadio/CARSAI01_55_20231027_233233.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_2/TeamRadio/CARSAI01_55_20231027_233215.mp3"
     },
     {
         "date": "2023-10-27T22:37:23.343000",
@@ -2896,5 +2896,47 @@
         "driver_number": 55,
         "date": "2024-04-07T06:51:14.533000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CARSAI01_55_20240407_075050.mp3"
+    },
+    {
+        "session_key": 9663,
+        "meeting_key": 1233,
+        "driver_number": 55,
+        "date": "2024-04-19T03:54:30.027000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CARSAI01_55_20240419_045353.mp3"
+    },
+    {
+        "session_key": 9663,
+        "meeting_key": 1233,
+        "driver_number": 55,
+        "date": "2024-04-19T04:30:02.394000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CARSAI01_55_20240419_052932.mp3"
+    },
+    {
+        "session_key": 9663,
+        "meeting_key": 1233,
+        "driver_number": 55,
+        "date": "2024-04-19T04:33:26.647000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CARSAI01_55_20240419_053311.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 55,
+        "date": "2024-04-19T08:15:52.522000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CARSAI01_55_20240419_091518.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 55,
+        "date": "2024-04-19T08:20:23.252000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CARSAI01_55_20240419_092001.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 55,
+        "date": "2024-04-19T08:25:56.460000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CARSAI01_55_20240419_092551.mp3"
     }
 ]

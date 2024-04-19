@@ -1110,14 +1110,14 @@
         "driver_number": 77,
         "session_key": 9169,
         "meeting_key": 1220,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-23_Qualifying/TeamRadio/VALBOT01_77_20230923_073517.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-23_Qualifying/TeamRadio/VALBOT01_77_20230923_073545.mp3"
     },
     {
         "date": "2023-09-23T06:35:55.971000",
         "driver_number": 77,
         "session_key": 9169,
         "meeting_key": 1220,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-23_Qualifying/TeamRadio/VALBOT01_77_20230923_073545.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-09-24_Japanese_Grand_Prix/2023-09-23_Qualifying/TeamRadio/VALBOT01_77_20230923_073517.mp3"
     },
     {
         "date": "2023-09-24T05:06:15.297000",
@@ -1510,5 +1510,26 @@
         "driver_number": 77,
         "date": "2024-04-07T07:02:23.164000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/VALBOT01_77_20240407_080423.mp3"
+    },
+    {
+        "session_key": 9663,
+        "meeting_key": 1233,
+        "driver_number": 77,
+        "date": "2024-04-19T03:36:27.289000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/VALBOT01_77_20240419_043548.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 77,
+        "date": "2024-04-19T07:54:53.854000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/VALBOT01_77_20240419_085415.mp3"
+    },
+    {
+        "session_key": 9668,
+        "meeting_key": 1233,
+        "driver_number": 77,
+        "date": "2024-04-19T08:14:09.391000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/VALBOT01_77_20240419_091339.mp3"
     }
 ]
