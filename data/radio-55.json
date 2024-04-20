@@ -2938,5 +2938,12 @@
         "driver_number": 55,
         "date": "2024-04-19T08:25:56.460000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CARSAI01_55_20240419_092551.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 55,
+        "date": "2024-04-20T02:35:19.699000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/CARSAI01_55_20240420_033500.mp3"
     }
 ]

@@ -3414,5 +3414,54 @@
         "driver_number": 44,
         "date": "2024-04-19T08:14:43.321000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/LEWHAM01_44_20240419_091428.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 44,
+        "date": "2024-04-20T03:01:49.266000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/LEWHAM01_44_20240420_040126.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 44,
+        "date": "2024-04-20T03:01:49.266000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/LEWHAM01_44_20240420_040132.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 44,
+        "date": "2024-04-20T03:13:08.859000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/LEWHAM01_44_20240420_041239.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 44,
+        "date": "2024-04-20T03:19:57.357000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/LEWHAM01_44_20240420_041945.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 44,
+        "date": "2024-04-20T03:26:20.608000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/LEWHAM01_44_20240420_042605.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 44,
+        "date": "2024-04-20T03:26:20.706000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/LEWHAM01_44_20240420_042609.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 44,
+        "date": "2024-04-20T03:34:54.814000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/LEWHAM01_44_20240420_043427.mp3"
     }
 ]

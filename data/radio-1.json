@@ -3708,5 +3708,47 @@
         "driver_number": 1,
         "date": "2024-04-19T08:24:54.560000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/MAXVER01_1_20240419_092611.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 1,
+        "date": "2024-04-20T03:29:48.994000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/MAXVER01_1_20240420_042932.mp3"
+    },
+    {
+        "session_key": 9672,
+        "meeting_key": 1233,
+        "driver_number": 1,
+        "date": "2024-04-20T03:38:46.846000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/MAXVER01_1_20240420_043836.mp3"
+    },
+    {
+        "session_key": 9664,
+        "meeting_key": 1233,
+        "driver_number": 1,
+        "date": "2024-04-20T07:33:50.134000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/MAXVER01_1_20240420_083318.mp3"
+    },
+    {
+        "session_key": 9664,
+        "meeting_key": 1233,
+        "driver_number": 1,
+        "date": "2024-04-20T08:04:56.197000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/MAXVER01_1_20240420_090434.mp3"
+    },
+    {
+        "session_key": 9664,
+        "meeting_key": 1233,
+        "driver_number": 1,
+        "date": "2024-04-20T08:06:40.613000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/MAXVER01_1_20240420_090613.mp3"
+    },
+    {
+        "session_key": 9664,
+        "meeting_key": 1233,
+        "driver_number": 1,
+        "date": "2024-04-20T08:14:36.983000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/MAXVER01_1_20240420_091347.mp3"
     }
 ]

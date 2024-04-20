@@ -1531,5 +1531,12 @@
         "driver_number": 77,
         "date": "2024-04-19T08:14:09.391000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/VALBOT01_77_20240419_091339.mp3"
+    },
+    {
+        "session_key": 9664,
+        "meeting_key": 1233,
+        "driver_number": 77,
+        "date": "2024-04-20T08:15:48.939000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/VALBOT01_77_20240420_091630.mp3"
     }
 ]
