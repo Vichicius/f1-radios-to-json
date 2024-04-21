@@ -3106,5 +3106,12 @@
         "driver_number": 11,
         "date": "2024-04-20T08:05:30.909000",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240420_090516.mp3"
+    },
+    {
+        "session_key": 9673,
+        "meeting_key": 1233,
+        "driver_number": 11,
+        "date": "2024-04-21T08:43:15.798000",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TeamRadio/SERPER01_11_20240421_094249.mp3"
     }
 ]
