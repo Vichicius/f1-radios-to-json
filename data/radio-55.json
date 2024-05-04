@@ -3449,5 +3449,33 @@
         "driver_number": 55,
         "date": "2024-05-03T21:18:03.363000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-03_Sprint_Qualifying/TeamRadio/CARSAI01_55_20240503_222152.mp3"
+    },
+    {
+        "session_key": 9506,
+        "meeting_key": 1234,
+        "driver_number": 55,
+        "date": "2024-05-04T16:41:19.513000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Sprint/TeamRadio/CARSAI01_55_20240504_174123.mp3"
+    },
+    {
+        "session_key": 9498,
+        "meeting_key": 1234,
+        "driver_number": 55,
+        "date": "2024-05-04T20:02:44.933000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Qualifying/TeamRadio/CARSAI01_55_20240504_210236.mp3"
+    },
+    {
+        "session_key": 9498,
+        "meeting_key": 1234,
+        "driver_number": 55,
+        "date": "2024-05-04T21:04:09.215000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Qualifying/TeamRadio/CARSAI01_55_20240504_220344.mp3"
+    },
+    {
+        "session_key": 9498,
+        "meeting_key": 1234,
+        "driver_number": 55,
+        "date": "2024-05-04T21:04:09.215000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Qualifying/TeamRadio/CARSAI01_55_20240504_220428.mp3"
     }
 ]

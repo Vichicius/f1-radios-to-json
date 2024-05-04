@@ -2511,5 +2511,33 @@
         "driver_number": 24,
         "date": "2024-05-03T20:42:32.997000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-03_Sprint_Qualifying/TeamRadio/GUAZHO01_24_20240503_214148.mp3"
+    },
+    {
+        "session_key": 9506,
+        "meeting_key": 1234,
+        "driver_number": 24,
+        "date": "2024-05-04T15:53:42.992000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Sprint/TeamRadio/GUAZHO01_24_20240504_165312.mp3"
+    },
+    {
+        "session_key": 9506,
+        "meeting_key": 1234,
+        "driver_number": 24,
+        "date": "2024-05-04T16:14:03.042000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Sprint/TeamRadio/GUAZHO01_24_20240504_171355.mp3"
+    },
+    {
+        "session_key": 9506,
+        "meeting_key": 1234,
+        "driver_number": 24,
+        "date": "2024-05-04T16:40:43.642000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Sprint/TeamRadio/GUAZHO01_24_20240504_174030.mp3"
+    },
+    {
+        "session_key": 9498,
+        "meeting_key": 1234,
+        "driver_number": 24,
+        "date": "2024-05-04T20:23:06.056000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Qualifying/TeamRadio/GUAZHO01_24_20240504_212252.mp3"
     }
 ]
