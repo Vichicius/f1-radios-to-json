@@ -2602,5 +2602,54 @@
         "driver_number": 27,
         "date": "2024-05-04T21:04:09.215000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Qualifying/TeamRadio/NICHUL01_27_20240504_220451.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 27,
+        "date": "2024-05-05T19:57:49.848000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/NICHUL01_27_20240505_205720.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 27,
+        "date": "2024-05-05T19:59:33.743000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/NICHUL01_27_20240505_205856.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 27,
+        "date": "2024-05-05T20:19:57.599000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/NICHUL01_27_20240505_211924.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 27,
+        "date": "2024-05-05T20:40:26.910000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/NICHUL01_27_20240505_213949.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 27,
+        "date": "2024-05-05T20:56:20.979000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/NICHUL01_27_20240505_215604.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 27,
+        "date": "2024-05-05T21:37:22.681000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/NICHUL01_27_20240505_224230.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 27,
+        "date": "2024-05-05T21:37:22.681000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/NICHUL01_27_20240505_224246.mp3"
     }
 ]

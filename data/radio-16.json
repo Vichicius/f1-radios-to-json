@@ -3519,5 +3519,68 @@
         "driver_number": 16,
         "date": "2024-05-04T21:04:09.215000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-04_Qualifying/TeamRadio/CHALEC01_16_20240504_220454.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 16,
+        "date": "2024-05-05T19:24:05.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_202341.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 16,
+        "date": "2024-05-05T20:17:07.107000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_211656.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 16,
+        "date": "2024-05-05T20:19:22.820000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_211858.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 16,
+        "date": "2024-05-05T20:25:38.749000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_212459.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 16,
+        "date": "2024-05-05T20:41:02.121000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_214041.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 16,
+        "date": "2024-05-05T21:35:34.672000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_223518.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 16,
+        "date": "2024-05-05T21:35:34.871000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_223528.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 16,
+        "date": "2024-05-05T21:36:43.863000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_223634.mp3"
+    },
+    {
+        "session_key": 9507,
+        "meeting_key": 1234,
+        "driver_number": 16,
+        "date": "2024-05-05T21:37:22.681000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_223814.mp3"
     }
 ]
