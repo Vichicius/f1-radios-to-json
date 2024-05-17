@@ -3253,5 +3253,26 @@
         "driver_number": 10,
         "date": "2024-05-05T21:37:22.681000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/PIEGAS01_10_20240505_225106.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 10,
+        "date": "2024-05-17T11:32:55.660000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/PIEGAS01_10_20240517_133219.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 10,
+        "date": "2024-05-17T15:11:50.002000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/PIEGAS01_10_20240517_161120.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 10,
+        "date": "2024-05-17T15:53:02.801000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/PIEGAS01_10_20240517_165228.mp3"
     }
 ]

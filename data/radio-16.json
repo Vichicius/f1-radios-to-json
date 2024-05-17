@@ -3582,5 +3582,40 @@
         "driver_number": 16,
         "date": "2024-05-05T21:37:22.681000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/CHALEC01_16_20240505_223814.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 16,
+        "date": "2024-05-17T12:31:53.780000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/CHALEC01_16_20240517_143125.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 16,
+        "date": "2024-05-17T15:15:50.314000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/CHALEC01_16_20240517_171518.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 16,
+        "date": "2024-05-17T15:28:47.713000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/CHALEC01_16_20240517_162827.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 16,
+        "date": "2024-05-17T15:51:21.805000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/CHALEC01_16_20240517_175114.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 16,
+        "date": "2024-05-17T16:03:44.777000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/CHALEC01_16_20240517_180333.mp3"
     }
 ]

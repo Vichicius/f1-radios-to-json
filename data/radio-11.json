@@ -3722,5 +3722,40 @@
         "driver_number": 11,
         "date": "2024-05-05T21:08:52.227000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/SERPER01_11_20240505_220840.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 11,
+        "date": "2024-05-17T12:22:55.020000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/SERPER01_11_20240517_132220.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 11,
+        "date": "2024-05-17T12:32:28.055000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/SERPER01_11_20240517_133157.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 11,
+        "date": "2024-05-17T15:32:43.403000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/SERPER01_11_20240517_163213.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 11,
+        "date": "2024-05-17T15:51:21.805000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/SERPER01_11_20240517_175123.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 11,
+        "date": "2024-05-17T15:51:54.495000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/SERPER01_11_20240517_175139.mp3"
     }
 ]

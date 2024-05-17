@@ -3484,5 +3484,47 @@
         "driver_number": 31,
         "date": "2024-05-05T21:37:22.681000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/ESTOCO01_31_20240505_224927.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 31,
+        "date": "2024-05-17T11:37:26.476000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/ESTOCO01_31_20240517_133721.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 31,
+        "date": "2024-05-17T12:08:18.012000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/ESTOCO01_31_20240517_130803.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 31,
+        "date": "2024-05-17T12:08:18.210000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/ESTOCO01_31_20240517_130809.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 31,
+        "date": "2024-05-17T12:08:53.383000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/ESTOCO01_31_20240517_130837.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 31,
+        "date": "2024-05-17T15:12:25.346000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/ESTOCO01_31_20240517_161212.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 31,
+        "date": "2024-05-17T15:53:03.219000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/ESTOCO01_31_20240517_165247.mp3"
     }
 ]

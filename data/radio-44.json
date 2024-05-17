@@ -4170,5 +4170,19 @@
         "driver_number": 44,
         "date": "2024-05-05T21:27:02.266000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/LEWHAM01_44_20240505_222641.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 44,
+        "date": "2024-05-17T11:40:14.730000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/LEWHAM01_44_20240517_124000.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 44,
+        "date": "2024-05-17T15:39:30.153000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/LEWHAM01_44_20240517_163918.mp3"
     }
 ]

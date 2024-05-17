@@ -2364,5 +2364,19 @@
         "driver_number": 22,
         "date": "2024-05-05T21:37:22.681000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/YUKTSU01_22_20240505_224045.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 22,
+        "date": "2024-05-17T11:43:37.708000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/YUKTSU01_22_20240517_134332.mp3"
+    },
+    {
+        "session_key": 9508,
+        "meeting_key": 1235,
+        "driver_number": 22,
+        "date": "2024-05-17T12:29:06.191000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/YUKTSU01_22_20240517_142840.mp3"
     }
 ]

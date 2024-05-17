@@ -2994,5 +2994,12 @@
         "driver_number": 14,
         "date": "2024-05-05T20:36:27.425000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/FERALO01_14_20240505_213616.mp3"
+    },
+    {
+        "session_key": 9509,
+        "meeting_key": 1235,
+        "driver_number": 14,
+        "date": "2024-05-17T15:12:25.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_2/TeamRadio/FERALO01_14_20240517_171207.mp3"
     }
 ]
