@@ -3848,5 +3848,26 @@
         "driver_number": 4,
         "date": "2024-05-17T12:03:48.588000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/LANNOR01_4_20240517_140338.mp3"
+    },
+    {
+        "session_key": 9510,
+        "meeting_key": 1235,
+        "driver_number": 4,
+        "date": "2024-05-18T10:56:46.390000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-18_Practice_3/TeamRadio/LANNOR01_4_20240518_115613.mp3"
+    },
+    {
+        "session_key": 9511,
+        "meeting_key": 1235,
+        "driver_number": 4,
+        "date": "2024-05-18T14:07:22.751000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-18_Qualifying/TeamRadio/LANNOR01_4_20240518_150718.mp3"
+    },
+    {
+        "session_key": 9511,
+        "meeting_key": 1235,
+        "driver_number": 4,
+        "date": "2024-05-18T14:58:38.135000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-18_Qualifying/TeamRadio/LANNOR01_4_20240518_165825.mp3"
     }
 ]

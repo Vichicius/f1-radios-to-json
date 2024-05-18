@@ -1685,5 +1685,12 @@
         "driver_number": 77,
         "date": "2024-05-05T21:37:22.681000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/VALBOT01_77_20240505_224419.mp3"
+    },
+    {
+        "session_key": 9511,
+        "meeting_key": 1235,
+        "driver_number": 77,
+        "date": "2024-05-18T14:23:44.538000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-18_Qualifying/TeamRadio/VALBOT01_77_20240518_152319.mp3"
     }
 ]
