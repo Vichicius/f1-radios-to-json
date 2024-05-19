@@ -4401,5 +4401,82 @@
         "driver_number": 1,
         "date": "2024-05-18T15:04:23.295000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-18_Qualifying/TeamRadio/MAXVER01_1_20240518_171110.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T12:26:16.684000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_142528.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T12:57:11.404000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_145648.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T13:27:11.732000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_152654.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T13:56:42.213000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_155614.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T14:04:05.421000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_160400.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T14:12:37.735000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_161222.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T14:15:30.800000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_161527.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T14:18:56.470000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_161828.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T14:26:17.847000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_162556.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T14:30:49.671000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_163001.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 1,
+        "date": "2024-05-19T14:31:03.775000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/MAXVER01_1_20240519_163314.mp3"
     }
 ]

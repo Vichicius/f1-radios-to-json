@@ -2420,5 +2420,12 @@
         "driver_number": 2,
         "date": "2024-05-18T14:23:10.388000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-18_Qualifying/TeamRadio/LOGSAR01_2_20240518_162255.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 2,
+        "date": "2024-05-19T14:31:03.775000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/LOGSAR01_2_20240519_163832.mp3"
     }
 ]

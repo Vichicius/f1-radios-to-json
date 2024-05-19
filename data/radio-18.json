@@ -2420,5 +2420,12 @@
         "driver_number": 18,
         "date": "2024-05-05T21:37:22.681000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-05_Miami_Grand_Prix/2024-05-05_Race/TeamRadio/LANSTR01_18_20240505_225318.mp3"
+    },
+    {
+        "session_key": 9515,
+        "meeting_key": 1235,
+        "driver_number": 18,
+        "date": "2024-05-19T14:31:03.775000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/LANSTR01_18_20240519_163651.mp3"
     }
 ]
