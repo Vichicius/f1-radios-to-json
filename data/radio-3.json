@@ -1111,5 +1111,68 @@
         "driver_number": 3,
         "date": "2024-05-19T14:31:03.775000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/DANRIC01_3_20240519_164120.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 3,
+        "date": "2024-05-24T11:31:21.889000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/DANRIC01_3_20240524_132915.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 3,
+        "date": "2024-05-24T11:39:56.053000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/DANRIC01_3_20240524_133921.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 3,
+        "date": "2024-05-24T11:49:35.607000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/DANRIC01_3_20240524_134906.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 3,
+        "date": "2024-05-24T11:51:17.011000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/DANRIC01_3_20240524_135102.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 3,
+        "date": "2024-05-24T12:22:23.012000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/DANRIC01_3_20240524_142146.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 3,
+        "date": "2024-05-24T12:35:27.612000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/DANRIC01_3_20240524_143537.mp3"
+    },
+    {
+        "session_key": 9517,
+        "meeting_key": 1236,
+        "driver_number": 3,
+        "date": "2024-05-24T15:12:45.437000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/DANRIC01_3_20240524_171224.mp3"
+    },
+    {
+        "session_key": 9517,
+        "meeting_key": 1236,
+        "driver_number": 3,
+        "date": "2024-05-24T15:19:32.725000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/DANRIC01_3_20240524_171918.mp3"
+    },
+    {
+        "session_key": 9517,
+        "meeting_key": 1236,
+        "driver_number": 3,
+        "date": "2024-05-24T15:26:19.436000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/DANRIC01_3_20240524_172555.mp3"
     }
 ]

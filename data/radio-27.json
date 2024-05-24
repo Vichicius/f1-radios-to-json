@@ -2700,5 +2700,33 @@
         "driver_number": 27,
         "date": "2024-05-19T13:53:16.556000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/NICHUL01_27_20240519_155254.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 27,
+        "date": "2024-05-24T12:10:30.925000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/NICHUL01_27_20240524_141019.mp3"
+    },
+    {
+        "session_key": 9517,
+        "meeting_key": 1236,
+        "driver_number": 27,
+        "date": "2024-05-24T15:03:44.004000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/NICHUL01_27_20240524_170311.mp3"
+    },
+    {
+        "session_key": 9517,
+        "meeting_key": 1236,
+        "driver_number": 27,
+        "date": "2024-05-24T15:12:10.414000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/NICHUL01_27_20240524_171155.mp3"
+    },
+    {
+        "session_key": 9517,
+        "meeting_key": 1236,
+        "driver_number": 27,
+        "date": "2024-05-24T15:24:37.150000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/NICHUL01_27_20240524_172403.mp3"
     }
 ]

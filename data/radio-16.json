@@ -3694,5 +3694,47 @@
         "driver_number": 16,
         "date": "2024-05-19T14:31:03.775000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-19_Race/TeamRadio/CHALEC01_16_20240519_163432.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 16,
+        "date": "2024-05-24T12:15:37.275000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/CHALEC01_16_20240524_141510.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 16,
+        "date": "2024-05-24T12:15:39.651000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/CHALEC01_16_20240524_141527.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 16,
+        "date": "2024-05-24T12:23:31.507000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/CHALEC01_16_20240524_142306.mp3"
+    },
+    {
+        "session_key": 9516,
+        "meeting_key": 1236,
+        "driver_number": 16,
+        "date": "2024-05-24T12:33:42.387000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_1/TeamRadio/CHALEC01_16_20240524_143328.mp3"
+    },
+    {
+        "session_key": 9517,
+        "meeting_key": 1236,
+        "driver_number": 16,
+        "date": "2024-05-24T15:13:18.176000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/CHALEC01_16_20240524_171243.mp3"
+    },
+    {
+        "session_key": 9517,
+        "meeting_key": 1236,
+        "driver_number": 16,
+        "date": "2024-05-24T15:48:26.299000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/CHALEC01_16_20240524_174806.mp3"
     }
 ]
