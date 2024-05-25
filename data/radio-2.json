@@ -2490,5 +2490,26 @@
         "driver_number": 2,
         "date": "2024-05-24T15:50:07.651000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/LOGSAR01_2_20240524_174949.mp3"
+    },
+    {
+        "session_key": 9518,
+        "meeting_key": 1236,
+        "driver_number": 2,
+        "date": "2024-05-25T10:52:15.879000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-25_Practice_3/TeamRadio/LOGSAR01_2_20240525_125141.mp3"
+    },
+    {
+        "session_key": 9518,
+        "meeting_key": 1236,
+        "driver_number": 2,
+        "date": "2024-05-25T11:00:11.787000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-25_Practice_3/TeamRadio/LOGSAR01_2_20240525_125944.mp3"
+    },
+    {
+        "session_key": 9519,
+        "meeting_key": 1236,
+        "driver_number": 2,
+        "date": "2024-05-25T14:23:04.816000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-25_Qualifying/TeamRadio/LOGSAR01_2_20240525_162228.mp3"
     }
 ]

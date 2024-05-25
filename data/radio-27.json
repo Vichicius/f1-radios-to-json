@@ -2728,5 +2728,12 @@
         "driver_number": 27,
         "date": "2024-05-24T15:24:37.150000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/NICHUL01_27_20240524_172403.mp3"
+    },
+    {
+        "session_key": 9518,
+        "meeting_key": 1236,
+        "driver_number": 27,
+        "date": "2024-05-25T10:46:39.489000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-25_Practice_3/TeamRadio/NICHUL01_27_20240525_124609.mp3"
     }
 ]
