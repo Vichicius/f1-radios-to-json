@@ -2854,5 +2854,47 @@
         "driver_number": 81,
         "date": "2024-05-25T11:26:13.619000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-25_Practice_3/TeamRadio/OSCPIA01_81_20240525_132535.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 81,
+        "date": "2024-05-26T12:15:25.710000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/OSCPIA01_81_20240525_171518.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 81,
+        "date": "2024-05-26T13:34:43.721000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/OSCPIA01_81_20240526_153355.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 81,
+        "date": "2024-05-26T13:53:52.066000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/OSCPIA01_81_20240526_155317.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 81,
+        "date": "2024-05-26T14:30:33.636000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/OSCPIA01_81_20240526_162958.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 81,
+        "date": "2024-05-26T14:37:19.767000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/OSCPIA01_81_20240526_163651.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 81,
+        "date": "2024-05-26T15:28:19.559000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/OSCPIA01_81_20240526_173226.mp3"
     }
 ]

@@ -2476,5 +2476,12 @@
         "driver_number": 18,
         "date": "2024-05-25T11:25:02.198000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-25_Practice_3/TeamRadio/LANSTR01_18_20240525_132451.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 18,
+        "date": "2024-05-26T15:28:19.559000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/LANSTR01_18_20240526_173700.mp3"
     }
 ]

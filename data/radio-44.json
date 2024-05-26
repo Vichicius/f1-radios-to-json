@@ -4443,5 +4443,26 @@
         "driver_number": 44,
         "date": "2024-05-25T11:31:22.245000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-25_Practice_3/TeamRadio/LEWHAM01_44_20240525_133106.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 44,
+        "date": "2024-05-26T13:31:53.245000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/LEWHAM01_44_20240526_153115.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 44,
+        "date": "2024-05-26T14:55:20.795000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/LEWHAM01_44_20240526_165451.mp3"
+    },
+    {
+        "session_key": 9523,
+        "meeting_key": 1236,
+        "driver_number": 44,
+        "date": "2024-05-26T15:28:19.559000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/LEWHAM01_44_20240526_173445.mp3"
     }
 ]
