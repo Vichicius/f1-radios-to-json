@@ -3806,5 +3806,82 @@
         "driver_number": 16,
         "date": "2024-05-26T15:28:19.559000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/CHALEC01_16_20240526_172844.mp3"
+    },
+    {
+        "session_key": 9524,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T18:16:04.971000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_1/TeamRadio/CHALEC01_16_20240607_141515.mp3"
+    },
+    {
+        "session_key": 9524,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T18:24:32.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_1/TeamRadio/CHALEC01_16_20240607_142406.mp3"
+    },
+    {
+        "session_key": 9524,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T18:32:28.225000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_1/TeamRadio/CHALEC01_16_20240607_143212.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T21:03:37.012000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/CHALEC01_16_20240607_170256.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T21:03:37.186000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/CHALEC01_16_20240607_170314.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T21:03:37.590000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/CHALEC01_16_20240607_170305.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T21:05:55.106000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/CHALEC01_16_20240607_170523.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T21:28:03.363000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/CHALEC01_16_20240607_172732.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T21:28:03.867000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/CHALEC01_16_20240607_172743.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T21:48:25.663000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/CHALEC01_16_20240607_174803.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 16,
+        "date": "2024-06-07T21:48:25.663000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/CHALEC01_16_20240607_174817.mp3"
     }
 ]

@@ -2511,5 +2511,19 @@
         "driver_number": 22,
         "date": "2024-05-26T15:28:19.559000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-26_Race/TeamRadio/YUKTSU01_22_20240526_173330.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 22,
+        "date": "2024-06-07T21:14:26.164000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/YUKTSU01_22_20240607_171412.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 22,
+        "date": "2024-06-07T21:14:59.033000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/YUKTSU01_22_20240607_171450.mp3"
     }
 ]

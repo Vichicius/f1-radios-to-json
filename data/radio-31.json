@@ -3687,5 +3687,33 @@
         "driver_number": 31,
         "date": "2024-05-25T14:32:03.508000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-25_Qualifying/TeamRadio/ESTOCO01_31_20240525_163131.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-07T21:10:26.631000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/ESTOCO01_31_20240607_171003.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-07T21:24:39.150000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/ESTOCO01_31_20240607_172405.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-07T21:52:23.051000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/ESTOCO01_31_20240607_175138.mp3"
+    },
+    {
+        "session_key": 9525,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-07T22:00:55.265000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/ESTOCO01_31_20240607_180047.mp3"
     }
 ]

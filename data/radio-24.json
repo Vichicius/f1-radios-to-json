@@ -2742,5 +2742,12 @@
         "driver_number": 24,
         "date": "2024-05-24T15:47:16.568000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-26_Monaco_Grand_Prix/2024-05-24_Practice_2/TeamRadio/GUAZHO01_24_20240524_174702.mp3"
+    },
+    {
+        "session_key": 9524,
+        "meeting_key": 1237,
+        "driver_number": 24,
+        "date": "2024-06-07T18:04:08.891000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_1/TeamRadio/GUAZHO01_24_20240607_140334.mp3"
     }
 ]
