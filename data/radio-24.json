@@ -2749,5 +2749,40 @@
         "driver_number": 24,
         "date": "2024-06-07T18:04:08.891000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_1/TeamRadio/GUAZHO01_24_20240607_140334.mp3"
+    },
+    {
+        "session_key": 9526,
+        "meeting_key": 1237,
+        "driver_number": 24,
+        "date": "2024-06-08T16:33:01.257000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Practice_3/TeamRadio/GUAZHO01_24_20240608_123233.mp3"
+    },
+    {
+        "session_key": 9526,
+        "meeting_key": 1237,
+        "driver_number": 24,
+        "date": "2024-06-08T16:37:00.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Practice_3/TeamRadio/GUAZHO01_24_20240608_123619.mp3"
+    },
+    {
+        "session_key": 9526,
+        "meeting_key": 1237,
+        "driver_number": 24,
+        "date": "2024-06-08T16:40:59.871000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Practice_3/TeamRadio/GUAZHO01_24_20240608_123958.mp3"
+    },
+    {
+        "session_key": 9527,
+        "meeting_key": 1237,
+        "driver_number": 24,
+        "date": "2024-06-08T20:00:49.786000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Qualifying/TeamRadio/GUAZHO01_24_20240608_160011.mp3"
+    },
+    {
+        "session_key": 9527,
+        "meeting_key": 1237,
+        "driver_number": 24,
+        "date": "2024-06-08T20:13:22.568000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Qualifying/TeamRadio/GUAZHO01_24_20240608_161257.mp3"
     }
 ]

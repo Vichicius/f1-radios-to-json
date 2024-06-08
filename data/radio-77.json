@@ -1783,5 +1783,26 @@
         "driver_number": 77,
         "date": "2024-06-07T21:32:03.478000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_2/TeamRadio/VALBOT01_77_20240607_173136.mp3"
+    },
+    {
+        "session_key": 9526,
+        "meeting_key": 1237,
+        "driver_number": 77,
+        "date": "2024-06-08T17:31:26.363000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Practice_3/TeamRadio/VALBOT01_77_20240608_133115.mp3"
+    },
+    {
+        "session_key": 9526,
+        "meeting_key": 1237,
+        "driver_number": 77,
+        "date": "2024-06-08T17:33:06.587000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Practice_3/TeamRadio/VALBOT01_77_20240608_133243.mp3"
+    },
+    {
+        "session_key": 9527,
+        "meeting_key": 1237,
+        "driver_number": 77,
+        "date": "2024-06-08T20:06:32.406000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Qualifying/TeamRadio/VALBOT01_77_20240608_160619.mp3"
     }
 ]
