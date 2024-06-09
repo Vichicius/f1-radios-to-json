@@ -3491,5 +3491,75 @@
         "driver_number": 10,
         "date": "2024-06-08T20:25:51.825000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Qualifying/TeamRadio/PIEGAS01_10_20240608_162526.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T17:24:22.049000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_132406.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T17:24:22.617000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_132408.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T17:31:13.165000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_133033.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T18:13:48.262000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_141320.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T18:38:21.525000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_143808.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T18:51:30.249000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_145123.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T19:30:17.175000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_152938.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T19:43:52.742000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_154308.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T19:47:52.373000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_154722.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 10,
+        "date": "2024-06-09T19:51:16.512000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/PIEGAS01_10_20240609_155748.mp3"
     }
 ]

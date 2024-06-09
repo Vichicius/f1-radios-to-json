@@ -3736,5 +3736,47 @@
         "driver_number": 31,
         "date": "2024-06-08T20:20:13.544000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-08_Qualifying/TeamRadio/ESTOCO01_31_20240608_161938.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-09T18:24:43.451000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_142412.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-09T18:24:43.451000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_142429.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-09T18:44:03.299000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_144329.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-09T19:31:58.657000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_153144.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-09T19:48:26.612000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_154752.mp3"
+    },
+    {
+        "session_key": 9531,
+        "meeting_key": 1237,
+        "driver_number": 31,
+        "date": "2024-06-09T19:51:16.512000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_155759.mp3"
     }
 ]
