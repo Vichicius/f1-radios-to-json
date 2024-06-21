@@ -82,5 +82,33 @@
         "driver_number": 50,
         "date": "2024-05-17T12:35:58.589000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/OLIBEA01_50_20240517_143543.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 50,
+        "date": "2024-06-21T11:39:00.714000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_133841.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 50,
+        "date": "2024-06-21T12:31:40.796000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_143103.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 50,
+        "date": "2024-06-21T12:35:38.303000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_143508.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 50,
+        "date": "2024-06-21T12:36:53.529000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_143617.mp3"
     }
 ]

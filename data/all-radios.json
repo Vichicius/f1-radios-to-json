@@ -67982,5 +67982,698 @@
         "driver_number": 77,
         "date": "2024-06-09T19:51:16.512000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/VALBOT01_77_20240609_155813.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 14,
+        "date": "2024-06-21T11:28:18.835000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/FERALO01_14_20240621_132752.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 63,
+        "date": "2024-06-21T11:32:14.664000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/GEORUS01_63_20240621_133135.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-21T11:32:49.609000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/LOGSAR01_2_20240621_133218.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 55,
+        "date": "2024-06-21T11:33:24.697000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CARSAI01_55_20240621_133311.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 50,
+        "date": "2024-06-21T11:39:00.714000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_133841.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 55,
+        "date": "2024-06-21T11:39:00.815000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CARSAI01_55_20240621_133845.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 55,
+        "date": "2024-06-21T11:39:35.823000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CARSAI01_55_20240621_133921.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-21T11:40:10.955000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/DANRIC01_3_20240621_133934.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 44,
+        "date": "2024-06-21T11:40:46.098000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/LEWHAM01_44_20240621_134015.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 24,
+        "date": "2024-06-21T11:42:59.134000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/GUAZHO01_24_20240621_134235.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T11:44:41.785000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/ESTOCO01_31_20240621_134429.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 55,
+        "date": "2024-06-21T11:46:23.054000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CARSAI01_55_20240621_134541.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-21T11:46:23.468000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/DANRIC01_3_20240621_134606.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 23,
+        "date": "2024-06-21T11:47:32.337000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/ALEALB01_23_20240621_134719.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 11,
+        "date": "2024-06-21T11:48:39.703000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/SERPER01_11_20240621_134755.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-21T11:48:40.242000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CHALEC01_16_20240621_134818.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-21T11:49:14.163000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CHALEC01_16_20240621_134904.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-21T11:49:14.880000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/DANRIC01_3_20240621_134855.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 4,
+        "date": "2024-06-21T11:52:04.062000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/LANNOR01_4_20240621_135118.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 81,
+        "date": "2024-06-21T11:52:38.374000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OSCPIA01_81_20240621_135151.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 14,
+        "date": "2024-06-21T11:54:19.615000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/FERALO01_14_20240621_135352.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 18,
+        "date": "2024-06-21T11:55:28.946000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/LANSTR01_18_20240621_135504.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-21T11:56:35.543000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/PIEGAS01_10_20240621_135616.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 55,
+        "date": "2024-06-21T11:58:17.011000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CARSAI01_55_20240621_135744.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 18,
+        "date": "2024-06-21T11:58:51.304000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/LANSTR01_18_20240621_135829.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 22,
+        "date": "2024-06-21T12:01:06.497000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/YUKTSU01_22_20240621_140023.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-21T12:01:40.377000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/DANRIC01_3_20240621_140103.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 63,
+        "date": "2024-06-21T12:04:30.732000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/GEORUS01_63_20240621_140353.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 63,
+        "date": "2024-06-21T12:05:03.443000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/GEORUS01_63_20240621_140442.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 14,
+        "date": "2024-06-21T12:07:51.403000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/FERALO01_14_20240621_140741.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 4,
+        "date": "2024-06-21T12:09:01.577000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/LANNOR01_4_20240621_140835.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T12:09:01.577000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/ESTOCO01_31_20240621_140801.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 20,
+        "date": "2024-06-21T12:09:36.688000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/KEVMAG01_20_20240621_140913.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-21T12:11:49.926000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CHALEC01_16_20240621_141118.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T12:12:23.783000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/ESTOCO01_31_20240621_141147.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-21T12:12:24.172000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CHALEC01_16_20240621_141210.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-21T12:13:32.361000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CHALEC01_16_20240621_141314.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-21T12:15:14.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/PIEGAS01_10_20240621_141455.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-21T12:16:55.254000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CHALEC01_16_20240621_141624.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-21T12:19:09.982000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/CHALEC01_16_20240621_141851.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T12:19:44.620000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/ESTOCO01_31_20240621_141924.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 63,
+        "date": "2024-06-21T12:20:19.005000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/GEORUS01_63_20240621_141949.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 23,
+        "date": "2024-06-21T12:20:19.480000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/ALEALB01_23_20240621_142005.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T12:23:09.165000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/ESTOCO01_31_20240621_142215.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-21T12:24:16.052000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/PIEGAS01_10_20240621_142337.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 14,
+        "date": "2024-06-21T12:25:59.727000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/FERALO01_14_20240621_142456.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-21T12:27:07.410000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/MAXVER01_1_20240621_142629.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 77,
+        "date": "2024-06-21T12:27:42.023000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/VALBOT01_77_20240621_142704.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 11,
+        "date": "2024-06-21T12:27:42.285000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/SERPER01_11_20240621_142734.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 24,
+        "date": "2024-06-21T12:28:16.442000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/GUAZHO01_24_20240621_142757.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 81,
+        "date": "2024-06-21T12:28:50.529000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OSCPIA01_81_20240621_142833.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 20,
+        "date": "2024-06-21T12:29:58.183000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/KEVMAG01_20_20240621_142942.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 4,
+        "date": "2024-06-21T12:31:05.787000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/LANNOR01_4_20240621_143049.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 50,
+        "date": "2024-06-21T12:31:40.796000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_143103.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 50,
+        "date": "2024-06-21T12:35:38.303000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_143508.mp3"
+    },
+    {
+        "session_key": 9532,
+        "meeting_key": 1238,
+        "driver_number": 50,
+        "date": "2024-06-21T12:36:53.529000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_143617.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 18,
+        "date": "2024-06-21T15:00:56.008000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/LANSTR01_18_20240621_170017.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-21T15:02:04.060000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/DANRIC01_3_20240621_170140.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 11,
+        "date": "2024-06-21T15:02:39.190000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/SERPER01_11_20240621_170211.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 14,
+        "date": "2024-06-21T15:03:14.310000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/FERALO01_14_20240621_170259.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 77,
+        "date": "2024-06-21T15:08:15.706000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/VALBOT01_77_20240621_170743.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T15:08:50.579000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ESTOCO01_31_20240621_170804.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-21T15:10:32.019000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/MAXVER01_1_20240621_171005.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-21T15:13:21.033000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/DANRIC01_3_20240621_171309.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-21T15:13:56.109000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/MAXVER01_1_20240621_171323.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 23,
+        "date": "2024-06-21T15:13:56.109000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ALEALB01_23_20240621_171331.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 22,
+        "date": "2024-06-21T15:16:11.575000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/YUKTSU01_22_20240621_171550.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 22,
+        "date": "2024-06-21T15:18:27.065000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/YUKTSU01_22_20240621_171805.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-21T15:19:02.199000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/LOGSAR01_2_20240621_171844.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 81,
+        "date": "2024-06-21T15:21:17.594000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/OSCPIA01_81_20240621_172054.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-21T15:23:33.006000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/LOGSAR01_2_20240621_172313.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 23,
+        "date": "2024-06-21T15:25:13.320000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ALEALB01_23_20240621_172444.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 24,
+        "date": "2024-06-21T15:28:35.729000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/GUAZHO01_24_20240621_172822.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 63,
+        "date": "2024-06-21T15:33:04.804000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/GEORUS01_63_20240621_173237.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T15:34:12.737000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ESTOCO01_31_20240621_173345.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-21T15:35:20.609000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/PIEGAS01_10_20240621_173455.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 55,
+        "date": "2024-06-21T15:36:28.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/CARSAI01_55_20240621_173604.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T15:39:51.068000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ESTOCO01_31_20240621_173915.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-21T15:40:26.144000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/MAXVER01_1_20240621_174006.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 11,
+        "date": "2024-06-21T15:40:58.754000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/SERPER01_11_20240621_174050.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 55,
+        "date": "2024-06-21T15:42:06.440000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/CARSAI01_55_20240621_174154.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-21T15:43:14.285000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/LOGSAR01_2_20240621_174238.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 23,
+        "date": "2024-06-21T15:44:56.981000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ALEALB01_23_20240621_174429.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 23,
+        "date": "2024-06-21T15:46:04.106000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ALEALB01_23_20240621_174524.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 63,
+        "date": "2024-06-21T15:48:53.506000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/GEORUS01_63_20240621_174830.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T15:49:27.812000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ESTOCO01_31_20240621_174919.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 31,
+        "date": "2024-06-21T15:50:02.946000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ESTOCO01_31_20240621_174932.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 44,
+        "date": "2024-06-21T15:50:38.096000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/LEWHAM01_44_20240621_175010.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-21T15:51:44.750000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/DANRIC01_3_20240621_175115.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-21T15:53:26.028000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/CHALEC01_16_20240621_175234.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 14,
+        "date": "2024-06-21T15:54:33.988000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/FERALO01_14_20240621_175403.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 4,
+        "date": "2024-06-21T15:56:15.749000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/LANNOR01_4_20240621_175542.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 22,
+        "date": "2024-06-21T15:56:50.109000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/YUKTSU01_22_20240621_175619.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 23,
+        "date": "2024-06-21T15:56:50.702000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/ALEALB01_23_20240621_175626.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-21T15:57:59.500000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/LOGSAR01_2_20240621_175721.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 44,
+        "date": "2024-06-21T15:58:34.619000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/LEWHAM01_44_20240621_175801.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 63,
+        "date": "2024-06-21T16:00:50.033000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/GEORUS01_63_20240621_180017.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 44,
+        "date": "2024-06-21T16:02:30.339000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/LEWHAM01_44_20240621_180154.mp3"
+    },
+    {
+        "session_key": 9533,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-21T16:03:37.910000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/CHALEC01_16_20240621_180309.mp3"
     }
 ]
