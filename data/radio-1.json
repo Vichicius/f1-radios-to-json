@@ -4807,5 +4807,54 @@
         "driver_number": 1,
         "date": "2024-06-21T15:40:26.144000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_2/TeamRadio/MAXVER01_1_20240621_174006.mp3"
+    },
+    {
+        "session_key": 9534,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-22T10:39:54.045000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Practice_3/TeamRadio/MAXVER01_1_20240622_123906.mp3"
+    },
+    {
+        "session_key": 9534,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-22T11:31:56.688000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Practice_3/TeamRadio/MAXVER01_1_20240622_133127.mp3"
+    },
+    {
+        "session_key": 9534,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-22T11:33:03.001000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Practice_3/TeamRadio/MAXVER01_1_20240622_133254.mp3"
+    },
+    {
+        "session_key": 9535,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-22T14:53:07.411000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Qualifying/TeamRadio/MAXVER01_1_20240622_165234.mp3"
+    },
+    {
+        "session_key": 9535,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-22T14:54:49.410000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Qualifying/TeamRadio/MAXVER01_1_20240622_165427.mp3"
+    },
+    {
+        "session_key": 9535,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-22T15:03:18.325000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Qualifying/TeamRadio/MAXVER01_1_20240622_170256.mp3"
+    },
+    {
+        "session_key": 9535,
+        "meeting_key": 1238,
+        "driver_number": 1,
+        "date": "2024-06-22T15:03:18.325000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Qualifying/TeamRadio/MAXVER01_1_20240622_170313.mp3"
     }
 ]
