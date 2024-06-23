@@ -3624,5 +3624,54 @@
         "driver_number": 10,
         "date": "2024-06-22T15:03:20.328000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Qualifying/TeamRadio/PIEGAS01_10_20240622_170431.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-23T12:28:16.385000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/PIEGAS01_10_20240623_142745.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-23T13:54:46.289000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/PIEGAS01_10_20240623_155421.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-23T14:17:57.197000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/PIEGAS01_10_20240623_161747.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-23T14:18:32.299000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/PIEGAS01_10_20240623_161812.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-23T14:21:20.736000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/PIEGAS01_10_20240623_162051.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-23T14:27:34.266000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/PIEGAS01_10_20240623_162708.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 10,
+        "date": "2024-06-23T14:39:57.802000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/PIEGAS01_10_20240623_164101.mp3"
     }
 ]

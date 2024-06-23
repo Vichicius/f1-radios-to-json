@@ -2840,5 +2840,26 @@
         "driver_number": 24,
         "date": "2024-06-22T14:04:38.052000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Qualifying/TeamRadio/GUAZHO01_24_20240622_160412.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 24,
+        "date": "2024-06-23T14:02:41.052000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/GUAZHO01_24_20240623_160209.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 24,
+        "date": "2024-06-23T14:30:59.621000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/GUAZHO01_24_20240623_163022.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 24,
+        "date": "2024-06-23T14:39:27.212000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/GUAZHO01_24_20240623_163824.mp3"
     }
 ]

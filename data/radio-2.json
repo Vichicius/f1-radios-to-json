@@ -2672,5 +2672,26 @@
         "driver_number": 2,
         "date": "2024-06-22T14:21:00.982000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-22_Qualifying/TeamRadio/LOGSAR01_2_20240622_162045.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T13:30:56.671000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_153015.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T13:37:44.624000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_153703.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T14:26:59.902000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_162630.mp3"
     }
 ]
