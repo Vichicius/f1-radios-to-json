@@ -1487,7 +1487,49 @@
         "session_key": 9539,
         "meeting_key": 1238,
         "driver_number": 3,
+        "date": "2024-06-23T13:48:38.328000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_154810.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-23T13:48:38.328000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_154810.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-23T13:48:38.328000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_154810.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 3,
         "date": "2024-06-23T13:50:49.787000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_155032.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-23T13:50:53.788000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_155032.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-23T13:50:53.788000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_155032.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-23T13:50:53.788000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_155032.mp3"
     },
     {
@@ -1496,5 +1538,40 @@
         "driver_number": 3,
         "date": "2024-06-23T14:39:57.802000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_164438.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-23T14:39:59.286000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_164438.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-23T14:39:59.286000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_164438.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 3,
+        "date": "2024-06-23T14:39:59.286000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/DANRIC01_3_20240623_164438.mp3"
+    },
+    {
+        "session_key": 9540,
+        "meeting_key": 1239,
+        "driver_number": 3,
+        "date": "2024-06-28T11:12:36.038000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-28_Practice_1/TeamRadio/DANRIC01_3_20240628_131202.mp3"
+    },
+    {
+        "session_key": 9540,
+        "meeting_key": 1239,
+        "driver_number": 3,
+        "date": "2024-06-28T11:25:19.196000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-28_Practice_1/TeamRadio/DANRIC01_3_20240628_132449.mp3"
     }
 ]

@@ -2677,8 +2677,50 @@
         "session_key": 9539,
         "meeting_key": 1238,
         "driver_number": 2,
+        "date": "2024-06-23T13:30:49.977000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_153015.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T13:30:49.977000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_153015.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T13:30:49.977000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_153015.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
         "date": "2024-06-23T13:30:56.671000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_153015.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T13:37:31.229000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_153703.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T13:37:31.229000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_153703.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T13:37:31.229000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_153703.mp3"
     },
     {
         "session_key": 9539,
@@ -2693,5 +2735,40 @@
         "driver_number": 2,
         "date": "2024-06-23T14:26:59.902000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_162630.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T14:27:06.187000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_162630.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T14:27:06.187000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_162630.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 2,
+        "date": "2024-06-23T14:27:06.187000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/LOGSAR01_2_20240623_162630.mp3"
+    },
+    {
+        "session_key": 9540,
+        "meeting_key": 1239,
+        "driver_number": 2,
+        "date": "2024-06-28T11:19:15.079000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-28_Practice_1/TeamRadio/LOGSAR01_2_20240628_131904.mp3"
+    },
+    {
+        "session_key": 9545,
+        "meeting_key": 1239,
+        "driver_number": 2,
+        "date": "2024-06-28T15:01:19.440000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-28_Sprint_Qualifying/TeamRadio/LOGSAR01_2_20240628_170050.mp3"
     }
 ]
