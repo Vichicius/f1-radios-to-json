@@ -1573,5 +1573,47 @@
         "driver_number": 3,
         "date": "2024-06-28T11:25:19.196000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-28_Practice_1/TeamRadio/DANRIC01_3_20240628_132449.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 3,
+        "date": "2024-06-29T09:34:12.040000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/DANRIC01_3_20240629_113355.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 3,
+        "date": "2024-06-29T10:22:58.771000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/DANRIC01_3_20240629_122257.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 3,
+        "date": "2024-06-29T10:24:40.950000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/DANRIC01_3_20240629_122406.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 3,
+        "date": "2024-06-29T10:35:56.322000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/DANRIC01_3_20240629_124008.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 3,
+        "date": "2024-06-29T10:35:56.322000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/DANRIC01_3_20240629_124018.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 3,
+        "date": "2024-06-29T14:42:33.058000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/DANRIC01_3_20240629_164207.mp3"
     }
 ]

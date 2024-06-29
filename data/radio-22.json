@@ -3015,5 +3015,40 @@
         "driver_number": 22,
         "date": "2024-06-28T14:44:11.658000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-28_Sprint_Qualifying/TeamRadio/YUKTSU01_22_20240628_164350.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 22,
+        "date": "2024-06-29T10:10:41.179000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/YUKTSU01_22_20240629_121025.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 22,
+        "date": "2024-06-29T10:22:23.648000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/YUKTSU01_22_20240629_122200.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 22,
+        "date": "2024-06-29T10:22:23.648000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/YUKTSU01_22_20240629_122147.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 22,
+        "date": "2024-06-29T10:35:56.322000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/YUKTSU01_22_20240629_124019.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 22,
+        "date": "2024-06-29T14:12:08.979000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/YUKTSU01_22_20240629_161156.mp3"
     }
 ]

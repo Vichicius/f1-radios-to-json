@@ -5255,5 +5255,75 @@
         "driver_number": 1,
         "date": "2024-06-28T15:16:15.318000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-28_Sprint_Qualifying/TeamRadio/MAXVER01_1_20240628_171552.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T10:14:01.859000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/MAXVER01_1_20240629_121328.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T10:22:58.771000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/MAXVER01_1_20240629_122228.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T10:24:06.094000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/MAXVER01_1_20240629_122339.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T10:24:06.682000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/MAXVER01_1_20240629_122355.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T10:33:50.839000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/MAXVER01_1_20240629_123316.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T10:35:31.173000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/MAXVER01_1_20240629_123511.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T14:53:03.732000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/MAXVER01_1_20240629_165253.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T14:53:37.731000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/MAXVER01_1_20240629_165303.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T15:01:55.181000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/MAXVER01_1_20240629_170132.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 1,
+        "date": "2024-06-29T15:03:28.316000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/MAXVER01_1_20240629_170734.mp3"
     }
 ]

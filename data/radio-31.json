@@ -3742,14 +3742,14 @@
         "meeting_key": 1237,
         "driver_number": 31,
         "date": "2024-06-09T18:24:43.451000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_142429.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_142412.mp3"
     },
     {
         "session_key": 9531,
         "meeting_key": 1237,
         "driver_number": 31,
         "date": "2024-06-09T18:24:43.451000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_142412.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-09_Race/TeamRadio/ESTOCO01_31_20240609_142429.mp3"
     },
     {
         "session_key": 9531,
@@ -4114,5 +4114,68 @@
         "driver_number": 31,
         "date": "2024-06-28T11:29:44.447000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-28_Practice_1/TeamRadio/ESTOCO01_31_20240628_132854.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 31,
+        "date": "2024-06-29T10:09:00.896000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/ESTOCO01_31_20240629_120845.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 31,
+        "date": "2024-06-29T10:16:13.850000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/ESTOCO01_31_20240629_121549.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 31,
+        "date": "2024-06-29T10:22:23.648000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/ESTOCO01_31_20240629_122157.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 31,
+        "date": "2024-06-29T10:24:06.572000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/ESTOCO01_31_20240629_122350.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 31,
+        "date": "2024-06-29T10:31:36.623000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/ESTOCO01_31_20240629_123104.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 31,
+        "date": "2024-06-29T10:35:56.322000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/ESTOCO01_31_20240629_124005.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 31,
+        "date": "2024-06-29T14:45:51.351000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/ESTOCO01_31_20240629_164517.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 31,
+        "date": "2024-06-29T14:53:37.911000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/ESTOCO01_31_20240629_165312.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 31,
+        "date": "2024-06-29T14:53:38.019000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/ESTOCO01_31_20240629_165316.mp3"
     }
 ]

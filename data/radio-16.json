@@ -4344,13 +4344,6 @@
         "meeting_key": 1238,
         "driver_number": 16,
         "date": "2024-06-23T14:39:59.286000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/CHALEC01_16_20240623_164344.mp3"
-    },
-    {
-        "session_key": 9539,
-        "meeting_key": 1238,
-        "driver_number": 16,
-        "date": "2024-06-23T14:39:59.286000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/CHALEC01_16_20240623_164330.mp3"
     },
     {
@@ -4359,6 +4352,13 @@
         "driver_number": 16,
         "date": "2024-06-23T14:39:59.286000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/CHALEC01_16_20240623_164340.mp3"
+    },
+    {
+        "session_key": 9539,
+        "meeting_key": 1238,
+        "driver_number": 16,
+        "date": "2024-06-23T14:39:59.286000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-23_Race/TeamRadio/CHALEC01_16_20240623_164344.mp3"
     },
     {
         "session_key": 9539,
@@ -4422,5 +4422,68 @@
         "driver_number": 16,
         "date": "2024-06-28T15:17:56.377000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-28_Sprint_Qualifying/TeamRadio/CHALEC01_16_20240628_172055.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 16,
+        "date": "2024-06-29T10:21:48.518000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/CHALEC01_16_20240629_122127.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 16,
+        "date": "2024-06-29T10:21:48.705000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/CHALEC01_16_20240629_122141.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 16,
+        "date": "2024-06-29T10:23:33.870000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/CHALEC01_16_20240629_122314.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 16,
+        "date": "2024-06-29T10:24:06.646000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/CHALEC01_16_20240629_122353.mp3"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 16,
+        "date": "2024-06-29T10:24:08.989000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/CHALEC01_16_20240629_122404.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 16,
+        "date": "2024-06-29T14:10:28.638000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/CHALEC01_16_20240629_161023.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 16,
+        "date": "2024-06-29T14:53:03.880000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/CHALEC01_16_20240629_165300.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 16,
+        "date": "2024-06-29T14:53:37.731000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/CHALEC01_16_20240629_165308.mp3"
+    },
+    {
+        "session_key": 9541,
+        "meeting_key": 1239,
+        "driver_number": 16,
+        "date": "2024-06-29T15:02:29.434000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/CHALEC01_16_20240629_170220.mp3"
     }
 ]
