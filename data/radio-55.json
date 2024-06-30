@@ -4282,5 +4282,12 @@
         "driver_number": 55,
         "date": "2024-06-29T15:03:28.316000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/CARSAI01_55_20240629_170556.mp3"
+    },
+    {
+        "session_key": 9550,
+        "meeting_key": 1239,
+        "driver_number": 55,
+        "date": "2024-06-30T14:31:29.261000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-30_Race/TeamRadio/CARSAI01_55_20240630_163229.mp3"
     }
 ]

@@ -2966,5 +2966,12 @@
         "driver_number": 24,
         "date": "2024-06-29T14:19:51.665000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/GUAZHO01_24_20240629_161858.mp3"
+    },
+    {
+        "session_key": 9550,
+        "meeting_key": 1239,
+        "driver_number": 24,
+        "date": "2024-06-30T13:27:29.311000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-30_Race/TeamRadio/GUAZHO01_24_20240630_152715.mp3"
     }
 ]

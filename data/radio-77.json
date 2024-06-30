@@ -1951,5 +1951,12 @@
         "driver_number": 77,
         "date": "2024-06-29T14:21:32.013000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Qualifying/TeamRadio/VALBOT01_77_20240629_162113.mp3"
+    },
+    {
+        "session_key": 9550,
+        "meeting_key": 1239,
+        "driver_number": 77,
+        "date": "2024-06-30T13:41:30.213000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-30_Race/TeamRadio/VALBOT01_77_20240630_154100.mp3"
     }
 ]
