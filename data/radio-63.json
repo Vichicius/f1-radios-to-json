@@ -5794,5 +5794,40 @@
         "driver_number": 63,
         "date": "2024-06-30T14:31:29.261000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-30_Race/TeamRadio/GEORUS01_63_20240630_162856.mp3"
+    },
+    {
+        "session_key": 9551,
+        "meeting_key": 1240,
+        "driver_number": 63,
+        "date": "2024-07-05T12:27:58.559000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/GEORUS01_63_20240705_132728.mp3"
+    },
+    {
+        "session_key": 9552,
+        "meeting_key": 1240,
+        "driver_number": 63,
+        "date": "2024-07-05T15:03:31.599000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_2/TeamRadio/GEORUS01_63_20240705_160305.mp3"
+    },
+    {
+        "session_key": 9552,
+        "meeting_key": 1240,
+        "driver_number": 63,
+        "date": "2024-07-05T15:09:37.397000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_2/TeamRadio/GEORUS01_63_20240705_160910.mp3"
+    },
+    {
+        "session_key": 9552,
+        "meeting_key": 1240,
+        "driver_number": 63,
+        "date": "2024-07-05T15:18:28.435000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_2/TeamRadio/GEORUS01_63_20240705_161756.mp3"
+    },
+    {
+        "session_key": 9552,
+        "meeting_key": 1240,
+        "driver_number": 63,
+        "date": "2024-07-05T15:18:28.435000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_2/TeamRadio/GEORUS01_63_20240705_161802.mp3"
     }
 ]

@@ -4380,5 +4380,19 @@
         "driver_number": 11,
         "date": "2024-06-30T14:31:29.261000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-30_Race/TeamRadio/SERPER01_11_20240630_163412.mp3"
+    },
+    {
+        "session_key": 9552,
+        "meeting_key": 1240,
+        "driver_number": 11,
+        "date": "2024-07-05T15:15:08.611000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_2/TeamRadio/SERPER01_11_20240705_161451.mp3"
+    },
+    {
+        "session_key": 9552,
+        "meeting_key": 1240,
+        "driver_number": 11,
+        "date": "2024-07-05T15:19:35.251000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_2/TeamRadio/SERPER01_11_20240705_161911.mp3"
     }
 ]
