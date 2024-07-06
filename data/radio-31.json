@@ -4282,5 +4282,47 @@
         "driver_number": 31,
         "date": "2024-07-05T15:52:07.861000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_2/TeamRadio/ESTOCO01_31_20240705_165138.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 31,
+        "date": "2024-07-06T10:34:50.643000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/ESTOCO01_31_20240706_113416.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 31,
+        "date": "2024-07-06T10:48:05.278000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/ESTOCO01_31_20240706_114742.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 31,
+        "date": "2024-07-06T11:15:06.283000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/ESTOCO01_31_20240706_121441.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 31,
+        "date": "2024-07-06T11:21:09.782000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/ESTOCO01_31_20240706_122038.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 31,
+        "date": "2024-07-06T11:23:55.495000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/ESTOCO01_31_20240706_122350.mp3"
+    },
+    {
+        "session_key": 9554,
+        "meeting_key": 1240,
+        "driver_number": 31,
+        "date": "2024-07-06T14:29:02.103000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/ESTOCO01_31_20240706_152840.mp3"
     }
 ]

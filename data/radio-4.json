@@ -4975,5 +4975,47 @@
         "driver_number": 4,
         "date": "2024-07-05T15:53:14.507000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_2/TeamRadio/LANNOR01_4_20240705_165305.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 4,
+        "date": "2024-07-06T10:53:02.442000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/LANNOR01_4_20240706_115249.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 4,
+        "date": "2024-07-06T11:01:19.279000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/LANNOR01_4_20240706_120050.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 4,
+        "date": "2024-07-06T11:04:38.067000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/LANNOR01_4_20240706_120406.mp3"
+    },
+    {
+        "session_key": 9554,
+        "meeting_key": 1240,
+        "driver_number": 4,
+        "date": "2024-07-06T14:18:04.521000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/LANNOR01_4_20240706_151737.mp3"
+    },
+    {
+        "session_key": 9554,
+        "meeting_key": 1240,
+        "driver_number": 4,
+        "date": "2024-07-06T14:52:09.161000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/LANNOR01_4_20240706_155153.mp3"
+    },
+    {
+        "session_key": 9554,
+        "meeting_key": 1240,
+        "driver_number": 4,
+        "date": "2024-07-06T15:16:12.353000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/LANNOR01_4_20240706_161944.mp3"
     }
 ]

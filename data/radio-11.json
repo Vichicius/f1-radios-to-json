@@ -4394,5 +4394,40 @@
         "driver_number": 11,
         "date": "2024-07-05T15:19:35.251000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_2/TeamRadio/SERPER01_11_20240705_161911.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 11,
+        "date": "2024-07-06T10:35:23.852000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/SERPER01_11_20240706_113504.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 11,
+        "date": "2024-07-06T11:11:48.536000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/SERPER01_11_20240706_121120.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 11,
+        "date": "2024-07-06T11:16:45.323000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/SERPER01_11_20240706_121628.mp3"
+    },
+    {
+        "session_key": 9554,
+        "meeting_key": 1240,
+        "driver_number": 11,
+        "date": "2024-07-06T14:15:16.656000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/SERPER01_11_20240706_151249.mp3"
+    },
+    {
+        "session_key": 9554,
+        "meeting_key": 1240,
+        "driver_number": 11,
+        "date": "2024-07-06T14:15:17.031000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/SERPER01_11_20240706_151506.mp3"
     }
 ]

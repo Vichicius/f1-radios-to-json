@@ -3001,5 +3001,12 @@
         "driver_number": 24,
         "date": "2024-07-05T12:11:15.893000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/GUAZHO01_24_20240705_131039.mp3"
+    },
+    {
+        "session_key": 9553,
+        "meeting_key": 1240,
+        "driver_number": 24,
+        "date": "2024-07-06T10:33:13.327000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Practice_3/TeamRadio/GUAZHO01_24_20240706_113306.mp3"
     }
 ]
