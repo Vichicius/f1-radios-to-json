@@ -5010,5 +5010,54 @@
         "driver_number": 44,
         "date": "2024-07-06T15:16:12.353000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/LEWHAM01_44_20240706_162006.mp3"
+    },
+    {
+        "session_key": 9558,
+        "meeting_key": 1240,
+        "driver_number": 44,
+        "date": "2024-07-07T14:34:44.810000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-07_Race/TeamRadio/LEWHAM01_44_20240707_153419.mp3"
+    },
+    {
+        "session_key": 9558,
+        "meeting_key": 1240,
+        "driver_number": 44,
+        "date": "2024-07-07T14:48:32.628000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-07_Race/TeamRadio/LEWHAM01_44_20240707_154756.mp3"
+    },
+    {
+        "session_key": 9558,
+        "meeting_key": 1240,
+        "driver_number": 44,
+        "date": "2024-07-07T14:57:58.177000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-07_Race/TeamRadio/LEWHAM01_44_20240707_155741.mp3"
+    },
+    {
+        "session_key": 9558,
+        "meeting_key": 1240,
+        "driver_number": 44,
+        "date": "2024-07-07T15:01:14.355000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-07_Race/TeamRadio/LEWHAM01_44_20240707_160054.mp3"
+    },
+    {
+        "session_key": 9558,
+        "meeting_key": 1240,
+        "driver_number": 44,
+        "date": "2024-07-07T15:08:25.385000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-07_Race/TeamRadio/LEWHAM01_44_20240707_160752.mp3"
+    },
+    {
+        "session_key": 9558,
+        "meeting_key": 1240,
+        "driver_number": 44,
+        "date": "2024-07-07T15:27:44.653000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-07_Race/TeamRadio/LEWHAM01_44_20240707_162640.mp3"
+    },
+    {
+        "session_key": 9558,
+        "meeting_key": 1240,
+        "driver_number": 44,
+        "date": "2024-07-07T15:29:55.120000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-07_Race/TeamRadio/LEWHAM01_44_20240707_162919.mp3"
     }
 ]
