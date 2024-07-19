@@ -4373,5 +4373,12 @@
         "driver_number": 55,
         "date": "2024-07-07T15:31:30.408000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-07_Race/TeamRadio/CARSAI01_55_20240707_163514.mp3"
+    },
+    {
+        "session_key": 9560,
+        "meeting_key": 1241,
+        "driver_number": 55,
+        "date": "2024-07-19T15:10:59.875000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_2/TeamRadio/CARSAI01_55_20240719_171049.mp3"
     }
 ]

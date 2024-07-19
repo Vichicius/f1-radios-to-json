@@ -3175,14 +3175,14 @@
         "meeting_key": 1240,
         "driver_number": 27,
         "date": "2024-07-06T15:16:12.353000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/NICHUL01_27_20240706_161937.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/NICHUL01_27_20240706_161951.mp3"
     },
     {
         "session_key": 9554,
         "meeting_key": 1240,
         "driver_number": 27,
         "date": "2024-07-06T15:16:12.353000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/NICHUL01_27_20240706_161951.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-06_Qualifying/TeamRadio/NICHUL01_27_20240706_161937.mp3"
     },
     {
         "session_key": 9558,
@@ -3197,5 +3197,26 @@
         "driver_number": 27,
         "date": "2024-07-07T15:31:30.408000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-07_Race/TeamRadio/NICHUL01_27_20240707_163650.mp3"
+    },
+    {
+        "session_key": 9560,
+        "meeting_key": 1241,
+        "driver_number": 27,
+        "date": "2024-07-19T15:15:59.872000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_2/TeamRadio/NICHUL01_27_20240719_171552.mp3"
+    },
+    {
+        "session_key": 9560,
+        "meeting_key": 1241,
+        "driver_number": 27,
+        "date": "2024-07-19T15:37:26.222000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_2/TeamRadio/NICHUL01_27_20240719_173702.mp3"
+    },
+    {
+        "session_key": 9560,
+        "meeting_key": 1241,
+        "driver_number": 27,
+        "date": "2024-07-19T15:51:48.339000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_2/TeamRadio/NICHUL01_27_20240719_175136.mp3"
     }
 ]
