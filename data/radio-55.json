@@ -4380,5 +4380,47 @@
         "driver_number": 55,
         "date": "2024-07-19T15:10:59.875000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_2/TeamRadio/CARSAI01_55_20240719_171049.mp3"
+    },
+    {
+        "session_key": 9561,
+        "meeting_key": 1241,
+        "driver_number": 55,
+        "date": "2024-07-20T11:32:24.036000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Practice_3/TeamRadio/CARSAI01_55_20240720_133205.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 55,
+        "date": "2024-07-20T14:06:17.115000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CARSAI01_55_20240720_160547.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 55,
+        "date": "2024-07-20T14:41:35.089000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CARSAI01_55_20240720_164124.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 55,
+        "date": "2024-07-20T14:46:01.179000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CARSAI01_55_20240720_164551.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 55,
+        "date": "2024-07-20T14:46:35.088000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CARSAI01_55_20240720_164604.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 55,
+        "date": "2024-07-20T15:00:21.831000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CARSAI01_55_20240720_170012.mp3"
     }
 ]

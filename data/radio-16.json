@@ -4660,5 +4660,68 @@
         "driver_number": 16,
         "date": "2024-07-19T15:17:38.102000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_2/TeamRadio/CHALEC01_16_20240719_171733.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 16,
+        "date": "2024-07-20T14:25:02.703000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CHALEC01_16_20240720_162435.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 16,
+        "date": "2024-07-20T14:42:09.566000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CHALEC01_16_20240720_164152.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 16,
+        "date": "2024-07-20T14:45:27.328000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CHALEC01_16_20240720_164456.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 16,
+        "date": "2024-07-20T15:03:39.895000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CHALEC01_16_20240720_170330.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 16,
+        "date": "2024-07-20T15:03:39.895000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CHALEC01_16_20240720_170334.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 16,
+        "date": "2024-07-20T15:04:13.408000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CHALEC01_16_20240720_170338.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 16,
+        "date": "2024-07-20T15:05:20.061000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CHALEC01_16_20240720_170451.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 16,
+        "date": "2024-07-20T15:22:59.686000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CHALEC01_16_20240720_172231.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 16,
+        "date": "2024-07-20T15:26:17.832000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/CHALEC01_16_20240720_172559.mp3"
     }
 ]

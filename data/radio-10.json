@@ -3995,5 +3995,19 @@
         "driver_number": 10,
         "date": "2024-07-19T15:10:26.107000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_2/TeamRadio/PIEGAS01_10_20240719_170955.mp3"
+    },
+    {
+        "session_key": 9561,
+        "meeting_key": 1241,
+        "driver_number": 10,
+        "date": "2024-07-20T10:55:26.799000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Practice_3/TeamRadio/PIEGAS01_10_20240720_125511.mp3"
+    },
+    {
+        "session_key": 9562,
+        "meeting_key": 1241,
+        "driver_number": 10,
+        "date": "2024-07-20T14:02:25.152000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/PIEGAS01_10_20240720_160151.mp3"
     }
 ]
