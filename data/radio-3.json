@@ -1888,5 +1888,40 @@
         "driver_number": 3,
         "date": "2024-07-20T15:26:18.016000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Qualifying/TeamRadio/DANRIC01_3_20240720_172606.mp3"
+    },
+    {
+        "session_key": 9566,
+        "meeting_key": 1241,
+        "driver_number": 3,
+        "date": "2024-07-21T12:56:26.421000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/DANRIC01_3_20240721_145601.mp3"
+    },
+    {
+        "session_key": 9566,
+        "meeting_key": 1241,
+        "driver_number": 3,
+        "date": "2024-07-21T13:44:34.858000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/DANRIC01_3_20240721_154404.mp3"
+    },
+    {
+        "session_key": 9566,
+        "meeting_key": 1241,
+        "driver_number": 3,
+        "date": "2024-07-21T14:43:39.207000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/DANRIC01_3_20240721_164640.mp3"
+    },
+    {
+        "session_key": 9566,
+        "meeting_key": 1241,
+        "driver_number": 3,
+        "date": "2024-07-21T14:43:39.207000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/DANRIC01_3_20240721_164649.mp3"
+    },
+    {
+        "session_key": 9566,
+        "meeting_key": 1241,
+        "driver_number": 3,
+        "date": "2024-07-21T14:43:39.207000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/DANRIC01_3_20240721_164654.mp3"
     }
 ]

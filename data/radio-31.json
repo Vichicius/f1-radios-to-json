@@ -4373,5 +4373,26 @@
         "driver_number": 31,
         "date": "2024-07-20T10:48:50.475000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-20_Practice_3/TeamRadio/ESTOCO01_31_20240720_124816.mp3"
+    },
+    {
+        "session_key": 9566,
+        "meeting_key": 1241,
+        "driver_number": 31,
+        "date": "2024-07-21T12:27:48.251000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/ESTOCO01_31_20240721_142708.mp3"
+    },
+    {
+        "session_key": 9566,
+        "meeting_key": 1241,
+        "driver_number": 31,
+        "date": "2024-07-21T13:23:34.782000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/ESTOCO01_31_20240721_152328.mp3"
+    },
+    {
+        "session_key": 9566,
+        "meeting_key": 1241,
+        "driver_number": 31,
+        "date": "2024-07-21T14:43:39.207000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/ESTOCO01_31_20240721_165237.mp3"
     }
 ]
