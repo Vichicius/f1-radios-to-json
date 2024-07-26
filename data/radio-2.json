@@ -3022,5 +3022,54 @@
         "driver_number": 2,
         "date": "2024-07-21T14:33:17.978000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/LOGSAR01_2_20240721_163244.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 2,
+        "date": "2024-07-26T11:41:31.537000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/LOGSAR01_2_20240726_134117.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 2,
+        "date": "2024-07-26T11:41:31.537000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/LOGSAR01_2_20240726_134120.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 2,
+        "date": "2024-07-26T11:41:31.537000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/LOGSAR01_2_20240726_134124.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 2,
+        "date": "2024-07-26T11:47:02.507000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/LOGSAR01_2_20240726_134622.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 2,
+        "date": "2024-07-26T11:59:44.609000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/LOGSAR01_2_20240726_135915.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 2,
+        "date": "2024-07-26T12:29:14.734000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/LOGSAR01_2_20240726_142842.mp3"
+    },
+    {
+        "session_key": 9568,
+        "meeting_key": 1242,
+        "driver_number": 2,
+        "date": "2024-07-26T15:14:36.001000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_2/TeamRadio/LOGSAR01_2_20240726_171409.mp3"
     }
 ]

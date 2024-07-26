@@ -4037,5 +4037,89 @@
         "driver_number": 10,
         "date": "2024-07-21T13:16:55.298000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/PIEGAS01_10_20240721_151649.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T11:41:31.537000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_134116.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T11:41:31.537000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_134125.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T12:08:06.132000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_140739.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T12:17:35.005000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_141734.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T12:18:08.846000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_141757.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T12:28:09.546000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_142748.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T12:28:09.546000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_142754.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T12:37:33.573000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_143707.mp3"
+    },
+    {
+        "session_key": 9568,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T15:02:23.270000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_2/TeamRadio/PIEGAS01_10_20240726_170202.mp3"
+    },
+    {
+        "session_key": 9568,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T15:02:23.345000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_2/TeamRadio/PIEGAS01_10_20240726_170207.mp3"
+    },
+    {
+        "session_key": 9568,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T15:16:16.908000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_2/TeamRadio/PIEGAS01_10_20240726_171542.mp3"
+    },
+    {
+        "session_key": 9568,
+        "meeting_key": 1242,
+        "driver_number": 10,
+        "date": "2024-07-26T15:49:25.155000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_2/TeamRadio/PIEGAS01_10_20240726_174918.mp3"
     }
 ]

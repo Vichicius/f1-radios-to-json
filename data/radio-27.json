@@ -3274,5 +3274,19 @@
         "driver_number": 27,
         "date": "2024-07-21T14:43:39.207000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/NICHUL01_27_20240721_165126.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 27,
+        "date": "2024-07-26T12:07:00.923000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/NICHUL01_27_20240726_140644.mp3"
+    },
+    {
+        "session_key": 9567,
+        "meeting_key": 1242,
+        "driver_number": 27,
+        "date": "2024-07-26T12:25:21.246000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/NICHUL01_27_20240726_142445.mp3"
     }
 ]
