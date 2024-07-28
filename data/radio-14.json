@@ -3743,5 +3743,68 @@
         "driver_number": 14,
         "date": "2024-07-26T15:35:03.419000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_2/TeamRadio/FERALO01_14_20240726_173438.mp3"
+    },
+    {
+        "session_key": 9569,
+        "meeting_key": 1242,
+        "driver_number": 14,
+        "date": "2024-07-27T10:36:10.440000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-27_Practice_3/TeamRadio/FERALO01_14_20240727_123557.mp3"
+    },
+    {
+        "session_key": 9570,
+        "meeting_key": 1242,
+        "driver_number": 14,
+        "date": "2024-07-27T13:59:15.230000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-27_Qualifying/TeamRadio/FERALO01_14_20240727_155841.mp3"
+    },
+    {
+        "session_key": 9570,
+        "meeting_key": 1242,
+        "driver_number": 14,
+        "date": "2024-07-27T14:08:42.235000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-27_Qualifying/TeamRadio/FERALO01_14_20240727_160804.mp3"
+    },
+    {
+        "session_key": 9570,
+        "meeting_key": 1242,
+        "driver_number": 14,
+        "date": "2024-07-27T14:35:52.710000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-27_Qualifying/TeamRadio/FERALO01_14_20240727_163522.mp3"
+    },
+    {
+        "session_key": 9570,
+        "meeting_key": 1242,
+        "driver_number": 14,
+        "date": "2024-07-27T14:35:52.912000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-27_Qualifying/TeamRadio/FERALO01_14_20240727_163527.mp3"
+    },
+    {
+        "session_key": 9570,
+        "meeting_key": 1242,
+        "driver_number": 14,
+        "date": "2024-07-27T15:01:53.751000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-27_Qualifying/TeamRadio/FERALO01_14_20240727_170140.mp3"
+    },
+    {
+        "session_key": 9574,
+        "meeting_key": 1242,
+        "driver_number": 14,
+        "date": "2024-07-28T13:19:23.067000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/FERALO01_14_20240728_151905.mp3"
+    },
+    {
+        "session_key": 9574,
+        "meeting_key": 1242,
+        "driver_number": 14,
+        "date": "2024-07-28T13:45:36.225000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/FERALO01_14_20240728_154522.mp3"
+    },
+    {
+        "session_key": 9574,
+        "meeting_key": 1242,
+        "driver_number": 14,
+        "date": "2024-07-28T13:45:36.442000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/FERALO01_14_20240728_154526.mp3"
     }
 ]

@@ -2098,5 +2098,47 @@
         "driver_number": 77,
         "date": "2024-07-26T12:27:01.471000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/VALBOT01_77_20240726_142640.mp3"
+    },
+    {
+        "session_key": 9569,
+        "meeting_key": 1242,
+        "driver_number": 77,
+        "date": "2024-07-27T11:29:36.837000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-27_Practice_3/TeamRadio/VALBOT01_77_20240727_132903.mp3"
+    },
+    {
+        "session_key": 9570,
+        "meeting_key": 1242,
+        "driver_number": 77,
+        "date": "2024-07-27T14:01:30.575000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-27_Qualifying/TeamRadio/VALBOT01_77_20240727_160106.mp3"
+    },
+    {
+        "session_key": 9570,
+        "meeting_key": 1242,
+        "driver_number": 77,
+        "date": "2024-07-27T14:46:24.627000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-27_Qualifying/TeamRadio/VALBOT01_77_20240727_164546.mp3"
+    },
+    {
+        "session_key": 9574,
+        "meeting_key": 1242,
+        "driver_number": 77,
+        "date": "2024-07-28T13:28:52.358000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/VALBOT01_77_20240728_152813.mp3"
+    },
+    {
+        "session_key": 9574,
+        "meeting_key": 1242,
+        "driver_number": 77,
+        "date": "2024-07-28T14:06:11.713000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/VALBOT01_77_20240728_160541.mp3"
+    },
+    {
+        "session_key": 9574,
+        "meeting_key": 1242,
+        "driver_number": 77,
+        "date": "2024-07-28T14:25:45.693000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/VALBOT01_77_20240728_162835.mp3"
     }
 ]
