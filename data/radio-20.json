@@ -2496,14 +2496,14 @@
         "meeting_key": 1241,
         "driver_number": 20,
         "date": "2024-07-21T13:04:42.534000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/KEVMAG01_20_20240721_150422.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/KEVMAG01_20_20240721_150413.mp3"
     },
     {
         "session_key": 9566,
         "meeting_key": 1241,
         "driver_number": 20,
         "date": "2024-07-21T13:04:42.534000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/KEVMAG01_20_20240721_150413.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/KEVMAG01_20_20240721_150422.mp3"
     },
     {
         "session_key": 9566,
@@ -2602,5 +2602,26 @@
         "driver_number": 20,
         "date": "2024-07-28T14:25:45.693000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/KEVMAG01_20_20240728_162709.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 20,
+        "date": "2024-08-23T14:11:19.874000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/KEVMAG01_20_20240823_161043.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 20,
+        "date": "2024-08-23T14:36:44.619000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/KEVMAG01_20_20240823_163632.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 20,
+        "date": "2024-08-23T14:57:45.242000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/KEVMAG01_20_20240823_165717.mp3"
     }
 ]

@@ -4078,14 +4078,14 @@
         "meeting_key": 1242,
         "driver_number": 10,
         "date": "2024-07-26T12:28:09.546000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_142754.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_142748.mp3"
     },
     {
         "session_key": 9567,
         "meeting_key": 1242,
         "driver_number": 10,
         "date": "2024-07-26T12:28:09.546000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_142748.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/PIEGAS01_10_20240726_142754.mp3"
     },
     {
         "session_key": 9567,
@@ -4204,14 +4204,14 @@
         "meeting_key": 1242,
         "driver_number": 10,
         "date": "2024-07-28T13:03:16.591000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/PIEGAS01_10_20240728_150255.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/PIEGAS01_10_20240728_150240.mp3"
     },
     {
         "session_key": 9574,
         "meeting_key": 1242,
         "driver_number": 10,
         "date": "2024-07-28T13:03:16.591000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/PIEGAS01_10_20240728_150240.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/PIEGAS01_10_20240728_150255.mp3"
     },
     {
         "session_key": 9574,
@@ -4233,5 +4233,54 @@
         "driver_number": 10,
         "date": "2024-07-28T14:25:45.693000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/PIEGAS01_10_20240728_163254.mp3"
+    },
+    {
+        "session_key": 9575,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-23T10:33:57.410000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_1/TeamRadio/PIEGAS01_10_20240823_123345.mp3"
+    },
+    {
+        "session_key": 9575,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-23T10:35:03.234000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_1/TeamRadio/PIEGAS01_10_20240823_123424.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-23T13:59:42.799000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/PIEGAS01_10_20240823_155934.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-23T14:31:44.468000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/PIEGAS01_10_20240823_163137.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-23T14:48:22.289000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/PIEGAS01_10_20240823_164740.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-23T14:57:11.821000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/PIEGAS01_10_20240823_165650.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-23T15:02:10.401000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/PIEGAS01_10_20240823_170143.mp3"
     }
 ]

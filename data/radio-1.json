@@ -5779,14 +5779,14 @@
         "meeting_key": 1242,
         "driver_number": 1,
         "date": "2024-07-26T12:23:08.752000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/MAXVER01_1_20240726_142259.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/MAXVER01_1_20240726_142251.mp3"
     },
     {
         "session_key": 9567,
         "meeting_key": 1242,
         "driver_number": 1,
         "date": "2024-07-26T12:23:08.752000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/MAXVER01_1_20240726_142251.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/MAXVER01_1_20240726_142259.mp3"
     },
     {
         "session_key": 9568,
@@ -5913,5 +5913,40 @@
         "driver_number": 1,
         "date": "2024-07-28T14:25:45.693000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/MAXVER01_1_20240728_163233.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 1,
+        "date": "2024-08-23T14:09:39.558000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/MAXVER01_1_20240823_160917.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 1,
+        "date": "2024-08-23T14:10:44.751000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/MAXVER01_1_20240823_161030.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 1,
+        "date": "2024-08-23T14:42:16.129000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/MAXVER01_1_20240823_164147.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 1,
+        "date": "2024-08-23T14:45:02.781000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/MAXVER01_1_20240823_164456.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 1,
+        "date": "2024-08-23T14:46:42.181000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/MAXVER01_1_20240823_164612.mp3"
     }
 ]

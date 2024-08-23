@@ -3028,14 +3028,14 @@
         "meeting_key": 1239,
         "driver_number": 22,
         "date": "2024-06-29T10:22:23.648000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/YUKTSU01_22_20240629_122200.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/YUKTSU01_22_20240629_122147.mp3"
     },
     {
         "session_key": 9549,
         "meeting_key": 1239,
         "driver_number": 22,
         "date": "2024-06-29T10:22:23.648000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/YUKTSU01_22_20240629_122147.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/YUKTSU01_22_20240629_122200.mp3"
     },
     {
         "session_key": 9549,
@@ -3386,5 +3386,26 @@
         "driver_number": 22,
         "date": "2024-07-28T14:25:45.693000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-28_Race/TeamRadio/YUKTSU01_22_20240728_162958.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 22,
+        "date": "2024-08-23T14:14:05.363000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/YUKTSU01_22_20240823_161334.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 22,
+        "date": "2024-08-23T14:14:05.363000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/YUKTSU01_22_20240823_161333.mp3"
+    },
+    {
+        "session_key": 9576,
+        "meeting_key": 1243,
+        "driver_number": 22,
+        "date": "2024-08-23T14:35:04.312000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/YUKTSU01_22_20240823_163425.mp3"
     }
 ]
