@@ -3372,5 +3372,26 @@
         "driver_number": 27,
         "date": "2024-08-23T14:19:02.306000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/NICHUL01_27_20240823_161849.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 27,
+        "date": "2024-08-24T09:34:22.801000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/NICHUL01_27_20240824_113351.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 27,
+        "date": "2024-08-24T09:42:10.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/NICHUL01_27_20240824_114131.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 27,
+        "date": "2024-08-24T10:30:06.367000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/NICHUL01_27_20240824_122932.mp3"
     }
 ]

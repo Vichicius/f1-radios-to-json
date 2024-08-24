@@ -4611,5 +4611,47 @@
         "driver_number": 31,
         "date": "2024-08-23T15:03:51.123000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/ESTOCO01_31_20240823_170306.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 31,
+        "date": "2024-08-24T09:47:06.887000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/ESTOCO01_31_20240824_114643.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 31,
+        "date": "2024-08-24T09:48:13.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/ESTOCO01_31_20240824_114745.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 31,
+        "date": "2024-08-24T10:28:26.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/ESTOCO01_31_20240824_122814.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 31,
+        "date": "2024-08-24T10:36:05.552000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/ESTOCO01_31_20240824_123551.mp3"
+    },
+    {
+        "session_key": 9578,
+        "meeting_key": 1243,
+        "driver_number": 31,
+        "date": "2024-08-24T13:20:45.800000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/ESTOCO01_31_20240824_152026.mp3"
+    },
+    {
+        "session_key": 9578,
+        "meeting_key": 1243,
+        "driver_number": 31,
+        "date": "2024-08-24T13:21:19.642000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/ESTOCO01_31_20240824_152046.mp3"
     }
 ]

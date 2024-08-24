@@ -4926,5 +4926,19 @@
         "driver_number": 16,
         "date": "2024-08-23T14:52:13.251000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/CHALEC01_16_20240823_165203.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 16,
+        "date": "2024-08-24T09:54:17.805000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/CHALEC01_16_20240824_115347.mp3"
+    },
+    {
+        "session_key": 9578,
+        "meeting_key": 1243,
+        "driver_number": 16,
+        "date": "2024-08-24T13:52:11.417000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/CHALEC01_16_20240824_155134.mp3"
     }
 ]

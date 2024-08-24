@@ -6403,5 +6403,75 @@
         "driver_number": 63,
         "date": "2024-08-23T14:56:39.293000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/GEORUS01_63_20240823_165602.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T09:41:36.442000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/GEORUS01_63_20240824_114041.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T09:42:09.858000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/GEORUS01_63_20240824_114144.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T09:43:49.548000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/GEORUS01_63_20240824_114344.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T09:48:46.749000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/GEORUS01_63_20240824_114806.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T09:54:17.485000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/GEORUS01_63_20240824_115322.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T10:34:31.819000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/GEORUS01_63_20240824_123401.mp3"
+    },
+    {
+        "session_key": 9578,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T13:13:03.272000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/GEORUS01_63_20240824_151227.mp3"
+    },
+    {
+        "session_key": 9578,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T13:13:38.221000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/GEORUS01_63_20240824_151310.mp3"
+    },
+    {
+        "session_key": 9578,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T13:56:36.257000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/GEORUS01_63_20240824_155554.mp3"
+    },
+    {
+        "session_key": 9578,
+        "meeting_key": 1243,
+        "driver_number": 63,
+        "date": "2024-08-24T14:03:38.739000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/GEORUS01_63_20240824_160716.mp3"
     }
 ]

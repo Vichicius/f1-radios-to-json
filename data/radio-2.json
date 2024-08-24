@@ -3162,5 +3162,12 @@
         "driver_number": 2,
         "date": "2024-08-23T14:41:43.021000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_2/TeamRadio/LOGSAR01_2_20240823_164108.mp3"
+    },
+    {
+        "session_key": 9577,
+        "meeting_key": 1243,
+        "driver_number": 2,
+        "date": "2024-08-24T09:48:15.317000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Practice_3/TeamRadio/LOGSAR01_2_20240824_114747.mp3"
     }
 ]
