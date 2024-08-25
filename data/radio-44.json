@@ -5458,5 +5458,68 @@
         "driver_number": 44,
         "date": "2024-08-24T13:42:49.340000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/LEWHAM01_44_20240824_154237.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 44,
+        "date": "2024-08-25T12:29:55.217000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LEWHAM01_44_20240825_142930.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 44,
+        "date": "2024-08-25T13:31:45.094000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LEWHAM01_44_20240825_153128.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 44,
+        "date": "2024-08-25T13:33:25.433000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LEWHAM01_44_20240825_153259.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 44,
+        "date": "2024-08-25T13:51:04.847000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LEWHAM01_44_20240825_155100.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 44,
+        "date": "2024-08-25T14:07:39.693000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LEWHAM01_44_20240825_160732.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 44,
+        "date": "2024-08-25T14:20:55.096000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LEWHAM01_44_20240825_162024.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 44,
+        "date": "2024-08-25T14:29:46.552000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LEWHAM01_44_20240825_162913.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 44,
+        "date": "2024-08-25T14:32:32.008000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LEWHAM01_44_20240825_163204.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 44,
+        "date": "2024-08-25T14:38:23.216000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LEWHAM01_44_20240825_163918.mp3"
     }
 ]

@@ -4653,5 +4653,19 @@
         "driver_number": 31,
         "date": "2024-08-24T13:21:19.642000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/ESTOCO01_31_20240824_152046.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 31,
+        "date": "2024-08-25T13:23:25.524000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/ESTOCO01_31_20240825_152309.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 31,
+        "date": "2024-08-25T13:38:56.532000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/ESTOCO01_31_20240825_153844.mp3"
     }
 ]

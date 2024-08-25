@@ -4310,5 +4310,54 @@
         "driver_number": 10,
         "date": "2024-08-24T14:03:38.739000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/PIEGAS01_10_20240824_160510.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-25T12:54:08.862000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/PIEGAS01_10_20240825_145338.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-25T12:54:43.324000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/PIEGAS01_10_20240825_145415.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-25T13:07:56.573000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/PIEGAS01_10_20240825_150725.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-25T13:09:02.864000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/PIEGAS01_10_20240825_150853.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-25T13:32:50.335000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/PIEGAS01_10_20240825_153213.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-25T14:01:35.852000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/PIEGAS01_10_20240825_160122.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 10,
+        "date": "2024-08-25T14:38:23.216000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/PIEGAS01_10_20240825_164336.mp3"
     }
 ]

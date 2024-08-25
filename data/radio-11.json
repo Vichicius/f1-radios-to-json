@@ -4835,5 +4835,26 @@
         "driver_number": 11,
         "date": "2024-08-24T14:03:38.739000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-24_Qualifying/TeamRadio/SERPER01_11_20240824_160621.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 11,
+        "date": "2024-08-25T14:06:01.681000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/SERPER01_11_20240825_160546.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 11,
+        "date": "2024-08-25T14:14:53.419000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/SERPER01_11_20240825_161428.mp3"
+    },
+    {
+        "session_key": 9582,
+        "meeting_key": 1243,
+        "driver_number": 11,
+        "date": "2024-08-25T14:38:04.476000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/SERPER01_11_20240825_163748.mp3"
     }
 ]
