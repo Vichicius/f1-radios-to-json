@@ -4359,5 +4359,12 @@
         "driver_number": 10,
         "date": "2024-08-25T14:38:23.216000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/PIEGAS01_10_20240825_164336.mp3"
+    },
+    {
+        "session_key": 9583,
+        "meeting_key": 1244,
+        "driver_number": 10,
+        "date": "2024-08-30T11:34:53.761000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_1/TeamRadio/PIEGAS01_10_20240830_133422.mp3"
     }
 ]

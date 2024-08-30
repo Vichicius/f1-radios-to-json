@@ -3512,5 +3512,40 @@
         "driver_number": 23,
         "date": "2024-08-25T14:38:23.216000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/ALEALB01_23_20240825_164513.mp3"
+    },
+    {
+        "session_key": 9583,
+        "meeting_key": 1244,
+        "driver_number": 23,
+        "date": "2024-08-30T12:06:49.466000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_1/TeamRadio/ALEALB01_23_20240830_140633.mp3"
+    },
+    {
+        "session_key": 9584,
+        "meeting_key": 1244,
+        "driver_number": 23,
+        "date": "2024-08-30T15:04:37.188000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_2/TeamRadio/ALEALB01_23_20240830_152539.mp3"
+    },
+    {
+        "session_key": 9584,
+        "meeting_key": 1244,
+        "driver_number": 23,
+        "date": "2024-08-30T15:06:16.948000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_2/TeamRadio/ALEALB01_23_20240830_170543.mp3"
+    },
+    {
+        "session_key": 9584,
+        "meeting_key": 1244,
+        "driver_number": 23,
+        "date": "2024-08-30T15:15:38.583000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_2/TeamRadio/ALEALB01_23_20240830_171505.mp3"
+    },
+    {
+        "session_key": 9584,
+        "meeting_key": 1244,
+        "driver_number": 23,
+        "date": "2024-08-30T15:55:55.944000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_2/TeamRadio/ALEALB01_23_20240830_175545.mp3"
     }
 ]
