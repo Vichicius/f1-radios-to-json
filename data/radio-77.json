@@ -2210,5 +2210,12 @@
         "driver_number": 77,
         "date": "2024-08-30T15:28:20.397000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_2/TeamRadio/VALBOT01_77_20240830_172801.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 77,
+        "date": "2024-08-31T14:22:34.487000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/VALBOT01_77_20240831_162208.mp3"
     }
 ]

@@ -3848,5 +3848,12 @@
         "driver_number": 14,
         "date": "2024-08-25T14:38:23.216000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/FERALO01_14_20240825_164311.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 14,
+        "date": "2024-08-31T14:45:42.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/FERALO01_14_20240831_164513.mp3"
     }
 ]

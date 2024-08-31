@@ -4366,5 +4366,26 @@
         "driver_number": 10,
         "date": "2024-08-30T11:34:53.761000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_1/TeamRadio/PIEGAS01_10_20240830_133422.mp3"
+    },
+    {
+        "session_key": 9585,
+        "meeting_key": 1244,
+        "driver_number": 10,
+        "date": "2024-08-31T11:27:42.928000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Practice_3/TeamRadio/PIEGAS01_10_20240831_132708.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 10,
+        "date": "2024-08-31T14:03:48.257000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/PIEGAS01_10_20240831_160323.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 10,
+        "date": "2024-08-31T14:06:03.425000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/PIEGAS01_10_20240831_160523.mp3"
     }
 ]

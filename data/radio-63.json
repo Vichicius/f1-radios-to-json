@@ -6529,5 +6529,54 @@
         "driver_number": 63,
         "date": "2024-08-30T16:03:38.088000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_2/TeamRadio/GEORUS01_63_20240830_180319.mp3"
+    },
+    {
+        "session_key": 9585,
+        "meeting_key": 1244,
+        "driver_number": 63,
+        "date": "2024-08-31T10:40:20.058000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Practice_3/TeamRadio/GEORUS01_63_20240831_124013.mp3"
+    },
+    {
+        "session_key": 9585,
+        "meeting_key": 1244,
+        "driver_number": 63,
+        "date": "2024-08-31T10:46:26.113000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Practice_3/TeamRadio/GEORUS01_63_20240831_124603.mp3"
+    },
+    {
+        "session_key": 9585,
+        "meeting_key": 1244,
+        "driver_number": 63,
+        "date": "2024-08-31T11:11:45.294000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Practice_3/TeamRadio/GEORUS01_63_20240831_131117.mp3"
+    },
+    {
+        "session_key": 9585,
+        "meeting_key": 1244,
+        "driver_number": 63,
+        "date": "2024-08-31T11:20:31.724000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Practice_3/TeamRadio/GEORUS01_63_20240831_132016.mp3"
+    },
+    {
+        "session_key": 9585,
+        "meeting_key": 1244,
+        "driver_number": 63,
+        "date": "2024-08-31T11:21:06.785000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Practice_3/TeamRadio/GEORUS01_63_20240831_132042.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 63,
+        "date": "2024-08-31T14:11:34.414000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/GEORUS01_63_20240831_161104.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 63,
+        "date": "2024-08-31T15:07:36.123000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/GEORUS01_63_20240831_171201.mp3"
     }
 ]

@@ -2217,5 +2217,26 @@
         "driver_number": 3,
         "date": "2024-08-30T11:54:42.326000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_1/TeamRadio/DANRIC01_3_20240830_135411.mp3"
+    },
+    {
+        "session_key": 9585,
+        "meeting_key": 1244,
+        "driver_number": 3,
+        "date": "2024-08-31T10:52:27.196000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Practice_3/TeamRadio/DANRIC01_3_20240831_125151.mp3"
+    },
+    {
+        "session_key": 9585,
+        "meeting_key": 1244,
+        "driver_number": 3,
+        "date": "2024-08-31T11:28:14.600000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Practice_3/TeamRadio/DANRIC01_3_20240831_132735.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 3,
+        "date": "2024-08-31T14:47:21.384000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/DANRIC01_3_20240831_164646.mp3"
     }
 ]

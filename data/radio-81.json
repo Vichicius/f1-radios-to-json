@@ -4219,5 +4219,26 @@
         "driver_number": 81,
         "date": "2024-08-25T14:38:23.216000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/OSCPIA01_81_20240825_164144.mp3"
+    },
+    {
+        "session_key": 9585,
+        "meeting_key": 1244,
+        "driver_number": 81,
+        "date": "2024-08-31T11:18:21.353000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Practice_3/TeamRadio/OSCPIA01_81_20240831_131759.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 81,
+        "date": "2024-08-31T14:07:08.760000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/OSCPIA01_81_20240831_160639.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 81,
+        "date": "2024-08-31T15:07:36.123000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/OSCPIA01_81_20240831_170923.mp3"
     }
 ]

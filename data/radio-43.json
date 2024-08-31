@@ -5,5 +5,12 @@
         "driver_number": 43,
         "date": "2024-08-30T12:32:43.686000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_1/TeamRadio/FRACOL01_43_20240830_143233.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 43,
+        "date": "2024-08-31T14:20:56.308000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/FRACOL01_43_20240831_162036.mp3"
     }
 ]

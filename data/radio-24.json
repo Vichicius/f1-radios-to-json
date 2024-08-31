@@ -3120,5 +3120,12 @@
         "driver_number": 24,
         "date": "2024-08-30T12:07:21.522000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_1/TeamRadio/GUAZHO01_24_20240830_140655.mp3"
+    },
+    {
+        "session_key": 9586,
+        "meeting_key": 1244,
+        "driver_number": 24,
+        "date": "2024-08-31T14:19:48.471000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/GUAZHO01_24_20240831_161941.mp3"
     }
 ]
