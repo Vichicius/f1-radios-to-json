@@ -5836,5 +5836,47 @@
         "driver_number": 4,
         "date": "2024-08-31T15:06:40.357000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/LANNOR01_4_20240831_170611.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 4,
+        "date": "2024-09-01T12:25:54.057000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_142542.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 4,
+        "date": "2024-09-01T13:23:39.818000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_152319.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 4,
+        "date": "2024-09-01T13:28:37.294000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_152758.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 4,
+        "date": "2024-09-01T13:35:46.422000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_153532.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 4,
+        "date": "2024-09-01T13:50:40.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_155020.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 4,
+        "date": "2024-09-01T14:02:50.226000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_160239.mp3"
     }
 ]

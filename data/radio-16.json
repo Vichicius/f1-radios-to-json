@@ -5066,5 +5066,54 @@
         "driver_number": 16,
         "date": "2024-08-31T15:07:36.123000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/CHALEC01_16_20240831_171249.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 16,
+        "date": "2024-09-01T12:56:09.109000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_145557.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 16,
+        "date": "2024-09-01T13:24:45.547000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_152422.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 16,
+        "date": "2024-09-01T13:27:30.986000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_152652.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 16,
+        "date": "2024-09-01T13:46:48.562000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_154627.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 16,
+        "date": "2024-09-01T14:09:26.375000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_160915.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 16,
+        "date": "2024-09-01T14:20:29.053000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_161929.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 16,
+        "date": "2024-09-01T14:20:34.649000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_162131.mp3"
     }
 ]

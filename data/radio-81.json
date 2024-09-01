@@ -4240,5 +4240,47 @@
         "driver_number": 81,
         "date": "2024-08-31T15:07:36.123000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/OSCPIA01_81_20240831_170923.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 81,
+        "date": "2024-09-01T12:59:26.012000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_145909.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 81,
+        "date": "2024-09-01T13:13:13.005000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_151235.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 81,
+        "date": "2024-09-01T13:19:17.951000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_151853.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 81,
+        "date": "2024-09-01T13:54:33.848000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_155413.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 81,
+        "date": "2024-09-01T13:56:45.334000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_155610.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 81,
+        "date": "2024-09-01T14:20:34.649000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_162231.mp3"
     }
 ]

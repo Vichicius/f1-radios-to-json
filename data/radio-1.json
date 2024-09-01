@@ -6116,5 +6116,61 @@
         "driver_number": 1,
         "date": "2024-08-31T15:07:36.123000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-31_Qualifying/TeamRadio/MAXVER01_1_20240831_170909.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 1,
+        "date": "2024-09-01T13:05:30.784000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/MAXVER01_1_20240901_150504.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 1,
+        "date": "2024-09-01T13:13:47.132000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/MAXVER01_1_20240901_151337.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 1,
+        "date": "2024-09-01T13:37:25.925000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/MAXVER01_1_20240901_153657.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 1,
+        "date": "2024-09-01T13:50:07.970000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/MAXVER01_1_20240901_154937.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 1,
+        "date": "2024-09-01T13:55:05.845000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/MAXVER01_1_20240901_155456.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 1,
+        "date": "2024-09-01T14:12:11.742000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/MAXVER01_1_20240901_161140.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 1,
+        "date": "2024-09-01T14:20:34.649000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/MAXVER01_1_20240901_162843.mp3"
+    },
+    {
+        "session_key": 9590,
+        "meeting_key": 1244,
+        "driver_number": 1,
+        "date": "2024-09-01T14:20:34.649000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/MAXVER01_1_20240901_162918.mp3"
     }
 ]
