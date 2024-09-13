@@ -3036,5 +3036,33 @@
         "driver_number": 18,
         "date": "2024-08-25T14:38:23.216000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-25_Race/TeamRadio/LANSTR01_18_20240825_164144.mp3"
+    },
+    {
+        "session_key": 9591,
+        "meeting_key": 1245,
+        "driver_number": 18,
+        "date": "2024-09-13T10:25:21.697000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_1/TeamRadio/LANSTR01_18_20240913_122503.mp3"
+    },
+    {
+        "session_key": 9591,
+        "meeting_key": 1245,
+        "driver_number": 18,
+        "date": "2024-09-13T10:28:40.697000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_1/TeamRadio/LANSTR01_18_20240913_122807.mp3"
+    },
+    {
+        "session_key": 9591,
+        "meeting_key": 1245,
+        "driver_number": 18,
+        "date": "2024-09-13T10:32:33.018000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_1/TeamRadio/LANSTR01_18_20240913_123212.mp3"
+    },
+    {
+        "session_key": 9592,
+        "meeting_key": 1245,
+        "driver_number": 18,
+        "date": "2024-09-13T13:52:43.647000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/LANSTR01_18_20240913_155241.mp3"
     }
 ]

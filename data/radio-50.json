@@ -152,5 +152,33 @@
         "driver_number": 50,
         "date": "2024-07-19T12:10:19.284000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_1/TeamRadio/OLIBEA01_50_20240719_140953.mp3"
+    },
+    {
+        "session_key": 9592,
+        "meeting_key": 1245,
+        "driver_number": 50,
+        "date": "2024-09-13T13:51:35.585000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/OLIBEA01_50_20240913_155052.mp3"
+    },
+    {
+        "session_key": 9592,
+        "meeting_key": 1245,
+        "driver_number": 50,
+        "date": "2024-09-13T14:03:10.412000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/OLIBEA01_50_20240913_160245.mp3"
+    },
+    {
+        "session_key": 9592,
+        "meeting_key": 1245,
+        "driver_number": 50,
+        "date": "2024-09-13T14:03:45.494000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/OLIBEA01_50_20240913_160323.mp3"
+    },
+    {
+        "session_key": 9592,
+        "meeting_key": 1245,
+        "driver_number": 50,
+        "date": "2024-09-13T14:05:55.833000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/OLIBEA01_50_20240913_160538.mp3"
     }
 ]

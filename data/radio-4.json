@@ -5878,5 +5878,12 @@
         "driver_number": 4,
         "date": "2024-09-01T14:02:50.226000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_160239.mp3"
+    },
+    {
+        "session_key": 9591,
+        "meeting_key": 1245,
+        "driver_number": 4,
+        "date": "2024-09-13T10:08:17.277000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_1/TeamRadio/LANNOR01_4_20240913_120746.mp3"
     }
 ]

@@ -2231,5 +2231,19 @@
         "driver_number": 77,
         "date": "2024-09-01T14:20:34.649000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/VALBOT01_77_20240901_162901.mp3"
+    },
+    {
+        "session_key": 9591,
+        "meeting_key": 1245,
+        "driver_number": 77,
+        "date": "2024-09-13T09:57:16.681000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_1/TeamRadio/VALBOT01_77_20240913_115657.mp3"
+    },
+    {
+        "session_key": 9591,
+        "meeting_key": 1245,
+        "driver_number": 77,
+        "date": "2024-09-13T10:32:33.018000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_1/TeamRadio/VALBOT01_77_20240913_123228.mp3"
     }
 ]
