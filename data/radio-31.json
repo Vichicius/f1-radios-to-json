@@ -4772,5 +4772,12 @@
         "driver_number": 31,
         "date": "2024-09-13T13:36:42.607000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/ESTOCO01_31_20240913_153621.mp3"
+    },
+    {
+        "session_key": 9593,
+        "meeting_key": 1245,
+        "driver_number": 31,
+        "date": "2024-09-14T08:45:18.917000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Practice_3/TeamRadio/ESTOCO01_31_20240914_104449.mp3"
     }
 ]

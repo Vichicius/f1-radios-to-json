@@ -5654,5 +5654,19 @@
         "driver_number": 44,
         "date": "2024-09-13T13:05:20.604000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/LEWHAM01_44_20240913_150500.mp3"
+    },
+    {
+        "session_key": 9593,
+        "meeting_key": 1245,
+        "driver_number": 44,
+        "date": "2024-09-14T09:00:10.123000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Practice_3/TeamRadio/LEWHAM01_44_20240914_105933.mp3"
+    },
+    {
+        "session_key": 9594,
+        "meeting_key": 1245,
+        "driver_number": 44,
+        "date": "2024-09-14T12:55:21.677000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/LEWHAM01_44_20240914_145439.mp3"
     }
 ]

@@ -6634,5 +6634,54 @@
         "driver_number": 63,
         "date": "2024-09-13T13:58:14.611000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/GEORUS01_63_20240913_155739.mp3"
+    },
+    {
+        "session_key": 9593,
+        "meeting_key": 1245,
+        "driver_number": 63,
+        "date": "2024-09-14T09:07:53.137000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Practice_3/TeamRadio/GEORUS01_63_20240914_110720.mp3"
+    },
+    {
+        "session_key": 9593,
+        "meeting_key": 1245,
+        "driver_number": 63,
+        "date": "2024-09-14T09:13:23.377000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Practice_3/TeamRadio/GEORUS01_63_20240914_111309.mp3"
+    },
+    {
+        "session_key": 9593,
+        "meeting_key": 1245,
+        "driver_number": 63,
+        "date": "2024-09-14T09:17:47.718000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Practice_3/TeamRadio/GEORUS01_63_20240914_111709.mp3"
+    },
+    {
+        "session_key": 9593,
+        "meeting_key": 1245,
+        "driver_number": 63,
+        "date": "2024-09-14T09:20:33.238000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Practice_3/TeamRadio/GEORUS01_63_20240914_112009.mp3"
+    },
+    {
+        "session_key": 9594,
+        "meeting_key": 1245,
+        "driver_number": 63,
+        "date": "2024-09-14T12:00:17.792000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/GEORUS01_63_20240914_135953.mp3"
+    },
+    {
+        "session_key": 9594,
+        "meeting_key": 1245,
+        "driver_number": 63,
+        "date": "2024-09-14T12:26:42.760000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/GEORUS01_63_20240914_142632.mp3"
+    },
+    {
+        "session_key": 9594,
+        "meeting_key": 1245,
+        "driver_number": 63,
+        "date": "2024-09-14T12:31:06.287000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/GEORUS01_63_20240914_143048.mp3"
     }
 ]
