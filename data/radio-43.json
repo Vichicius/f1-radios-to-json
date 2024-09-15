@@ -75,5 +75,40 @@
         "driver_number": 43,
         "date": "2024-09-14T13:07:42.659000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/FRACOL01_43_20240914_151301.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 43,
+        "date": "2024-09-15T10:57:30.736000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/FRACOL01_43_20240915_125639.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 43,
+        "date": "2024-09-15T11:16:15.223000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/FRACOL01_43_20240915_131607.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 43,
+        "date": "2024-09-15T12:19:48.152000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/FRACOL01_43_20240915_141938.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 43,
+        "date": "2024-09-15T12:33:03.240000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/FRACOL01_43_20240915_143236.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 43,
+        "date": "2024-09-15T12:54:35.388000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/FRACOL01_43_20240915_145248.mp3"
     }
 ]

@@ -5206,5 +5206,68 @@
         "driver_number": 16,
         "date": "2024-09-14T13:02:31.476000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/CHALEC01_16_20240914_150201.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 16,
+        "date": "2024-09-15T11:43:18.826000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/CHALEC01_16_20240915_134258.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 16,
+        "date": "2024-09-15T12:00:27.142000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/CHALEC01_16_20240915_140012.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 16,
+        "date": "2024-09-15T12:08:13.026000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/CHALEC01_16_20240915_140759.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 16,
+        "date": "2024-09-15T12:09:53.337000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/CHALEC01_16_20240915_140916.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 16,
+        "date": "2024-09-15T12:13:44.034000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/CHALEC01_16_20240915_141318.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 16,
+        "date": "2024-09-15T12:15:24.357000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/CHALEC01_16_20240915_141500.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 16,
+        "date": "2024-09-15T12:29:44.363000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/CHALEC01_16_20240915_142410.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 16,
+        "date": "2024-09-15T12:29:44.541000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/CHALEC01_16_20240915_142931.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 16,
+        "date": "2024-09-15T12:39:43.850000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/CHALEC01_16_20240915_143914.mp3"
     }
 ]

@@ -6200,5 +6200,26 @@
         "driver_number": 1,
         "date": "2024-09-14T12:08:01.507000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/MAXVER01_1_20240914_140716.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 1,
+        "date": "2024-09-15T11:22:20.967000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/MAXVER01_1_20240915_132209.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 1,
+        "date": "2024-09-15T11:48:19.526000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/MAXVER01_1_20240915_134808.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 1,
+        "date": "2024-09-15T12:03:13.247000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/MAXVER01_1_20240915_140304.mp3"
     }
 ]

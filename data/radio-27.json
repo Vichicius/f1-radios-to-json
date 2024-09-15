@@ -3498,5 +3498,19 @@
         "driver_number": 27,
         "date": "2024-09-14T12:32:12.432000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/NICHUL01_27_20240914_143157.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 27,
+        "date": "2024-09-15T12:15:55.889000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/NICHUL01_27_20240915_141529.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 27,
+        "date": "2024-09-15T12:52:24.308000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/NICHUL01_27_20240915_145154.mp3"
     }
 ]

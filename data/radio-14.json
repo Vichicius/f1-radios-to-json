@@ -3869,5 +3869,12 @@
         "driver_number": 14,
         "date": "2024-09-14T13:06:53.738000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/FERALO01_14_20240914_150628.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 14,
+        "date": "2024-09-15T12:47:51.566000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/FERALO01_14_20240915_144722.mp3"
     }
 ]

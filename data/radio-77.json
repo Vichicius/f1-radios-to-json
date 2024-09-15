@@ -2245,5 +2245,12 @@
         "driver_number": 77,
         "date": "2024-09-13T10:32:33.018000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_1/TeamRadio/VALBOT01_77_20240913_123228.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 77,
+        "date": "2024-09-15T12:49:37.384000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/VALBOT01_77_20240915_144935.mp3"
     }
 ]

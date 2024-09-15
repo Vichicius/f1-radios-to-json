@@ -3064,5 +3064,19 @@
         "driver_number": 18,
         "date": "2024-09-13T13:52:43.647000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/LANSTR01_18_20240913_155241.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 18,
+        "date": "2024-09-15T11:07:25.193000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/LANSTR01_18_20240915_130702.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 18,
+        "date": "2024-09-15T11:11:49.952000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/LANSTR01_18_20240915_131138.mp3"
     }
 ]

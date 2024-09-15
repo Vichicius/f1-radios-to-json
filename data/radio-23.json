@@ -3617,5 +3617,12 @@
         "driver_number": 23,
         "date": "2024-09-14T13:07:42.659000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/ALEALB01_23_20240914_151234.mp3"
+    },
+    {
+        "session_key": 9598,
+        "meeting_key": 1245,
+        "driver_number": 23,
+        "date": "2024-09-15T12:56:44.856000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/ALEALB01_23_20240915_145618.mp3"
     }
 ]
