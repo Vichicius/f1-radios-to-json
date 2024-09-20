@@ -5017,5 +5017,68 @@
         "driver_number": 11,
         "date": "2024-09-15T12:34:43.066000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/SERPER01_11_20240915_143429.mp3"
+    },
+    {
+        "session_key": 9599,
+        "meeting_key": 1246,
+        "driver_number": 11,
+        "date": "2024-09-20T10:06:34.753000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_1/TeamRadio/SERPER01_11_20240920_180614.mp3"
+    },
+    {
+        "session_key": 9599,
+        "meeting_key": 1246,
+        "driver_number": 11,
+        "date": "2024-09-20T10:08:12.839000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_1/TeamRadio/SERPER01_11_20240920_180753.mp3"
+    },
+    {
+        "session_key": 9599,
+        "meeting_key": 1246,
+        "driver_number": 11,
+        "date": "2024-09-20T10:13:46.097000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_1/TeamRadio/SERPER01_11_20240920_181338.mp3"
+    },
+    {
+        "session_key": 9599,
+        "meeting_key": 1246,
+        "driver_number": 11,
+        "date": "2024-09-20T10:28:38.889000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_1/TeamRadio/SERPER01_11_20240920_182802.mp3"
+    },
+    {
+        "session_key": 9600,
+        "meeting_key": 1246,
+        "driver_number": 11,
+        "date": "2024-09-20T13:21:10.403000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/SERPER01_11_20240920_212030.mp3"
+    },
+    {
+        "session_key": 9600,
+        "meeting_key": 1246,
+        "driver_number": 11,
+        "date": "2024-09-20T13:27:16.323000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/SERPER01_11_20240920_212644.mp3"
+    },
+    {
+        "session_key": 9600,
+        "meeting_key": 1246,
+        "driver_number": 11,
+        "date": "2024-09-20T13:28:54.351000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/SERPER01_11_20240920_212828.mp3"
+    },
+    {
+        "session_key": 9600,
+        "meeting_key": 1246,
+        "driver_number": 11,
+        "date": "2024-09-20T13:53:15.353000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/SERPER01_11_20240920_215246.mp3"
+    },
+    {
+        "session_key": 9600,
+        "meeting_key": 1246,
+        "driver_number": 11,
+        "date": "2024-09-20T13:55:27.622000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/SERPER01_11_20240920_215456.mp3"
     }
 ]

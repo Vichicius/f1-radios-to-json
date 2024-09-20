@@ -6221,5 +6221,54 @@
         "driver_number": 1,
         "date": "2024-09-15T12:03:13.247000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/MAXVER01_1_20240915_140304.mp3"
+    },
+    {
+        "session_key": 9599,
+        "meeting_key": 1246,
+        "driver_number": 1,
+        "date": "2024-09-20T09:47:12.007000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_1/TeamRadio/MAXVER01_1_20240920_174642.mp3"
+    },
+    {
+        "session_key": 9599,
+        "meeting_key": 1246,
+        "driver_number": 1,
+        "date": "2024-09-20T10:03:14.085000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_1/TeamRadio/MAXVER01_1_20240920_180305.mp3"
+    },
+    {
+        "session_key": 9599,
+        "meeting_key": 1246,
+        "driver_number": 1,
+        "date": "2024-09-20T10:03:14.085000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_1/TeamRadio/MAXVER01_1_20240920_180308.mp3"
+    },
+    {
+        "session_key": 9599,
+        "meeting_key": 1246,
+        "driver_number": 1,
+        "date": "2024-09-20T10:03:47.001000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_1/TeamRadio/MAXVER01_1_20240920_180313.mp3"
+    },
+    {
+        "session_key": 9600,
+        "meeting_key": 1246,
+        "driver_number": 1,
+        "date": "2024-09-20T13:02:57.720000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/MAXVER01_1_20240920_210241.mp3"
+    },
+    {
+        "session_key": 9600,
+        "meeting_key": 1246,
+        "driver_number": 1,
+        "date": "2024-09-20T13:10:40.012000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/MAXVER01_1_20240920_211029.mp3"
+    },
+    {
+        "session_key": 9600,
+        "meeting_key": 1246,
+        "driver_number": 1,
+        "date": "2024-09-20T13:14:31.012000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/MAXVER01_1_20240920_211408.mp3"
     }
 ]
