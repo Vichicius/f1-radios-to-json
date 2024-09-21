@@ -4359,5 +4359,19 @@
         "driver_number": 81,
         "date": "2024-09-20T13:27:16.323000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/OSCPIA01_81_20240920_212709.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 81,
+        "date": "2024-09-21T09:46:09.927000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/OSCPIA01_81_20240921_174534.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 81,
+        "date": "2024-09-21T09:49:30.510000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/OSCPIA01_81_20240921_174851.mp3"
     }
 ]

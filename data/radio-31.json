@@ -4856,5 +4856,26 @@
         "driver_number": 31,
         "date": "2024-09-20T13:45:34.174000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/ESTOCO01_31_20240920_214505.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 31,
+        "date": "2024-09-21T09:47:16.016000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/ESTOCO01_31_20240921_174656.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 31,
+        "date": "2024-09-21T09:47:50.218000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/ESTOCO01_31_20240921_174718.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 31,
+        "date": "2024-09-21T09:51:42.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/ESTOCO01_31_20240921_175112.mp3"
     }
 ]

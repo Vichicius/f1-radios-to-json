@@ -5752,5 +5752,68 @@
         "driver_number": 44,
         "date": "2024-09-20T13:36:38.382000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/LEWHAM01_44_20240920_213601.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 44,
+        "date": "2024-09-21T09:48:22.185000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/LEWHAM01_44_20240921_174754.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 44,
+        "date": "2024-09-21T10:11:36.350000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/LEWHAM01_44_20240921_181102.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 44,
+        "date": "2024-09-21T10:11:36.719000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/LEWHAM01_44_20240921_181130.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 44,
+        "date": "2024-09-21T10:12:44.644000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/LEWHAM01_44_20240921_181223.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 44,
+        "date": "2024-09-21T10:20:27.003000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/LEWHAM01_44_20240921_181959.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 44,
+        "date": "2024-09-21T10:23:46.691000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/LEWHAM01_44_20240921_182338.mp3"
+    },
+    {
+        "session_key": 9602,
+        "meeting_key": 1246,
+        "driver_number": 44,
+        "date": "2024-09-21T13:09:23.997000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Qualifying/TeamRadio/LEWHAM01_44_20240921_210900.mp3"
+    },
+    {
+        "session_key": 9602,
+        "meeting_key": 1246,
+        "driver_number": 44,
+        "date": "2024-09-21T14:18:47.951000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Qualifying/TeamRadio/LEWHAM01_44_20240921_221829.mp3"
+    },
+    {
+        "session_key": 9602,
+        "meeting_key": 1246,
+        "driver_number": 44,
+        "date": "2024-09-21T14:19:02.971000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Qualifying/TeamRadio/LEWHAM01_44_20240921_222220.mp3"
     }
 ]

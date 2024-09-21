@@ -3099,5 +3099,12 @@
         "driver_number": 18,
         "date": "2024-09-20T13:16:11.011000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/LANSTR01_18_20240920_211541.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 18,
+        "date": "2024-09-21T10:18:47.443000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/LANSTR01_18_20240921_181821.mp3"
     }
 ]

@@ -3183,5 +3183,19 @@
         "driver_number": 24,
         "date": "2024-09-20T13:57:40.989000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-20_Practice_2/TeamRadio/GUAZHO01_24_20240920_215705.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 24,
+        "date": "2024-09-21T09:51:42.080000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/GUAZHO01_24_20240921_175135.mp3"
+    },
+    {
+        "session_key": 9601,
+        "meeting_key": 1246,
+        "driver_number": 24,
+        "date": "2024-09-21T10:06:04.440000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Practice_3/TeamRadio/GUAZHO01_24_20240921_180528.mp3"
     }
 ]
