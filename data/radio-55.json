@@ -4891,5 +4891,12 @@
         "driver_number": 55,
         "date": "2024-09-21T13:53:59.966000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Qualifying/TeamRadio/CARSAI01_55_20240921_215324.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 55,
+        "date": "2024-09-22T13:47:27.861000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/CARSAI01_55_20240922_215613.mp3"
     }
 ]

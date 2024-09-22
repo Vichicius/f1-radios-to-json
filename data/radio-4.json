@@ -6088,5 +6088,75 @@
         "driver_number": 4,
         "date": "2024-09-21T14:17:07.730000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-21_Qualifying/TeamRadio/LANNOR01_4_20240921_221655.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T11:22:56.195000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_192248.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T12:17:30.831000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_201706.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T12:26:19.548000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_202608.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T12:37:55.495000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_203732.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T12:51:09.008000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_205056.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T12:55:33.742000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_205504.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T13:23:43.473000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_212320.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T13:32:32.306000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_213202.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T13:36:23.540000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_213550.mp3"
+    },
+    {
+        "session_key": 9606,
+        "meeting_key": 1246,
+        "driver_number": 4,
+        "date": "2024-09-22T13:46:52.761000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/LANNOR01_4_20240922_214610.mp3"
     }
 ]
