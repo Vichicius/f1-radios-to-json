@@ -2496,14 +2496,14 @@
         "meeting_key": 1241,
         "driver_number": 20,
         "date": "2024-07-21T13:04:42.534000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/KEVMAG01_20_20240721_150413.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/KEVMAG01_20_20240721_150422.mp3"
     },
     {
         "session_key": 9566,
         "meeting_key": 1241,
         "driver_number": 20,
         "date": "2024-07-21T13:04:42.534000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/KEVMAG01_20_20240721_150422.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/KEVMAG01_20_20240721_150413.mp3"
     },
     {
         "session_key": 9566,
@@ -2735,5 +2735,68 @@
         "driver_number": 20,
         "date": "2024-09-22T12:24:07.212000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/KEVMAG01_20_20240922_202335.mp3"
+    },
+    {
+        "session_key": 9607,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-18T17:45:31.032000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Practice_1/TeamRadio/KEVMAG01_20_20241019_014515.mp3"
+    },
+    {
+        "session_key": 9607,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-18T17:56:18.847000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Practice_1/TeamRadio/KEVMAG01_20_20241019_015545.mp3"
+    },
+    {
+        "session_key": 9607,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-18T18:04:49.349000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Practice_1/TeamRadio/KEVMAG01_20_20241019_020441.mp3"
+    },
+    {
+        "session_key": 9607,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-18T18:05:55.786000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Practice_1/TeamRadio/KEVMAG01_20_20241019_020516.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-18T21:33:30.985000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/KEVMAG01_20_20241018_163305.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-18T21:51:11.527000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/KEVMAG01_20_20241018_165047.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-18T21:51:11.601000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/KEVMAG01_20_20241018_165058.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-18T21:58:00.750000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/KEVMAG01_20_20241018_165736.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-18T22:07:47.186000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/KEVMAG01_20_20241018_170720.mp3"
     }
 ]

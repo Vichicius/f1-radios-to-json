@@ -3666,5 +3666,12 @@
         "driver_number": 23,
         "date": "2024-09-22T13:47:27.861000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/ALEALB01_23_20240922_215542.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 23,
+        "date": "2024-10-18T21:43:12.819000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/ALEALB01_23_20241018_154258.mp3"
     }
 ]

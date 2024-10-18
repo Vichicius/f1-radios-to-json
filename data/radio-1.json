@@ -5779,14 +5779,14 @@
         "meeting_key": 1242,
         "driver_number": 1,
         "date": "2024-07-26T12:23:08.752000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/MAXVER01_1_20240726_142251.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/MAXVER01_1_20240726_142259.mp3"
     },
     {
         "session_key": 9567,
         "meeting_key": 1242,
         "driver_number": 1,
         "date": "2024-07-26T12:23:08.752000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/MAXVER01_1_20240726_142259.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-28_Belgian_Grand_Prix/2024-07-26_Practice_1/TeamRadio/MAXVER01_1_20240726_142251.mp3"
     },
     {
         "session_key": 9568,
@@ -6361,5 +6361,61 @@
         "driver_number": 1,
         "date": "2024-09-22T13:47:27.861000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-22_Singapore_Grand_Prix/2024-09-22_Race/TeamRadio/MAXVER01_1_20240922_214702.mp3"
+    },
+    {
+        "session_key": 9607,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-18T17:34:13.563000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Practice_1/TeamRadio/MAXVER01_1_20241018_123406.mp3"
+    },
+    {
+        "session_key": 9607,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-18T18:01:58.952000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Practice_1/TeamRadio/MAXVER01_1_20241018_130127.mp3"
+    },
+    {
+        "session_key": 9607,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-18T18:03:05.246000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Practice_1/TeamRadio/MAXVER01_1_20241019_020234.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-18T21:34:03.302000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/MAXVER01_1_20241018_163354.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-18T21:58:35.459000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/MAXVER01_1_20241018_165800.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-18T22:11:42.975000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/MAXVER01_1_20241018_171129.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-18T22:11:42.975000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/MAXVER01_1_20241018_171135.mp3"
+    },
+    {
+        "session_key": 9612,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-18T22:16:15.815000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/MAXVER01_1_20241018_161551.mp3"
     }
 ]
