@@ -5150,5 +5150,47 @@
         "driver_number": 11,
         "date": "2024-10-18T21:59:42.641000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/SERPER01_11_20241018_165936.mp3"
+    },
+    {
+        "session_key": 9616,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-19T18:15:22.621000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Sprint/TeamRadio/SERPER01_11_20241019_131456.mp3"
+    },
+    {
+        "session_key": 9616,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-19T18:15:57.712000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Sprint/TeamRadio/SERPER01_11_20241019_131542.mp3"
+    },
+    {
+        "session_key": 9608,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-19T22:39:56.775000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/SERPER01_11_20241019_173941.mp3"
+    },
+    {
+        "session_key": 9608,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-19T22:39:56.775000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/SERPER01_11_20241019_173954.mp3"
+    },
+    {
+        "session_key": 9608,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-19T22:40:31.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/SERPER01_11_20241019_174015.mp3"
+    },
+    {
+        "session_key": 9608,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-19T22:59:53.433000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/SERPER01_11_20241019_175919.mp3"
     }
 ]

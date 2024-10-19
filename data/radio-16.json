@@ -5500,5 +5500,68 @@
         "driver_number": 16,
         "date": "2024-10-18T21:52:19.511000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/CHALEC01_16_20241018_165153.mp3"
+    },
+    {
+        "session_key": 9616,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-19T18:07:28.406000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Sprint/TeamRadio/CHALEC01_16_20241019_130719.mp3"
+    },
+    {
+        "session_key": 9616,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-19T18:09:11.493000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Sprint/TeamRadio/CHALEC01_16_20241019_130834.mp3"
+    },
+    {
+        "session_key": 9616,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-19T18:34:37.396000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Sprint/TeamRadio/CHALEC01_16_20241019_133423.mp3"
+    },
+    {
+        "session_key": 9616,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-19T18:36:53.411000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Sprint/TeamRadio/CHALEC01_16_20241019_133628.mp3"
+    },
+    {
+        "session_key": 9616,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-19T18:40:45.604000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Sprint/TeamRadio/CHALEC01_16_20241019_134050.mp3"
+    },
+    {
+        "session_key": 9608,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-19T22:16:41.166000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/CHALEC01_16_20241019_171624.mp3"
+    },
+    {
+        "session_key": 9608,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-19T22:17:15.958000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/CHALEC01_16_20241019_171646.mp3"
+    },
+    {
+        "session_key": 9608,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-19T22:53:02.535000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/CHALEC01_16_20241019_175245.mp3"
+    },
+    {
+        "session_key": 9608,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-19T23:03:33.458000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/CHALEC01_16_20241019_170649.mp3"
     }
 ]

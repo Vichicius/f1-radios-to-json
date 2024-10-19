@@ -3673,5 +3673,26 @@
         "driver_number": 27,
         "date": "2024-10-18T22:15:40.816000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-18_Sprint_Qualifying/TeamRadio/NICHUL01_27_20241018_171528.mp3"
+    },
+    {
+        "session_key": 9616,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-19T17:58:24.306000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Sprint/TeamRadio/NICHUL01_27_20241019_125759.mp3"
+    },
+    {
+        "session_key": 9616,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-19T18:31:50.464000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Sprint/TeamRadio/NICHUL01_27_20241019_133129.mp3"
+    },
+    {
+        "session_key": 9608,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-19T22:42:15.073000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/NICHUL01_27_20241019_174137.mp3"
     }
 ]
