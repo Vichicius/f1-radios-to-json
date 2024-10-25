@@ -3680,5 +3680,89 @@
         "driver_number": 22,
         "date": "2024-10-19T22:35:26.495000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/YUKTSU01_22_20241019_173446.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T18:26:29.034000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_132556.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T19:20:09.918000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_141954.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T19:21:52.851000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_142133.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T19:22:27.921000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_142221.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T20:08:57.093000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_150827.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T20:09:31.636000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_150854.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_155249.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T18:48:25.648000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/YUKTSU01_22_20241025_134813.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T22:08:44.495000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/YUKTSU01_22_20241025_170822.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T22:51:24.550000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/YUKTSU01_22_20241025_175052.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T23:01:05.349000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/YUKTSU01_22_20241025_180032.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T23:21:21.494000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/YUKTSU01_22_20241025_182054.mp3"
     }
 ]

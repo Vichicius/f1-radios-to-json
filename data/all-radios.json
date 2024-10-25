@@ -90487,5 +90487,2154 @@
         "driver_number": 55,
         "date": "2024-10-19T23:03:33.458000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/CARSAI01_55_20241019_180337.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T18:14:33.549000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_131353.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T18:22:28.318000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_132206.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T18:23:38.510000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_132303.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 43,
+        "date": "2024-10-20T18:24:13.610000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FRACOL01_43_20241020_132335.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T18:25:20.012000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_132444.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 44,
+        "date": "2024-10-20T18:25:20.164000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LEWHAM01_44_20241020_132501.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T18:26:29.034000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_132556.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T18:27:01.853000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_132641.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T18:27:02.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_132646.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T18:28:44.420000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_132808.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T18:29:51.552000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_132913.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 43,
+        "date": "2024-10-20T18:55:50.862000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FRACOL01_43_20241020_135527.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-20T18:56:25.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/KEVMAG01_20_20241020_135556.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 77,
+        "date": "2024-10-20T18:58:39.282000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/VALBOT01_77_20241020_135820.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 44,
+        "date": "2024-10-20T18:58:39.534000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LEWHAM01_44_20241020_125833.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 44,
+        "date": "2024-10-20T18:59:14.333000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LEWHAM01_44_20241020_135845.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 18,
+        "date": "2024-10-20T19:02:36.398000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANSTR01_18_20241020_140218.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T19:04:52.039000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_140432.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:06:00.531000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_140539.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T19:06:00.531000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_140555.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 23,
+        "date": "2024-10-20T19:06:35.607000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_140607.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 23,
+        "date": "2024-10-20T19:08:18.383000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_140743.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T19:08:51.599000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_140837.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:09:26.105000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_140906.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-20T19:10:01.150000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/NICHUL01_27_20241020_140949.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:11:08.079000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_141028.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 44,
+        "date": "2024-10-20T19:11:08.079000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LEWHAM01_44_20241020_141050.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:12:16.492000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_141153.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:12:51.578000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_141222.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:12:51.578000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_131233.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:17:22.212000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_141712.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:18:28.483000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_141809.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 23,
+        "date": "2024-10-20T19:19:02.455000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_141846.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 23,
+        "date": "2024-10-20T19:19:02.455000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_141852.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T19:20:09.918000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_141954.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 55,
+        "date": "2024-10-20T19:20:43.432000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_142010.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:20:43.511000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_142024.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 55,
+        "date": "2024-10-20T19:21:18.540000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_132102.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:21:52.851000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_142117.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T19:21:52.851000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_142133.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T19:22:27.921000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_142221.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 24,
+        "date": "2024-10-20T19:22:27.921000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GUAZHO01_24_20241020_142209.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:23:38.133000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_142257.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 30,
+        "date": "2024-10-20T19:23:38.133000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LIALAW01_30_20241020_142316.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T19:24:11.105000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_142338.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 55,
+        "date": "2024-10-20T19:24:11.134000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_132338.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-20T19:24:13.240000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/NICHUL01_27_20241020_142350.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 24,
+        "date": "2024-10-20T19:24:45.098000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GUAZHO01_24_20241020_142414.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 43,
+        "date": "2024-10-20T19:24:45.164000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FRACOL01_43_20241020_142441.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 18,
+        "date": "2024-10-20T19:25:18.907000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANSTR01_18_20241020_142507.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 55,
+        "date": "2024-10-20T19:25:53.714000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_142542.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 55,
+        "date": "2024-10-20T19:25:53.714000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_142548.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:26:28.808000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_142551.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:27:00.771000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_142626.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T19:27:34.142000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_142711.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:28:09.076000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_132734.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:28:41.650000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_142816.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 77,
+        "date": "2024-10-20T19:28:41.664000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/VALBOT01_77_20241020_142839.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T19:29:15.143000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_142833.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T19:29:15.352000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_142909.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 30,
+        "date": "2024-10-20T19:29:49.368000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LIALAW01_30_20241020_142924.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:30:59.729000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_143032.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 18,
+        "date": "2024-10-20T19:31:34.706000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANSTR01_18_20241020_143100.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:32:07.343000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_143128.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-20T19:32:07.467000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/SERPER01_11_20241020_143151.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T19:32:41.501000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_143218.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:33:16.075000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_143257.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T19:33:16.180000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_143308.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:35:31.966000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_143458.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T19:35:32.163000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_143521.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-20T19:37:16.022000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/NICHUL01_27_20241020_143700.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T19:38:56.296000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_143843.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T19:38:56.296000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_143847.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T19:38:56.296000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_143851.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T19:39:28.905000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_143854.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:40:02.713000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_143939.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:41:11.611000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_144058.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:41:11.611000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_144050.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:41:11.611000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_144056.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-20T19:42:18.668000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/NICHUL01_27_20241020_144146.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:44:02.089000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_134316.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 14,
+        "date": "2024-10-20T19:44:34.084000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FERALO01_14_20241020_144429.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:44:34.084000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_134400.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:45:09.678000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_144455.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T19:46:19.319000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_144537.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T19:46:19.451000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_144605.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:46:19.690000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_134605.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T19:47:28.011000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_144655.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:48:02.751000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_144721.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T19:48:37.868000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_144806.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:51:24.152000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_145106.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-20T19:51:58.537000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/NICHUL01_27_20241020_145131.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-20T19:51:58.537000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/NICHUL01_27_20241020_145136.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 55,
+        "date": "2024-10-20T19:54:14.173000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_145332.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T19:54:14.285000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_145355.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:55:24.048000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_145500.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 23,
+        "date": "2024-10-20T19:55:56.763000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_145530.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 18,
+        "date": "2024-10-20T19:56:31.215000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANSTR01_18_20241020_145601.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T19:57:05.211000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_145654.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T19:59:56.019000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_145917.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 18,
+        "date": "2024-10-20T20:01:05.015000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANSTR01_18_20241020_150024.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T20:01:37.383000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_150109.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 43,
+        "date": "2024-10-20T20:03:20.287000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FRACOL01_43_20241020_150242.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T20:03:20.287000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_150257.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 43,
+        "date": "2024-10-20T20:05:00.596000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FRACOL01_43_20241020_150437.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 14,
+        "date": "2024-10-20T20:06:08.145000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FERALO01_14_20241020_150549.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T20:06:42.856000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_150605.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-20T20:06:42.856000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/SERPER01_11_20241020_150612.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T20:06:43.011000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_150633.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 55,
+        "date": "2024-10-20T20:08:23.653000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_150806.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T20:08:57.093000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_150827.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T20:09:31.636000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_150854.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T20:09:31.712000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_150921.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-20T20:10:41.571000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/KEVMAG01_20_20241020_151025.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T20:10:41.571000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_151006.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T20:10:41.571000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_151026.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T20:11:47.123000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_151136.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-20T20:13:27.612000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/SERPER01_11_20241020_151254.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 55,
+        "date": "2024-10-20T20:15:09.474000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_151449.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T20:15:43.960000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_151520.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-20T20:18:32.907000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/KEVMAG01_20_20241020_151819.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T20:19:08.649000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_151848.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 18,
+        "date": "2024-10-20T20:21:24.656000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANSTR01_18_20241020_152110.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 43,
+        "date": "2024-10-20T20:22:33.382000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FRACOL01_43_20241020_152218.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T20:23:06.204000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_152246.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T20:28:46.693000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_152819.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T20:28:46.693000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_152833.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T20:29:54.846000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_152928.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T20:32:45.447000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_153220.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T20:33:20.281000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_153311.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T20:33:20.281000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_143242.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T20:33:52.320000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_153320.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T20:34:26.092000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_153357.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 31,
+        "date": "2024-10-20T20:34:26.211000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ESTOCO01_31_20241020_153413.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T20:35:35.805000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_153503.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T20:36:45.814000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_143555.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T20:37:20.936000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_153640.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T20:37:20.936000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_153702.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T20:38:26.240000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_143754.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T20:40:07.848000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_143932.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 4,
+        "date": "2024-10-20T20:40:41.496000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LANNOR01_4_20241020_154024.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 1,
+        "date": "2024-10-20T20:41:51.503000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/MAXVER01_1_20241020_144110.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 10,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/PIEGAS01_10_20241020_155320.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 11,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/SERPER01_11_20241020_144820.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 16,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CHALEC01_16_20241020_144948.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/KEVMAG01_20_20241020_154407.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 20,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/KEVMAG01_20_20241020_154416.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 22,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/YUKTSU01_22_20241020_155249.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 23,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_155015.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 24,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GUAZHO01_24_20241020_154645.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/NICHUL01_27_20241020_154511.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/NICHUL01_27_20241020_154515.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 27,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/NICHUL01_27_20241020_154518.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 30,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LIALAW01_30_20241020_155218.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 30,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/LIALAW01_30_20241020_155247.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 43,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FRACOL01_43_20241020_155104.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 55,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_145158.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 63,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/GEORUS01_63_20241020_144526.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 77,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/VALBOT01_77_20241020_154729.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 77,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/VALBOT01_77_20241020_154803.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_155025.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_155134.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_155137.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 81,
+        "date": "2024-10-20T20:42:06.544000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_155147.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 81,
+        "date": "2024-10-25T18:16:56.249000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_131556.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 81,
+        "date": "2024-10-25T18:16:58.462000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_131619.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 38,
+        "date": "2024-10-25T18:30:57.071000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OLIBEA01_38_20241025_133019.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T18:31:31.109000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PIEGAS01_10_20241025_133057.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T18:32:05.721000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PIEGAS01_10_20241025_133151.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T18:32:05.721000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/GEORUS01_63_20241025_133134.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 12,
+        "date": "2024-10-25T18:33:15.882000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ANDANT01_12_20241025_133246.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 38,
+        "date": "2024-10-25T18:33:48.048000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OLIBEA01_38_20241025_133324.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:34:21.411000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_133358.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:34:21.535000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_133403.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-25T18:35:28.850000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/NICHUL01_27_20241025_133510.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 38,
+        "date": "2024-10-25T18:36:02.530000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OLIBEA01_38_20241025_133532.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 34,
+        "date": "2024-10-25T18:41:04.575000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_134044.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 23,
+        "date": "2024-10-25T18:41:39.822000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ALEALB01_23_20241025_134124.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T18:42:13.822000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/GEORUS01_63_20241025_134159.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T18:42:48.112000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PIEGAS01_10_20241025_134227.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 34,
+        "date": "2024-10-25T18:43:57.407000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_134317.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T18:44:29.595000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/SERPER01_11_20241025_134353.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T18:44:29.820000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PIEGAS01_10_20241025_134419.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T18:44:30.023000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PIEGAS01_10_20241025_134424.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T18:45:37.601000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/SERPER01_11_20241025_134504.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 77,
+        "date": "2024-10-25T18:46:43.211000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/VALBOT01_77_20241025_134626.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 12,
+        "date": "2024-10-25T18:47:18.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ANDANT01_12_20241025_134708.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T18:47:52.873000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PIEGAS01_10_20241025_134723.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T18:48:25.357000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PIEGAS01_10_20241025_134758.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T18:48:25.648000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/YUKTSU01_22_20241025_134813.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 29,
+        "date": "2024-10-25T18:50:40.242000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PATOWA01_29_20241025_135018.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-25T18:52:20.074000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/NICHUL01_27_20241025_135150.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-25T18:52:20.074000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/NICHUL01_27_20241025_135154.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:52:54.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_135243.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:54:03.813000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_135330.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 23,
+        "date": "2024-10-25T18:55:09.834000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ALEALB01_23_20241025_125434.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 38,
+        "date": "2024-10-25T18:55:44.274000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OLIBEA01_38_20241025_135517.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:59:40.283000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_125903.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 18,
+        "date": "2024-10-25T19:07:00.656000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/LANSTR01_18_20241025_140622.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T19:07:35.728000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/SERPER01_11_20241025_140723.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T19:08:08.091000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/GEORUS01_63_20241025_140744.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 34,
+        "date": "2024-10-25T19:08:41.597000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_140824.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 34,
+        "date": "2024-10-25T19:08:41.597000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_140829.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T19:09:50.997000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PIEGAS01_10_20241025_140924.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 18,
+        "date": "2024-10-25T19:10:23.838000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/LANSTR01_18_20241025_140954.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 55,
+        "date": "2024-10-25T19:11:32.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/CARSAI01_55_20241025_141108.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 81,
+        "date": "2024-10-25T19:12:06.255000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_141128.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T19:12:39.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/SERPER01_11_20241025_141205.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 31,
+        "date": "2024-10-25T19:14:21.514000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ESTOCO01_31_20241025_141411.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T19:15:31.671000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_141450.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 81,
+        "date": "2024-10-25T19:16:06.741000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_131515.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T19:16:41.843000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/SERPER01_11_20241025_141608.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T19:16:41.843000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/SERPER01_11_20241025_141613.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 29,
+        "date": "2024-10-25T19:17:13.959000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PATOWA01_29_20241025_141700.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T19:20:02.348000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/GEORUS01_63_20241025_141948.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T19:20:37.454000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/GEORUS01_63_20241025_142009.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 30,
+        "date": "2024-10-25T19:21:09.555000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/LIALAW01_30_20241025_142040.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 20,
+        "date": "2024-10-25T19:21:43.115000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/KEVMAG01_20_20241025_142133.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 81,
+        "date": "2024-10-25T19:22:52.776000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_142218.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 1,
+        "date": "2024-10-25T19:23:27.841000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/MAXVER01_1_20241025_142243.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T19:23:27.841000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/GEORUS01_63_20241025_142301.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T19:23:59.739000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_142348.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 31,
+        "date": "2024-10-25T19:24:33.840000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ESTOCO01_31_20241025_142423.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 30,
+        "date": "2024-10-25T19:25:43.155000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/LIALAW01_30_20241025_142517.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 34,
+        "date": "2024-10-25T19:25:43.155000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_142528.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 81,
+        "date": "2024-10-25T19:27:23.305000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_142648.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T19:27:23.374000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/SERPER01_11_20241025_142708.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 29,
+        "date": "2024-10-25T19:29:38.721000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PATOWA01_29_20241025_142907.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 34,
+        "date": "2024-10-25T19:32:25.369000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_143202.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 34,
+        "date": "2024-10-25T19:33:34.070000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_143300.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T19:34:06.042000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/GEORUS01_63_20241025_143334.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 81,
+        "date": "2024-10-25T19:35:14.288000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_143449.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 81,
+        "date": "2024-10-25T19:35:14.288000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_143457.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 29,
+        "date": "2024-10-25T19:36:05.842000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PATOWA01_29_20241025_143553.mp3"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 30,
+        "date": "2024-10-25T19:36:05.842000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/LIALAW01_30_20241025_143601.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 31,
+        "date": "2024-10-25T21:49:04.570000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/ESTOCO01_31_20241025_164829.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 24,
+        "date": "2024-10-25T22:04:11.714000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GUAZHO01_24_20241025_170400.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T22:05:53.248000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/SERPER01_11_20241025_170526.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 4,
+        "date": "2024-10-25T22:07:36.394000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LANNOR01_4_20241025_170725.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 1,
+        "date": "2024-10-25T22:08:11.469000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/MAXVER01_1_20241025_170740.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T22:08:11.469000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/PIEGAS01_10_20241025_170806.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T22:08:44.495000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/YUKTSU01_22_20241025_170822.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 1,
+        "date": "2024-10-25T22:09:51.826000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/MAXVER01_1_20241025_170913.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T22:09:51.914000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GEORUS01_63_20241025_170936.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T22:10:59.614000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GEORUS01_63_20241025_171027.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 1,
+        "date": "2024-10-25T22:11:01.861000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/MAXVER01_1_20241025_171029.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 63,
+        "date": "2024-10-25T22:11:01.861000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GEORUS01_63_20241025_171035.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 30,
+        "date": "2024-10-25T22:14:22.363000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LIALAW01_30_20241025_171345.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T22:36:12.819000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_173538.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-25T22:36:46.151000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/NICHUL01_27_20241025_173611.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-25T22:36:46.335000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/NICHUL01_27_20241025_173624.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T22:37:20.573000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_173652.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T22:39:35.896000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/PIEGAS01_10_20241025_173921.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T22:39:36.012000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/PIEGAS01_10_20241025_173925.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T22:40:10.963000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_173958.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 1,
+        "date": "2024-10-25T22:40:43.012000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/MAXVER01_1_20241025_174016.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 44,
+        "date": "2024-10-25T22:40:43.240000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LEWHAM01_44_20241025_174035.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T22:41:51.162000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_174116.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 18,
+        "date": "2024-10-25T22:42:26.224000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LANSTR01_18_20241025_174139.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T22:42:57.637000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/PIEGAS01_10_20241025_174233.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 1,
+        "date": "2024-10-25T22:42:57.803000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/MAXVER01_1_20241025_174233.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 43,
+        "date": "2024-10-25T22:43:31.360000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FRACOL01_43_20241025_174316.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 30,
+        "date": "2024-10-25T22:45:12.061000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LIALAW01_30_20241025_174457.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 30,
+        "date": "2024-10-25T22:46:52.261000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LIALAW01_30_20241025_174625.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 55,
+        "date": "2024-10-25T22:50:52.400000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CARSAI01_55_20241025_175023.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T22:51:24.550000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/YUKTSU01_22_20241025_175052.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 43,
+        "date": "2024-10-25T22:51:58.574000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FRACOL01_43_20241025_175150.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 18,
+        "date": "2024-10-25T22:53:40.558000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LANSTR01_18_20241025_175307.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T22:53:40.671000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_175330.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T22:54:14.683000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_175354.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 55,
+        "date": "2024-10-25T22:55:22.977000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CARSAI01_55_20241025_175450.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 43,
+        "date": "2024-10-25T22:55:55.258000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FRACOL01_43_20241025_175537.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 24,
+        "date": "2024-10-25T22:56:29.516000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GUAZHO01_24_20241025_175608.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 31,
+        "date": "2024-10-25T22:57:03.695000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/ESTOCO01_31_20241025_175644.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 31,
+        "date": "2024-10-25T22:57:38.225000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/ESTOCO01_31_20241025_175717.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 24,
+        "date": "2024-10-25T22:58:13.308000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GUAZHO01_24_20241025_175754.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 14,
+        "date": "2024-10-25T22:59:56.014000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FERALO01_14_20241025_175943.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 14,
+        "date": "2024-10-25T22:59:56.201000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FERALO01_14_20241025_175949.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 24,
+        "date": "2024-10-25T22:59:56.201000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GUAZHO01_24_20241025_165921.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 31,
+        "date": "2024-10-25T22:59:56.375000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/ESTOCO01_31_20241025_175950.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T23:01:05.349000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/YUKTSU01_22_20241025_180032.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T23:01:39.616000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_180109.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 20,
+        "date": "2024-10-25T23:03:54.428000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/KEVMAG01_20_20241025_180337.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 10,
+        "date": "2024-10-25T23:05:04.349000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/PIEGAS01_10_20241025_180442.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 43,
+        "date": "2024-10-25T23:05:36.915000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FRACOL01_43_20241025_180516.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 14,
+        "date": "2024-10-25T23:08:59.816000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FERALO01_14_20241025_180825.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T23:09:31.518000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/SERPER01_11_20241025_180920.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 43,
+        "date": "2024-10-25T23:10:05.227000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FRACOL01_43_20241025_180945.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 4,
+        "date": "2024-10-25T23:10:40.036000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LANNOR01_4_20241025_181013.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 31,
+        "date": "2024-10-25T23:11:15.118000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/ESTOCO01_31_20241025_181106.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 31,
+        "date": "2024-10-25T23:11:47.285000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/ESTOCO01_31_20241025_181130.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T23:16:50.877000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_181636.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T23:16:50.877000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_181644.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T23:19:06.172000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/SERPER01_11_20241025_181838.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 24,
+        "date": "2024-10-25T23:20:46.432000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GUAZHO01_24_20241025_182024.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-25T23:21:21.494000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/YUKTSU01_22_20241025_182054.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 55,
+        "date": "2024-10-25T23:21:53.538000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CARSAI01_55_20241025_182117.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T23:22:27.030000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/SERPER01_11_20241025_182219.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 24,
+        "date": "2024-10-25T23:23:34.444000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GUAZHO01_24_20241025_182318.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T23:26:57.349000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_182632.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 44,
+        "date": "2024-10-25T23:28:38.100000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LEWHAM01_44_20241025_182831.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 4,
+        "date": "2024-10-25T23:29:12.634000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LANNOR01_4_20241025_182851.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 11,
+        "date": "2024-10-25T23:29:47.744000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/SERPER01_11_20241025_182925.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 16,
+        "date": "2024-10-25T23:31:27.922000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CHALEC01_16_20241025_183102.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 14,
+        "date": "2024-10-25T23:33:10.551000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FERALO01_14_20241025_183256.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 4,
+        "date": "2024-10-25T23:33:45.281000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/LANNOR01_4_20241025_183314.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 24,
+        "date": "2024-10-25T23:34:19.205000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/GUAZHO01_24_20241025_183359.mp3"
     }
 ]

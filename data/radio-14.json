@@ -3974,5 +3974,47 @@
         "driver_number": 14,
         "date": "2024-10-19T22:58:10.795000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-19_Qualifying/TeamRadio/FERALO01_14_20241019_175756.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 14,
+        "date": "2024-10-20T19:44:34.084000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FERALO01_14_20241020_144429.mp3"
+    },
+    {
+        "session_key": 9617,
+        "meeting_key": 1247,
+        "driver_number": 14,
+        "date": "2024-10-20T20:06:08.145000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/FERALO01_14_20241020_150549.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 14,
+        "date": "2024-10-25T22:59:56.014000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FERALO01_14_20241025_175943.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 14,
+        "date": "2024-10-25T22:59:56.201000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FERALO01_14_20241025_175949.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 14,
+        "date": "2024-10-25T23:08:59.816000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FERALO01_14_20241025_180825.mp3"
+    },
+    {
+        "session_key": 9619,
+        "meeting_key": 1248,
+        "driver_number": 14,
+        "date": "2024-10-25T23:33:10.551000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/FERALO01_14_20241025_183256.mp3"
     }
 ]
