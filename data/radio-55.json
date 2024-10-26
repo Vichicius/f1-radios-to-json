@@ -5094,5 +5094,19 @@
         "driver_number": 55,
         "date": "2024-10-25T23:21:53.538000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_2/TeamRadio/CARSAI01_55_20241025_182117.mp3"
+    },
+    {
+        "session_key": 9621,
+        "meeting_key": 1248,
+        "driver_number": 55,
+        "date": "2024-10-26T21:02:48.452000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/CARSAI01_55_20241026_160238.mp3"
+    },
+    {
+        "session_key": 9621,
+        "meeting_key": 1248,
+        "driver_number": 55,
+        "date": "2024-10-26T22:07:15.448000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/CARSAI01_55_20241026_160629.mp3"
     }
 ]
