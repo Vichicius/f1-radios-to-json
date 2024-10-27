@@ -2924,5 +2924,47 @@
         "driver_number": 20,
         "date": "2024-10-26T21:29:22.501000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/KEVMAG01_20_20241026_162907.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 20,
+        "date": "2024-10-27T19:23:23.137000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/KEVMAG01_20_20241027_142239.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 20,
+        "date": "2024-10-27T20:33:40.780000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/KEVMAG01_20_20241027_153306.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 20,
+        "date": "2024-10-27T20:39:53.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/KEVMAG01_20_20241027_153938.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 20,
+        "date": "2024-10-27T21:27:28.244000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/KEVMAG01_20_20241027_162655.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 20,
+        "date": "2024-10-27T21:54:43.002000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/KEVMAG01_20_20241027_155415.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 20,
+        "date": "2024-10-27T21:54:43.002000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/KEVMAG01_20_20241027_155528.mp3"
     }
 ]

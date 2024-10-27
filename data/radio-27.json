@@ -3848,5 +3848,54 @@
         "driver_number": 27,
         "date": "2024-10-26T22:07:15.628000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/NICHUL01_27_20241026_170638.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-27T20:22:57.722000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/NICHUL01_27_20241027_152242.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-27T20:47:11.058000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/NICHUL01_27_20241027_154701.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-27T21:08:46.582000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/NICHUL01_27_20241027_160803.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-27T21:54:43.002000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/NICHUL01_27_20241027_165544.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-27T21:54:43.002000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/NICHUL01_27_20241027_165550.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-27T21:54:43.002000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/NICHUL01_27_20241027_165618.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 27,
+        "date": "2024-10-27T21:54:43.002000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/NICHUL01_27_20241027_165624.mp3"
     }
 ]

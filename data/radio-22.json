@@ -3820,5 +3820,12 @@
         "driver_number": 22,
         "date": "2024-10-26T21:42:22.197000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/YUKTSU01_22_20241026_154153.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 22,
+        "date": "2024-10-27T19:23:55.527000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/YUKTSU01_22_20241027_132336.mp3"
     }
 ]

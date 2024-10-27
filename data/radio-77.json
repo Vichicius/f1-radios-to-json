@@ -2371,5 +2371,12 @@
         "driver_number": 77,
         "date": "2024-10-26T21:41:49.614000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/VALBOT01_77_20241026_164129.mp3"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 77,
+        "date": "2024-10-27T21:47:06.885000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/VALBOT01_77_20241027_165150.mp3"
     }
 ]
