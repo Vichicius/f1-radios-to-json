@@ -4435,14 +4435,14 @@
         "meeting_key": 1241,
         "driver_number": 55,
         "date": "2024-07-21T13:26:20.077000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/CARSAI01_55_20240721_152610.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/CARSAI01_55_20240721_152601.mp3"
     },
     {
         "session_key": 9566,
         "meeting_key": 1241,
         "driver_number": 55,
         "date": "2024-07-21T13:26:20.077000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/CARSAI01_55_20240721_152601.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-21_Race/TeamRadio/CARSAI01_55_20240721_152610.mp3"
     },
     {
         "session_key": 9566,
@@ -5030,14 +5030,14 @@
         "meeting_key": 1247,
         "driver_number": 55,
         "date": "2024-10-20T19:25:53.714000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_142542.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_142548.mp3"
     },
     {
         "session_key": 9617,
         "meeting_key": 1247,
         "driver_number": 55,
         "date": "2024-10-20T19:25:53.714000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_142548.mp3"
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/CARSAI01_55_20241020_142542.mp3"
     },
     {
         "session_key": 9617,
@@ -5199,5 +5199,96 @@
         "driver_number": 55,
         "date": "2024-10-27T21:46:39.684000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/CARSAI01_55_20241027_154603.mp3"
+    },
+    {
+        "session_key": 9626,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-01T14:49:45.097000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/CARSAI01_55_20241101_094925.mp3"
+    },
+    {
+        "session_key": 9626,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-01T14:49:45.097000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/CARSAI01_55_20241101_094930.mp3"
+    },
+    {
+        "session_key": 9626,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-01T14:51:25.403000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/CARSAI01_55_20241101_095105.mp3"
+    },
+    {
+        "session_key": 9626,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-01T15:30:13.536000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/CARSAI01_55_20241101_102937.mp3"
+    },
+    {
+        "session_key": 9626,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-01T18:33:30.880000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/CARSAI01_55_20241101_133311.mp3"
+    },
+    {
+        "session_key": 9631,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-01T18:33:30.880000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Sprint_Qualifying/TeamRadio/CARSAI01_55_20241101_133311.mp3"
+    },
+    {
+        "session_key": 9626,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-01T18:39:09.488000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/CARSAI01_55_20241101_133850.mp3"
+    },
+    {
+        "session_key": 9631,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-01T18:39:09.488000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Sprint_Qualifying/TeamRadio/CARSAI01_55_20241101_133850.mp3"
+    },
+    {
+        "session_key": 9635,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-02T13:55:16.692000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/CARSAI01_55_20241102_105440.mp3"
+    },
+    {
+        "session_key": 9635,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-02T14:36:54.567000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/CARSAI01_55_20241102_094302.mp3"
+    },
+    {
+        "session_key": 9627,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-03T11:10:43.656000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/CARSAI01_55_20241103_051031.mp3"
+    },
+    {
+        "session_key": 9627,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-03T11:13:32.892000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/CARSAI01_55_20241103_091258.mp3"
+    },
+    {
+        "session_key": 9636,
+        "meeting_key": 1249,
+        "driver_number": 55,
+        "date": "2024-11-03T17:04:07.480000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/CARSAI01_55_20241103_150332.mp3"
     }
 ]
