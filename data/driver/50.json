@@ -6,7 +6,8 @@
         "meeting_key": 1223,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_194024.mp3",
         "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-10-27T18:55:58.022000+00:00",
@@ -15,7 +16,8 @@
         "meeting_key": 1223,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_195531.mp3",
         "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-10-27T18:59:20.785000+00:00",
@@ -24,7 +26,8 @@
         "meeting_key": 1223,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_195838.mp3",
         "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-10-27T19:11:43.574000+00:00",
@@ -33,7 +36,8 @@
         "meeting_key": 1223,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_201133.mp3",
         "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-10-27T19:25:15.893000+00:00",
@@ -42,7 +46,8 @@
         "meeting_key": 1223,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_202453.mp3",
         "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-10-27T19:29:46.140000+00:00",
@@ -51,7 +56,8 @@
         "meeting_key": 1223,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_202922.mp3",
         "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-10-27T19:36:22.057000+00:00",
@@ -60,7 +66,8 @@
         "meeting_key": 1223,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/OLIBEA01_50_20231027_203657.mp3",
         "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-11-24T10:01:58.611000+00:00",
@@ -69,7 +76,8 @@
         "meeting_key": 1226,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/OLIBEA01_50_20231124_100128.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "session_key": 9508,
@@ -78,7 +86,8 @@
         "date": "2024-05-17T11:30:40.277000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/OLIBEA01_50_20240517_123027.mp3",
         "meeting_name": "Emilia Romagna Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9508,
@@ -87,7 +96,8 @@
         "date": "2024-05-17T12:24:35.890000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/OLIBEA01_50_20240517_132429.mp3",
         "meeting_name": "Emilia Romagna Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9508,
@@ -96,7 +106,8 @@
         "date": "2024-05-17T12:27:25.838000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/OLIBEA01_50_20240517_142705.mp3",
         "meeting_name": "Emilia Romagna Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9508,
@@ -105,7 +116,8 @@
         "date": "2024-05-17T12:35:58.589000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-05-19_Emilia_Romagna_Grand_Prix/2024-05-17_Practice_1/TeamRadio/OLIBEA01_50_20240517_143543.mp3",
         "meeting_name": "Emilia Romagna Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9532,
@@ -114,7 +126,8 @@
         "date": "2024-06-21T11:39:00.714000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_133841.mp3",
         "meeting_name": "Spanish Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9532,
@@ -123,7 +136,8 @@
         "date": "2024-06-21T12:31:40.796000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_143103.mp3",
         "meeting_name": "Spanish Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9532,
@@ -132,7 +146,8 @@
         "date": "2024-06-21T12:35:38.303000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_143508.mp3",
         "meeting_name": "Spanish Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9532,
@@ -141,7 +156,8 @@
         "date": "2024-06-21T12:36:53.529000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-23_Spanish_Grand_Prix/2024-06-21_Practice_1/TeamRadio/OLIBEA01_50_20240621_143617.mp3",
         "meeting_name": "Spanish Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -150,7 +166,8 @@
         "date": "2024-07-05T11:21:01+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/OLIBEA01_50_20240705_122032.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -159,7 +176,8 @@
         "date": "2024-07-05T11:21:01.599000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/OLIBEA01_50_20240705_122059.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -168,7 +186,8 @@
         "date": "2024-07-05T11:57:25.192000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/OLIBEA01_50_20240705_125709.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -177,7 +196,8 @@
         "date": "2024-07-05T12:03:29.600000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/OLIBEA01_50_20240705_130254.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9559,
@@ -186,7 +206,8 @@
         "date": "2024-07-19T12:09:45.143000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_1/TeamRadio/OLIBEA01_50_20240719_140917.mp3",
         "meeting_name": "Hungarian Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9559,
@@ -195,7 +216,8 @@
         "date": "2024-07-19T12:10:19.284000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-21_Hungarian_Grand_Prix/2024-07-19_Practice_1/TeamRadio/OLIBEA01_50_20240719_140953.mp3",
         "meeting_name": "Hungarian Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9592,
@@ -204,7 +226,8 @@
         "date": "2024-09-13T13:51:35.585000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/OLIBEA01_50_20240913_155052.mp3",
         "meeting_name": "Azerbaijan Grand Prix",
-        "session_name": "Practice 2"
+        "session_name": "Practice 2",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9592,
@@ -213,7 +236,8 @@
         "date": "2024-09-13T14:03:10.412000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/OLIBEA01_50_20240913_160245.mp3",
         "meeting_name": "Azerbaijan Grand Prix",
-        "session_name": "Practice 2"
+        "session_name": "Practice 2",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9592,
@@ -222,7 +246,8 @@
         "date": "2024-09-13T14:03:45.494000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/OLIBEA01_50_20240913_160323.mp3",
         "meeting_name": "Azerbaijan Grand Prix",
-        "session_name": "Practice 2"
+        "session_name": "Practice 2",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9592,
@@ -231,7 +256,8 @@
         "date": "2024-09-13T14:05:55.833000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-13_Practice_2/TeamRadio/OLIBEA01_50_20240913_160538.mp3",
         "meeting_name": "Azerbaijan Grand Prix",
-        "session_name": "Practice 2"
+        "session_name": "Practice 2",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9593,
@@ -240,7 +266,8 @@
         "date": "2024-09-14T09:05:07.438000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Practice_3/TeamRadio/OLIBEA01_50_20240914_110418.mp3",
         "meeting_name": "Azerbaijan Grand Prix",
-        "session_name": "Practice 3"
+        "session_name": "Practice 3",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9594,
@@ -249,7 +276,8 @@
         "date": "2024-09-14T12:21:14.005000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/OLIBEA01_50_20240914_142054.mp3",
         "meeting_name": "Azerbaijan Grand Prix",
-        "session_name": "Qualifying"
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9594,
@@ -258,7 +286,8 @@
         "date": "2024-09-14T12:42:40.601000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/OLIBEA01_50_20240914_144156.mp3",
         "meeting_name": "Azerbaijan Grand Prix",
-        "session_name": "Qualifying"
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9594,
@@ -267,7 +296,8 @@
         "date": "2024-09-14T12:44:20.354000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-14_Qualifying/TeamRadio/OLIBEA01_50_20240914_144401.mp3",
         "meeting_name": "Azerbaijan Grand Prix",
-        "session_name": "Qualifying"
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9598,
@@ -276,7 +306,8 @@
         "date": "2024-09-15T12:03:47.280000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-15_Azerbaijan_Grand_Prix/2024-09-15_Race/TeamRadio/OLIBEA01_50_20240915_140333.mp3",
         "meeting_name": "Azerbaijan Grand Prix",
-        "session_name": "Race"
+        "session_name": "Race",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9626,
@@ -285,7 +316,8 @@
         "date": "2024-11-01T14:32:54.631000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/OLIBEA01_50_20241101_093248.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9626,
@@ -294,7 +326,8 @@
         "date": "2024-11-01T15:08:49.387000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/OLIBEA01_50_20241101_100809.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9626,
@@ -303,7 +336,8 @@
         "date": "2024-11-01T15:31:20.713000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/OLIBEA01_50_20241101_103046.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9626,
@@ -312,7 +346,8 @@
         "date": "2024-11-01T15:34:44.249000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/OLIBEA01_50_20241101_103432.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9626,
@@ -321,7 +356,8 @@
         "date": "2024-11-01T18:37:27.325000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/OLIBEA01_50_20241101_133656.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9631,
@@ -330,7 +366,8 @@
         "date": "2024-11-01T18:37:27.325000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Sprint_Qualifying/TeamRadio/OLIBEA01_50_20241101_133656.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Sprint Qualifying"
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9626,
@@ -339,7 +376,8 @@
         "date": "2024-11-01T18:37:27.480000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/OLIBEA01_50_20241101_133709.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9631,
@@ -348,7 +386,8 @@
         "date": "2024-11-01T18:37:27.480000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Sprint_Qualifying/TeamRadio/OLIBEA01_50_20241101_133709.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Sprint Qualifying"
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9626,
@@ -357,7 +396,8 @@
         "date": "2024-11-01T18:39:09.558000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/OLIBEA01_50_20241101_133853.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9631,
@@ -366,7 +406,8 @@
         "date": "2024-11-01T18:39:09.558000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Sprint_Qualifying/TeamRadio/OLIBEA01_50_20241101_133853.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Sprint Qualifying"
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9631,
@@ -375,7 +416,8 @@
         "date": "2024-11-01T18:43:04.011000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Sprint_Qualifying/TeamRadio/OLIBEA01_50_20241101_134245.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Sprint Qualifying"
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9631,
@@ -384,7 +426,8 @@
         "date": "2024-11-01T18:44:43.805000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Sprint_Qualifying/TeamRadio/OLIBEA01_50_20241101_134409.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Sprint Qualifying"
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9626,
@@ -393,7 +436,8 @@
         "date": "2024-11-01T19:03:11.217000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/OLIBEA01_50_20241101_140237.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9631,
@@ -402,7 +446,8 @@
         "date": "2024-11-01T19:03:11.217000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Sprint_Qualifying/TeamRadio/OLIBEA01_50_20241101_140237.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Sprint Qualifying"
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9626,
@@ -411,7 +456,8 @@
         "date": "2024-11-01T19:16:45.968000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Practice_1/TeamRadio/OLIBEA01_50_20241101_171816.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9631,
@@ -420,7 +466,8 @@
         "date": "2024-11-01T19:16:45.968000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-01_Sprint_Qualifying/TeamRadio/OLIBEA01_50_20241101_171816.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Sprint Qualifying"
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9635,
@@ -429,7 +476,8 @@
         "date": "2024-11-02T14:36:54.567000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/OLIBEA01_50_20241102_094007.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Sprint"
+        "session_name": "Sprint",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9635,
@@ -438,7 +486,8 @@
         "date": "2024-11-02T14:36:54.567000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/OLIBEA01_50_20241102_094019.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Sprint"
+        "session_name": "Sprint",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9627,
@@ -447,7 +496,8 @@
         "date": "2024-11-03T10:40:15.837000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/OLIBEA01_50_20241103_044005.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Qualifying"
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9627,
@@ -456,7 +506,8 @@
         "date": "2024-11-03T10:47:34.541000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/OLIBEA01_50_20241103_044718.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Qualifying"
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9627,
@@ -465,7 +516,8 @@
         "date": "2024-11-03T10:59:57.339000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/OLIBEA01_50_20241103_045946.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Qualifying"
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9636,
@@ -474,7 +526,8 @@
         "date": "2024-11-03T15:28:05.503000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/OLIBEA01_50_20241103_122747.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Race"
+        "session_name": "Race",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9636,
@@ -483,7 +536,8 @@
         "date": "2024-11-03T16:04:40.113000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/OLIBEA01_50_20241103_130359.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Race"
+        "session_name": "Race",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9636,
@@ -492,7 +546,8 @@
         "date": "2024-11-03T17:58:56.352000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/OLIBEA01_50_20241103_120222.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Race"
+        "session_name": "Race",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9636,
@@ -501,7 +556,8 @@
         "date": "2024-11-03T17:58:56.352000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/OLIBEA01_50_20241103_120230.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Race"
+        "session_name": "Race",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9636,
@@ -510,6 +566,7 @@
         "date": "2024-11-03T17:58:56.352000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/OLIBEA01_50_20241103_120235.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Race"
+        "session_name": "Race",
+        "meeting_year": "2024"
     }
 ]

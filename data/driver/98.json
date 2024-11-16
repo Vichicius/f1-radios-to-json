@@ -6,7 +6,8 @@
         "meeting_key": 1223,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/THEPOU01_98_20231027_193228.mp3",
         "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-11-24T09:56:21.587000+00:00",
@@ -15,7 +16,8 @@
         "meeting_key": 1226,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/THEPOU01_98_20231124_095608.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-11-24T10:17:05.268000+00:00",
@@ -24,7 +26,8 @@
         "meeting_key": 1226,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/THEPOU01_98_20231124_101628.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-11-24T10:32:12.924000+00:00",
@@ -33,6 +36,7 @@
         "meeting_key": 1226,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/THEPOU01_98_20231124_103137.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     }
 ]

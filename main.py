@@ -62,6 +62,8 @@ def process_radio_data(radio_data):
         meeting_name, session_name = extract_session_info(entry['recording_url'])
         entry['meeting_name'] = meeting_name
         entry['session_name'] = session_name
+        entry['meeting_year'] = entry['date'][:4]  # Get the first 4 characters of the date string
+
     return radio_data
 
 def extract_session_info(url):

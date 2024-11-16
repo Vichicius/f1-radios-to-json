@@ -6,7 +6,8 @@
         "meeting_key": 1226,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/ISAHAD01_37_20231124_100023.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "date": "2023-11-24T10:32:45.377000+00:00",
@@ -15,7 +16,8 @@
         "meeting_key": 1226,
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/ISAHAD01_37_20231124_103234.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2023"
     },
     {
         "session_key": 9551,
@@ -24,7 +26,8 @@
         "date": "2024-07-05T11:21:01.151000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/ISAHAD01_37_20240705_122035.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -33,7 +36,8 @@
         "date": "2024-07-05T11:21:01.151000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/ISAHAD01_37_20240705_122033.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -42,7 +46,8 @@
         "date": "2024-07-05T11:21:01.369000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/ISAHAD01_37_20240705_122050.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -51,7 +56,8 @@
         "date": "2024-07-05T11:21:01.369000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/ISAHAD01_37_20240705_122045.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -60,7 +66,8 @@
         "date": "2024-07-05T12:06:19.275000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/ISAHAD01_37_20240705_130554.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -69,7 +76,8 @@
         "date": "2024-07-05T12:30:09.001000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/ISAHAD01_37_20240705_133004.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     },
     {
         "session_key": 9551,
@@ -78,6 +86,7 @@
         "date": "2024-07-05T12:31:15.300000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/ISAHAD01_37_20240705_133100.mp3",
         "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1"
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     }
 ]
