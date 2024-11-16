@@ -46,13 +46,42 @@ def filter_by_driver_number(data, driver_number):
     return [entry for entry in data if entry['driver_number'] == driver_number]
 
 def save_driver_data(driver_data, driver_number):
-    with open(f'data/radio-{driver_number}.json', 'w') as json_file:
-        json.dump(driver_data, json_file, indent=4)
-        logger.info(f'Saved radio data from driver nº {driver_number}')
+    # Create driver directory if it doesn't exist
+    os.makedirs('data/driver', exist_ok=True)
 
+    # Process data to add meeting and session names
+    processed_data = process_radio_data(driver_data)
+
+    # Save all driver data
+    with open(f'data/driver/{driver_number}.json', 'w') as json_file:
+        json.dump(driver_data, json_file, indent=4)
+        logger.info(f'Saved all radio data from driver nº {driver_number}')
+
+def process_radio_data(radio_data):
+    for entry in radio_data:
+        meeting_name, session_name = extract_session_info(entry['recording_url'])
+        entry['meeting_name'] = meeting_name
+        entry['session_name'] = session_name
+    return radio_data
+
+def extract_session_info(url):
+    try:
+        # Split URL to get relevant parts
+        parts = url.split('/')
+        
+        gp_part = parts[5].split('_')
+        meeting_name = ' '.join(gp_part[1:])
+        
+        session_part = parts[6].split('_')
+        session_name = ' '.join(session_part[1:])
+        
+        return meeting_name, session_name
+    except:
+        return "Unknown GP", "Unknown Session"
+    
 def main():
-    data = fetch_all()
-    # data = fetch_from_local() # Use to test without making API calls
+    # data = fetch_all()
+    data = fetch_from_local() # Use to test without making API calls
     split_radios_per_driver(data)
 
 

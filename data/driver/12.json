@@ -1,0 +1,38 @@
+[
+    {
+        "session_key": 9583,
+        "meeting_key": 1244,
+        "driver_number": 12,
+        "date": "2024-08-30T11:37:39.239000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_1/TeamRadio/ANDANT01_12_20240830_133656.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9583,
+        "meeting_key": 1244,
+        "driver_number": 12,
+        "date": "2024-08-30T11:42:36.005000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-08-30_Practice_1/TeamRadio/ANDANT01_12_20240830_134211.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 12,
+        "date": "2024-10-25T18:33:15.882000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ANDANT01_12_20241025_133246.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 12,
+        "date": "2024-10-25T18:47:18.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ANDANT01_12_20241025_134708.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "session_key": 9575,
+        "meeting_key": 1243,
+        "driver_number": 97,
+        "date": "2024-08-23T10:37:17.972000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-08-25_Dutch_Grand_Prix/2024-08-23_Practice_1/TeamRadio/ROBSHW01_97_20240823_123640.mp3",
+        "meeting_name": "Dutch Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:34:21.411000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_133358.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:34:21.535000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_133403.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:52:54.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_135243.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:54:03.813000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_135330.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T18:59:40.283000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_125903.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T19:15:31.671000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_141450.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 97,
+        "date": "2024-10-25T19:23:59.739000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/ROBSHW01_97_20241025_142348.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    }
+]

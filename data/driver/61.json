@@ -1,0 +1,146 @@
+[
+    {
+        "date": "2023-10-27T18:46:25.638000+00:00",
+        "driver_number": 61,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_194611.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "date": "2023-10-27T18:47:33.700000+00:00",
+        "driver_number": 61,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_194712.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "date": "2023-10-27T18:57:40.490000+00:00",
+        "driver_number": 61,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_195703.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "date": "2023-10-27T19:15:06.150000+00:00",
+        "driver_number": 61,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_201433.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "date": "2023-10-27T19:15:06.150000+00:00",
+        "driver_number": 61,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_201450.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "date": "2023-10-27T19:17:21.069000+00:00",
+        "driver_number": 61,
+        "session_key": 9174,
+        "meeting_key": 1223,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_201711.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "date": "2023-11-24T09:59:10.011000+00:00",
+        "driver_number": 61,
+        "session_key": 9190,
+        "meeting_key": 1226,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/JACDOO01_61_20231124_095856.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9524,
+        "meeting_key": 1237,
+        "driver_number": 61,
+        "date": "2024-06-07T18:30:12.810000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_1/TeamRadio/JACDOO01_61_20240607_142946.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9551,
+        "meeting_key": 1240,
+        "driver_number": 61,
+        "date": "2024-07-05T11:20:29.722000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_122016.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9551,
+        "meeting_key": 1240,
+        "driver_number": 61,
+        "date": "2024-07-05T11:21:01.369000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_122058.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9551,
+        "meeting_key": 1240,
+        "driver_number": 61,
+        "date": "2024-07-05T11:21:01.369000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_122052.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9551,
+        "meeting_key": 1240,
+        "driver_number": 61,
+        "date": "2024-07-05T12:12:56.205000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131237.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9551,
+        "meeting_key": 1240,
+        "driver_number": 61,
+        "date": "2024-07-05T12:15:43.113000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131456.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9551,
+        "meeting_key": 1240,
+        "driver_number": 61,
+        "date": "2024-07-05T12:16:51.437000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131638.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9551,
+        "meeting_key": 1240,
+        "driver_number": 61,
+        "date": "2024-07-05T12:17:24.283000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131650.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9551,
+        "meeting_key": 1240,
+        "driver_number": 61,
+        "date": "2024-07-05T12:17:26.548000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131702.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 1"
+    }
+]

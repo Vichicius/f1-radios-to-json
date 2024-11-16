@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-11-24T09:31:43.004000+00:00",
+        "driver_number": 29,
+        "session_key": 9190,
+        "meeting_key": 1226,
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/PATOWA01_29_20231124_093107.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 29,
+        "date": "2024-10-25T18:50:40.242000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PATOWA01_29_20241025_135018.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 29,
+        "date": "2024-10-25T19:17:13.959000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PATOWA01_29_20241025_141700.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 29,
+        "date": "2024-10-25T19:29:38.721000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PATOWA01_29_20241025_142907.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    },
+    {
+        "session_key": 9618,
+        "meeting_key": 1248,
+        "driver_number": 29,
+        "date": "2024-10-25T19:36:05.842000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/PATOWA01_29_20241025_143553.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1"
+    }
+]
