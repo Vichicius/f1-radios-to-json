@@ -4204,6 +4204,16 @@
         "meeting_key": 1239,
         "driver_number": 24,
         "date": "2024-06-29T10:35:56.322000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/GUAZHO01_24_20240629_123935.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9549,
+        "meeting_key": 1239,
+        "driver_number": 24,
+        "date": "2024-06-29T10:35:56.322000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/GUAZHO01_24_20240629_123925.mp3",
         "meeting_name": "Austrian Grand Prix",
         "session_name": "Sprint",
@@ -4215,16 +4225,6 @@
         "driver_number": 24,
         "date": "2024-06-29T10:35:56.322000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/GUAZHO01_24_20240629_123933.mp3",
-        "meeting_name": "Austrian Grand Prix",
-        "session_name": "Sprint",
-        "meeting_year": "2024"
-    },
-    {
-        "session_key": 9549,
-        "meeting_key": 1239,
-        "driver_number": 24,
-        "date": "2024-06-29T10:35:56.322000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-30_Austrian_Grand_Prix/2024-06-29_Sprint/TeamRadio/GUAZHO01_24_20240629_123935.mp3",
         "meeting_name": "Austrian Grand Prix",
         "session_name": "Sprint",
         "meeting_year": "2024"
@@ -4774,7 +4774,7 @@
         "meeting_key": 1248,
         "driver_number": 24,
         "date": "2024-10-26T21:06:12.871000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/GUAZHO01_24_20241026_160547.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/GUAZHO01_24_20241026_160540.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2024"
@@ -4794,7 +4794,7 @@
         "meeting_key": 1248,
         "driver_number": 24,
         "date": "2024-10-26T21:06:12.871000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/GUAZHO01_24_20241026_160540.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/GUAZHO01_24_20241026_160547.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2024"
@@ -4814,7 +4814,7 @@
         "meeting_key": 1248,
         "driver_number": 24,
         "date": "2024-10-26T21:19:50.584000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/GUAZHO01_24_20241026_161942.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/GUAZHO01_24_20241026_161937.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2024"
@@ -4824,7 +4824,7 @@
         "meeting_key": 1248,
         "driver_number": 24,
         "date": "2024-10-26T21:19:50.584000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/GUAZHO01_24_20241026_161937.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-26_Qualifying/TeamRadio/GUAZHO01_24_20241026_161942.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2024"
@@ -4834,7 +4834,7 @@
         "meeting_key": 1248,
         "driver_number": 24,
         "date": "2024-10-27T21:47:06.885000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/GUAZHO01_24_20241027_165046.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/GUAZHO01_24_20241027_165041.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -4844,7 +4844,7 @@
         "meeting_key": 1248,
         "driver_number": 24,
         "date": "2024-10-27T21:47:06.885000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/GUAZHO01_24_20241027_165041.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/GUAZHO01_24_20241027_165046.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -4924,7 +4924,7 @@
         "meeting_key": 1249,
         "driver_number": 24,
         "date": "2024-11-02T14:36:54.567000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/GUAZHO01_24_20241102_094122.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/GUAZHO01_24_20241102_094128.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
         "session_name": "Sprint",
         "meeting_year": "2024"
@@ -4944,7 +4944,7 @@
         "meeting_key": 1249,
         "driver_number": 24,
         "date": "2024-11-02T14:36:54.567000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/GUAZHO01_24_20241102_094128.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/GUAZHO01_24_20241102_094122.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
         "session_name": "Sprint",
         "meeting_year": "2024"
@@ -4964,7 +4964,7 @@
         "meeting_key": 1249,
         "driver_number": 24,
         "date": "2024-11-03T17:58:56.352000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/GUAZHO01_24_20241103_120348.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/GUAZHO01_24_20241103_120352.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -4974,8 +4974,528 @@
         "meeting_key": 1249,
         "driver_number": 24,
         "date": "2024-11-03T17:58:56.352000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/GUAZHO01_24_20241103_120352.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-03_Race/TeamRadio/GUAZHO01_24_20241103_120348.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9637,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-22T02:39:50.762000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-21_Practice_1/TeamRadio/GUAZHO01_24_20241121_203921.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9637,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-22T02:40:25.176000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-21_Practice_1/TeamRadio/GUAZHO01_24_20241121_204011.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9638,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-22T06:02:45.550000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-21_Practice_2/TeamRadio/GUAZHO01_24_20241121_220224.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9639,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-23T02:31:18.461000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-22_Practice_3/TeamRadio/GUAZHO01_24_20241122_203110.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9639,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-23T02:32:23.682000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-22_Practice_3/TeamRadio/GUAZHO01_24_20241122_203212.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9639,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-23T03:07:53.213000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-22_Practice_3/TeamRadio/GUAZHO01_24_20241122_190739.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9640,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-23T06:05:41.241000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-22_Qualifying/TeamRadio/GUAZHO01_24_20241123_000533.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9640,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-23T06:08:31.789000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-22_Qualifying/TeamRadio/GUAZHO01_24_20241123_000823.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9640,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-23T06:19:45.005000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-22_Qualifying/TeamRadio/GUAZHO01_24_20241123_001916.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9640,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-23T06:25:21.580000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-22_Qualifying/TeamRadio/GUAZHO01_24_20241123_002504.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9644,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-24T06:31:35.172000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/TeamRadio/GUAZHO01_24_20241124_003126.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9644,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-24T07:30:35.579000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/TeamRadio/GUAZHO01_24_20241124_013603.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9644,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-24T07:30:35.579000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/TeamRadio/GUAZHO01_24_20241124_013544.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9644,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-24T07:30:35.579000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/TeamRadio/GUAZHO01_24_20241124_013555.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9644,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-29T14:04:53.506000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/TeamRadio/GUAZHO01_24_20241129_080423.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9645,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-29T14:04:53.506000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Practice_1/TeamRadio/GUAZHO01_24_20241129_080423.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9644,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-29T14:11:04.237000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/TeamRadio/GUAZHO01_24_20241129_081053.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9645,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-29T14:11:04.237000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Practice_1/TeamRadio/GUAZHO01_24_20241129_081053.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9644,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-29T14:20:40.811000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/TeamRadio/GUAZHO01_24_20241129_082021.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9645,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-29T14:20:40.811000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Practice_1/TeamRadio/GUAZHO01_24_20241129_082021.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9644,
+        "meeting_key": 1250,
+        "driver_number": 24,
+        "date": "2024-11-29T14:32:29.530000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-23_Las_Vegas_Grand_Prix/2024-11-23_Race/TeamRadio/GUAZHO01_24_20241129_083201.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9645,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-29T14:32:29.530000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Practice_1/TeamRadio/GUAZHO01_24_20241129_083201.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9650,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-29T17:32:01.016000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Sprint_Qualifying/TeamRadio/GUAZHO01_24_20241129_113151.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9650,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-29T17:35:23.473000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Sprint_Qualifying/TeamRadio/GUAZHO01_24_20241129_113458.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9650,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-29T17:45:32.764000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Sprint_Qualifying/TeamRadio/GUAZHO01_24_20241129_114456.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9650,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-29T17:45:32.764000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Sprint_Qualifying/TeamRadio/GUAZHO01_24_20241129_114501.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9650,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-29T17:45:32.764000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Sprint_Qualifying/TeamRadio/GUAZHO01_24_20241129_114505.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9654,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-30T13:31:38.398000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/GUAZHO01_24_20241130_073109.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9654,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-30T14:09:43.774000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/GUAZHO01_24_20241130_080923.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9654,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-30T14:09:43.860000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/GUAZHO01_24_20241130_080926.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9654,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-30T14:11:58.954000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/GUAZHO01_24_20241130_081139.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9654,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-30T14:20:25.840000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/GUAZHO01_24_20241130_082004.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9654,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-30T14:20:25.922000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/GUAZHO01_24_20241130_082009.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9654,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-30T14:32:41.692000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/GUAZHO01_24_20241130_083702.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9646,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-30T18:11:40.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Qualifying/TeamRadio/GUAZHO01_24_20241130_121129.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9646,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-11-30T18:44:55.637000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Qualifying/TeamRadio/GUAZHO01_24_20241130_214429.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9655,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-12-01T16:08:23.017000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/TeamRadio/GUAZHO01_24_20241201_190804.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9655,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-12-01T16:45:36.436000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/TeamRadio/GUAZHO01_24_20241201_104519.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9655,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-12-01T16:47:18.838000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/TeamRadio/GUAZHO01_24_20241201_104641.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9655,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-12-01T16:47:51.396000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/TeamRadio/GUAZHO01_24_20241201_104747.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9655,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-12-01T17:04:49.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/TeamRadio/GUAZHO01_24_20241201_110435.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9655,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-12-01T17:20:08.360000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/TeamRadio/GUAZHO01_24_20241201_201943.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9655,
+        "meeting_key": 1251,
+        "driver_number": 24,
+        "date": "2024-12-01T17:42:33.183000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-12-01_Race/TeamRadio/GUAZHO01_24_20241201_114205.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 24,
+        "date": "2024-12-06T09:47:39.138000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/GUAZHO01_24_20241206_034703.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 24,
+        "date": "2024-12-06T10:25:57.884000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/GUAZHO01_24_20241206_142517.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9656,
+        "meeting_key": 1252,
+        "driver_number": 24,
+        "date": "2024-12-06T13:01:12.293000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/GUAZHO01_24_20241206_070047.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9656,
+        "meeting_key": 1252,
+        "driver_number": 24,
+        "date": "2024-12-06T13:01:12.367000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/GUAZHO01_24_20241206_070057.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9656,
+        "meeting_key": 1252,
+        "driver_number": 24,
+        "date": "2024-12-06T13:02:20.502000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/GUAZHO01_24_20241206_070146.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9656,
+        "meeting_key": 1252,
+        "driver_number": 24,
+        "date": "2024-12-06T13:05:10.886000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/GUAZHO01_24_20241206_070455.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9657,
+        "meeting_key": 1252,
+        "driver_number": 24,
+        "date": "2024-12-07T10:46:38.679000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Practice_3/TeamRadio/GUAZHO01_24_20241207_044632.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9657,
+        "meeting_key": 1252,
+        "driver_number": 24,
+        "date": "2024-12-07T10:49:59.559000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Practice_3/TeamRadio/GUAZHO01_24_20241207_044931.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9662,
+        "meeting_key": 1252,
+        "driver_number": 24,
+        "date": "2024-12-08T13:02:36.414000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-08_Race/TeamRadio/GUAZHO01_24_20241208_170222.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
     }

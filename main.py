@@ -82,8 +82,8 @@ def extract_session_info(url):
         return "Unknown GP", "Unknown Session"
     
 def main():
-    # data = fetch_all()
-    data = fetch_from_local() # Use to test without making API calls
+    data = fetch_all()
+    # data = fetch_from_local() # Use to test without making API calls
     split_radios_per_driver(data)
 
 

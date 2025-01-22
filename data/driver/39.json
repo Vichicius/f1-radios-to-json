@@ -108,5 +108,85 @@
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2023"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 39,
+        "date": "2024-12-06T09:15:34.882000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/ARTLEC01_39_20241206_025708.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 39,
+        "date": "2024-12-06T09:15:35.011000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/ARTLEC01_39_20241206_030841.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 39,
+        "date": "2024-12-06T09:37:28.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/ARTLEC01_39_20241206_033650.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 39,
+        "date": "2024-12-06T09:53:20.159000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/ARTLEC01_39_20241206_035255.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 39,
+        "date": "2024-12-06T09:56:06.212000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/ARTLEC01_39_20241206_135538.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 39,
+        "date": "2024-12-06T09:56:40.778000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/ARTLEC01_39_20241206_135616.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 39,
+        "date": "2024-12-06T10:23:07.344000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/ARTLEC01_39_20241206_042254.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 39,
+        "date": "2024-12-06T10:35:31.700000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/ARTLEC01_39_20241206_143450.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
     }
 ]

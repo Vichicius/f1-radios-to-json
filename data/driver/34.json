@@ -74,7 +74,7 @@
         "meeting_key": 1248,
         "driver_number": 34,
         "date": "2024-10-25T19:08:41.597000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_140829.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_140824.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2024"
@@ -84,7 +84,7 @@
         "meeting_key": 1248,
         "driver_number": 34,
         "date": "2024-10-25T19:08:41.597000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_140824.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_140829.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2024"
@@ -116,6 +116,16 @@
         "date": "2024-10-25T19:33:34.070000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/FELDRU01_34_20241025_143300.mp3",
         "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9461,
+        "meeting_key": 1252,
+        "driver_number": 34,
+        "date": "2024-12-06T10:26:32.991000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/FELDRU01_34_20241206_042607.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2024"
     }
