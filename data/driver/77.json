@@ -3584,6 +3584,16 @@
         "meeting_key": 1251,
         "driver_number": 77,
         "date": "2024-11-29T18:00:44.849000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Sprint_Qualifying/TeamRadio/VALBOT01_77_20241129_120007.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9650,
+        "meeting_key": 1251,
+        "driver_number": 77,
+        "date": "2024-11-29T18:00:44.849000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Sprint_Qualifying/TeamRadio/VALBOT01_77_20241129_120011.mp3",
         "meeting_name": "Qatar Grand Prix",
         "session_name": "Sprint Qualifying",
@@ -3595,16 +3605,6 @@
         "driver_number": 77,
         "date": "2024-11-29T18:00:44.849000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Sprint_Qualifying/TeamRadio/VALBOT01_77_20241129_120018.mp3",
-        "meeting_name": "Qatar Grand Prix",
-        "session_name": "Sprint Qualifying",
-        "meeting_year": "2024"
-    },
-    {
-        "session_key": 9650,
-        "meeting_key": 1251,
-        "driver_number": 77,
-        "date": "2024-11-29T18:00:44.849000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-29_Sprint_Qualifying/TeamRadio/VALBOT01_77_20241129_120007.mp3",
         "meeting_name": "Qatar Grand Prix",
         "session_name": "Sprint Qualifying",
         "meeting_year": "2024"
@@ -3744,7 +3744,7 @@
         "meeting_key": 1252,
         "driver_number": 77,
         "date": "2024-12-07T15:08:05.131000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Practice_3/TeamRadio/VALBOT01_77_20241207_090852.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Practice_3/TeamRadio/VALBOT01_77_20241207_090831.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Practice 3",
         "meeting_year": "2024"
@@ -3754,7 +3754,7 @@
         "meeting_key": 1252,
         "driver_number": 77,
         "date": "2024-12-07T15:08:05.131000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Practice_3/TeamRadio/VALBOT01_77_20241207_090831.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Practice_3/TeamRadio/VALBOT01_77_20241207_090852.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Practice 3",
         "meeting_year": "2024"
@@ -3764,7 +3764,7 @@
         "meeting_key": 1252,
         "driver_number": 77,
         "date": "2024-12-07T15:08:05.131000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Qualifying/TeamRadio/VALBOT01_77_20241207_090852.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Qualifying/TeamRadio/VALBOT01_77_20241207_090831.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2024"
@@ -3774,7 +3774,7 @@
         "meeting_key": 1252,
         "driver_number": 77,
         "date": "2024-12-07T15:08:05.131000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Qualifying/TeamRadio/VALBOT01_77_20241207_090831.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Qualifying/TeamRadio/VALBOT01_77_20241207_090852.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2024"
