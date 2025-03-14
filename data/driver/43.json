@@ -674,16 +674,6 @@
         "meeting_key": 1248,
         "driver_number": 43,
         "date": "2024-10-27T21:47:06.885000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/FRACOL01_43_20241027_165327.mp3",
-        "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Race",
-        "meeting_year": "2024"
-    },
-    {
-        "session_key": 9625,
-        "meeting_key": 1248,
-        "driver_number": 43,
-        "date": "2024-10-27T21:47:06.885000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/FRACOL01_43_20241027_165334.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Race",
@@ -694,7 +684,7 @@
         "meeting_key": 1248,
         "driver_number": 43,
         "date": "2024-10-27T21:47:06.885000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/FRACOL01_43_20241027_165340.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/FRACOL01_43_20241027_165350.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -704,7 +694,17 @@
         "meeting_key": 1248,
         "driver_number": 43,
         "date": "2024-10-27T21:47:06.885000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/FRACOL01_43_20241027_165350.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/FRACOL01_43_20241027_165327.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9625,
+        "meeting_key": 1248,
+        "driver_number": 43,
+        "date": "2024-10-27T21:47:06.885000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/FRACOL01_43_20241027_165340.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -1124,6 +1124,16 @@
         "meeting_key": 1251,
         "driver_number": 43,
         "date": "2024-11-30T14:40:39.298000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/FRACOL01_43_20241130_084024.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2024"
+    },
+    {
+        "session_key": 9654,
+        "meeting_key": 1251,
+        "driver_number": 43,
+        "date": "2024-11-30T14:40:39.298000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/FRACOL01_43_20241130_084017.mp3",
         "meeting_name": "Qatar Grand Prix",
         "session_name": "Sprint",
@@ -1135,16 +1145,6 @@
         "driver_number": 43,
         "date": "2024-11-30T14:40:39.298000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/FRACOL01_43_20241130_084020.mp3",
-        "meeting_name": "Qatar Grand Prix",
-        "session_name": "Sprint",
-        "meeting_year": "2024"
-    },
-    {
-        "session_key": 9654,
-        "meeting_key": 1251,
-        "driver_number": 43,
-        "date": "2024-11-30T14:40:39.298000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-01_Qatar_Grand_Prix/2024-11-30_Sprint/TeamRadio/FRACOL01_43_20241130_084024.mp3",
         "meeting_name": "Qatar Grand Prix",
         "session_name": "Sprint",
         "meeting_year": "2024"
@@ -1234,7 +1234,7 @@
         "meeting_key": 1252,
         "driver_number": 43,
         "date": "2024-12-08T12:58:05.841000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-08_Race/TeamRadio/FRACOL01_43_20241208_065751.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-08_Race/TeamRadio/FRACOL01_43_20241208_065753.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -1244,7 +1244,7 @@
         "meeting_key": 1252,
         "driver_number": 43,
         "date": "2024-12-08T12:58:05.841000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-08_Race/TeamRadio/FRACOL01_43_20241208_065753.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-08_Race/TeamRadio/FRACOL01_43_20241208_065751.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
