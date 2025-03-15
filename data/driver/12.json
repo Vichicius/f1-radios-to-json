@@ -38,5 +38,25 @@
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2024"
+    },
+    {
+        "session_key": 9688,
+        "meeting_key": 1254,
+        "driver_number": 12,
+        "date": "2025-03-15T01:35:53.460000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-15_Practice_3/TeamRadio/ANDANT01_12_20250315_123534.mp3",
+        "meeting_name": "Australian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 9689,
+        "meeting_key": 1254,
+        "driver_number": 12,
+        "date": "2025-03-15T05:20:09.548000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-15_Qualifying/TeamRadio/ANDANT01_12_20250315_161938.mp3",
+        "meeting_name": "Australian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
