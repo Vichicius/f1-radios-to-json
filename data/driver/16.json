@@ -9448,5 +9448,45 @@
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
+    },
+    {
+        "session_key": 9693,
+        "meeting_key": 1254,
+        "driver_number": 16,
+        "date": "2025-03-16T04:11:03.214000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-16_Race/TeamRadio/CHALEC01_16_20250316_151042.mp3",
+        "meeting_name": "Australian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 9693,
+        "meeting_key": 1254,
+        "driver_number": 16,
+        "date": "2025-03-16T04:42:36.974000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-16_Race/TeamRadio/CHALEC01_16_20250316_154214.mp3",
+        "meeting_name": "Australian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 9693,
+        "meeting_key": 1254,
+        "driver_number": 16,
+        "date": "2025-03-16T05:34:03.470000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-16_Race/TeamRadio/CHALEC01_16_20250316_163332.mp3",
+        "meeting_name": "Australian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 9989,
+        "meeting_key": 1255,
+        "driver_number": 16,
+        "date": "2025-03-21T08:02:16.864000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-03-23_Chinese_Grand_Prix/2025-03-21_Sprint_Qualifying/TeamRadio/CHALEC01_16_20250321_160156.mp3",
+        "meeting_name": "Chinese Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
     }
 ]

@@ -12608,5 +12608,15 @@
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
+    },
+    {
+        "session_key": 9989,
+        "meeting_key": 1255,
+        "driver_number": 63,
+        "date": "2025-03-21T07:56:09.955000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-03-23_Chinese_Grand_Prix/2025-03-21_Sprint_Qualifying/TeamRadio/GEORUS01_63_20250321_155534.mp3",
+        "meeting_name": "Chinese Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
     }
 ]
