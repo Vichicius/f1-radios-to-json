@@ -6448,5 +6448,15 @@
         "meeting_name": "Chinese Grand Prix",
         "session_name": "Sprint Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 9994,
+        "meeting_key": 1255,
+        "driver_number": 14,
+        "date": "2025-03-22T07:42:02.231000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-03-23_Chinese_Grand_Prix/2025-03-22_Qualifying/TeamRadio/FERALO01_14_20250322_154134.mp3",
+        "meeting_name": "Chinese Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
