@@ -8,5 +8,15 @@
         "meeting_name": "Chinese Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10000,
+        "meeting_key": 1256,
+        "driver_number": 7,
+        "date": "2025-04-04T06:11:25.303000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-04_Practice_2/TeamRadio/JACDOO01_7_20250404_151113.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]

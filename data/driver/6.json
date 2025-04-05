@@ -38,5 +38,45 @@
         "meeting_name": "Chinese Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10002,
+        "meeting_key": 1256,
+        "driver_number": 6,
+        "date": "2025-04-05T06:10:50.135000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-05_Qualifying/TeamRadio/ISAHAD01_6_20250405_151007.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10002,
+        "meeting_key": 1256,
+        "driver_number": 6,
+        "date": "2025-04-05T06:20:01.668000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-05_Qualifying/TeamRadio/ISAHAD01_6_20250405_151945.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10002,
+        "meeting_key": 1256,
+        "driver_number": 6,
+        "date": "2025-04-05T06:33:18.021000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-05_Qualifying/TeamRadio/ISAHAD01_6_20250405_151436.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10002,
+        "meeting_key": 1256,
+        "driver_number": 6,
+        "date": "2025-04-05T06:33:18.112000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-05_Qualifying/TeamRadio/ISAHAD01_6_20250405_151608.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

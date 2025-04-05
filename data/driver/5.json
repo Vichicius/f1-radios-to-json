@@ -18,5 +18,25 @@
         "meeting_name": "Australian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 9999,
+        "meeting_key": 1256,
+        "driver_number": 5,
+        "date": "2025-04-04T03:26:50.160000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-04_Practice_1/TeamRadio/GABBOR01_5_20250404_122643.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10001,
+        "meeting_key": 1256,
+        "driver_number": 5,
+        "date": "2025-04-05T03:08:27.022000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-05_Practice_3/TeamRadio/GABBOR01_5_20250405_120807.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
     }
 ]
