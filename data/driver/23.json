@@ -5284,7 +5284,7 @@
         "meeting_key": 1247,
         "driver_number": 23,
         "date": "2024-10-20T19:19:02.455000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_141852.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_141846.mp3",
         "meeting_name": "United States Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -5294,7 +5294,7 @@
         "meeting_key": 1247,
         "driver_number": 23,
         "date": "2024-10-20T19:19:02.455000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_141846.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/ALEALB01_23_20241020_141852.mp3",
         "meeting_name": "United States Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -5884,7 +5884,7 @@
         "meeting_key": 1252,
         "driver_number": 23,
         "date": "2024-12-06T13:20:57.938000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/ALEALB01_23_20241206_072025.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/ALEALB01_23_20241206_072021.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2024"
@@ -5894,7 +5894,7 @@
         "meeting_key": 1252,
         "driver_number": 23,
         "date": "2024-12-06T13:20:57.938000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/ALEALB01_23_20241206_072021.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/ALEALB01_23_20241206_072025.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2024"
@@ -6007,6 +6007,46 @@
         "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-05_Qualifying/TeamRadio/ALEALB01_23_20250405_153309.mp3",
         "meeting_name": "Japanese Grand Prix",
         "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10006,
+        "meeting_key": 1256,
+        "driver_number": 23,
+        "date": "2025-04-06T05:43:01.538000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/TeamRadio/ALEALB01_23_20250406_144219.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10007,
+        "meeting_key": 1257,
+        "driver_number": 23,
+        "date": "2025-04-11T12:09:50.177000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-11_Practice_1/TeamRadio/ALEALB01_23_20250411_150937.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10007,
+        "meeting_key": 1257,
+        "driver_number": 23,
+        "date": "2025-04-11T12:20:31.198000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-11_Practice_1/TeamRadio/ALEALB01_23_20250411_152014.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10007,
+        "meeting_key": 1257,
+        "driver_number": 23,
+        "date": "2025-04-11T12:25:05.685000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-11_Practice_1/TeamRadio/ALEALB01_23_20250411_152458.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 1",
         "meeting_year": "2025"
     }
 ]

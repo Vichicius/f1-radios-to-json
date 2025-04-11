@@ -334,7 +334,7 @@
         "meeting_key": 1248,
         "driver_number": 30,
         "date": "2024-10-27T20:00:06.782000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/LIALAW01_30_20241027_145957.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/LIALAW01_30_20241027_145939.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -344,7 +344,7 @@
         "meeting_key": 1248,
         "driver_number": 30,
         "date": "2024-10-27T20:00:06.782000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/LIALAW01_30_20241027_145939.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-27_Race/TeamRadio/LIALAW01_30_20241027_145957.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -1346,6 +1346,36 @@
         "date": "2025-04-04T02:17:04.048000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-04_Practice_1/TeamRadio/LIALAW01_30_20250404_111651.mp3",
         "meeting_name": "Japanese Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10006,
+        "meeting_key": 1256,
+        "driver_number": 30,
+        "date": "2025-04-06T04:28:08.285000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/TeamRadio/LIALAW01_30_20250406_132737.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10006,
+        "meeting_key": 1256,
+        "driver_number": 30,
+        "date": "2025-04-06T04:30:41.858000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/TeamRadio/LIALAW01_30_20250406_133010.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10007,
+        "meeting_key": 1257,
+        "driver_number": 30,
+        "date": "2025-04-11T11:43:51.404000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-11_Practice_1/TeamRadio/LIALAW01_30_20250411_144323.mp3",
+        "meeting_name": "Bahrain Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
     }

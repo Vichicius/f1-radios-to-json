@@ -6614,7 +6614,7 @@
         "meeting_key": 1247,
         "driver_number": 81,
         "date": "2024-10-20T20:42:06.544000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_155137.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_155134.mp3",
         "meeting_name": "United States Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -6624,7 +6624,7 @@
         "meeting_key": 1247,
         "driver_number": 81,
         "date": "2024-10-20T20:42:06.544000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_155134.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-20_United_States_Grand_Prix/2024-10-20_Race/TeamRadio/OSCPIA01_81_20241020_155137.mp3",
         "meeting_name": "United States Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
@@ -6704,7 +6704,7 @@
         "meeting_key": 1248,
         "driver_number": 81,
         "date": "2024-10-25T19:35:14.288000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_143457.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_143449.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2024"
@@ -6714,7 +6714,7 @@
         "meeting_key": 1248,
         "driver_number": 81,
         "date": "2024-10-25T19:35:14.288000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_143449.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-10-27_Mexico_City_Grand_Prix/2024-10-25_Practice_1/TeamRadio/OSCPIA01_81_20241025_143457.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2024"
@@ -6974,7 +6974,7 @@
         "meeting_key": 1249,
         "driver_number": 81,
         "date": "2024-11-02T14:29:28.841000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/OSCPIA01_81_20241102_112607.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/OSCPIA01_81_20241102_122919.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
         "session_name": "Sprint",
         "meeting_year": "2024"
@@ -6984,7 +6984,7 @@
         "meeting_key": 1249,
         "driver_number": 81,
         "date": "2024-11-02T14:29:28.841000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/OSCPIA01_81_20241102_122919.mp3",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/OSCPIA01_81_20241102_112607.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
         "session_name": "Sprint",
         "meeting_year": "2024"
@@ -7907,6 +7907,56 @@
         "recording_url": "https://livetiming.formula1.com/static/2025/2025-03-23_Chinese_Grand_Prix/2025-03-23_Race/TeamRadio/OSCPIA01_81_20250323_163606.mp3",
         "meeting_name": "Chinese Grand Prix",
         "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10006,
+        "meeting_key": 1256,
+        "driver_number": 81,
+        "date": "2025-04-06T06:09:09.697000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/TeamRadio/OSCPIA01_81_20250406_150901.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10006,
+        "meeting_key": 1256,
+        "driver_number": 81,
+        "date": "2025-04-06T06:10:10.019000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/TeamRadio/OSCPIA01_81_20250406_150943.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10006,
+        "meeting_key": 1256,
+        "driver_number": 81,
+        "date": "2025-04-06T06:29:16.231000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/TeamRadio/OSCPIA01_81_20250406_152927.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10007,
+        "meeting_key": 1257,
+        "driver_number": 81,
+        "date": "2025-04-11T11:42:50.083000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-11_Practice_1/TeamRadio/OSCPIA01_81_20250411_144239.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10008,
+        "meeting_key": 1257,
+        "driver_number": 81,
+        "date": "2025-04-11T16:02:59.118000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-11_Practice_2/TeamRadio/OSCPIA01_81_20250411_190225.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 2",
         "meeting_year": "2025"
     }
 ]

@@ -78,5 +78,25 @@
         "meeting_name": "Japanese Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10006,
+        "meeting_key": 1256,
+        "driver_number": 6,
+        "date": "2025-04-06T04:25:36.019000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/TeamRadio/ISAHAD01_6_20250406_132505.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10008,
+        "meeting_key": 1257,
+        "driver_number": 6,
+        "date": "2025-04-11T15:49:45.296000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-11_Practice_2/TeamRadio/ISAHAD01_6_20250411_184917.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]

@@ -38,5 +38,15 @@
         "meeting_name": "Japanese Grand Prix",
         "session_name": "Practice 3",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10006,
+        "meeting_key": 1256,
+        "driver_number": 5,
+        "date": "2025-04-06T04:09:45.554000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-06_Japanese_Grand_Prix/2025-04-06_Race/TeamRadio/GABBOR01_5_20250406_130927.mp3",
+        "meeting_name": "Japanese Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]
