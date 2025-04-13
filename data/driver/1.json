@@ -11038,5 +11038,35 @@
         "meeting_name": "Bahrain Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10009,
+        "meeting_key": 1257,
+        "driver_number": 1,
+        "date": "2025-04-12T12:50:44.548000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-12_Practice_3/TeamRadio/MAXVER01_1_20250412_155027.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10010,
+        "meeting_key": 1257,
+        "driver_number": 1,
+        "date": "2025-04-12T16:07:53.925000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-12_Qualifying/TeamRadio/MAXVER01_1_20250412_190723.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10010,
+        "meeting_key": 1257,
+        "driver_number": 1,
+        "date": "2025-04-12T17:01:22.229000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-12_Qualifying/TeamRadio/MAXVER01_1_20250412_200114.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
