@@ -11068,5 +11068,185 @@
         "meeting_name": "Bahrain Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10014,
+        "meeting_key": 1257,
+        "driver_number": 1,
+        "date": "2025-04-13T14:27:40.881000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/TeamRadio/MAXVER01_1_20250413_172723.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10014,
+        "meeting_key": 1257,
+        "driver_number": 1,
+        "date": "2025-04-13T15:03:55.013000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/TeamRadio/MAXVER01_1_20250413_180337.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10014,
+        "meeting_key": 1257,
+        "driver_number": 1,
+        "date": "2025-04-13T15:12:05.709000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/TeamRadio/MAXVER01_1_20250413_181201.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10014,
+        "meeting_key": 1257,
+        "driver_number": 1,
+        "date": "2025-04-13T15:22:19.521000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/TeamRadio/MAXVER01_1_20250413_182152.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10014,
+        "meeting_key": 1257,
+        "driver_number": 1,
+        "date": "2025-04-13T15:40:40.798000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/TeamRadio/MAXVER01_1_20250413_184027.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10015,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-18T14:02:51.259000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-18_Practice_1/TeamRadio/MAXVER01_1_20250418_170240.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10015,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-18T14:21:10.627000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-18_Practice_1/TeamRadio/MAXVER01_1_20250418_172058.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10015,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-18T14:28:50.853000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-18_Practice_1/TeamRadio/MAXVER01_1_20250418_172817.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10017,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-19T14:15:38.410000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-19_Practice_3/TeamRadio/MAXVER01_1_20250419_171509.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10017,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-19T14:18:41.011000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-19_Practice_3/TeamRadio/MAXVER01_1_20250419_171836.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10018,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-19T17:34:06.243000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-19_Qualifying/TeamRadio/MAXVER01_1_20250419_203339.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10018,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-19T18:01:04.187000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-19_Qualifying/TeamRadio/MAXVER01_1_20250419_210023.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10018,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-19T18:06:10.024000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-19_Qualifying/TeamRadio/MAXVER01_1_20250419_210552.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10018,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-19T18:11:45.932000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-19_Qualifying/TeamRadio/MAXVER01_1_20250419_211111.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10022,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-20T17:10:16.813000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/TeamRadio/MAXVER01_1_20250420_200953.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10022,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-20T17:14:50.174000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/TeamRadio/MAXVER01_1_20250420_201409.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10022,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-20T17:20:58.655000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/TeamRadio/MAXVER01_1_20250420_202019.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10022,
+        "meeting_key": 1258,
+        "driver_number": 1,
+        "date": "2025-04-20T17:37:01.394000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/TeamRadio/MAXVER01_1_20250420_203622.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

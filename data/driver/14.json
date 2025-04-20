@@ -6488,5 +6488,25 @@
         "meeting_name": "Bahrain Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10016,
+        "meeting_key": 1258,
+        "driver_number": 14,
+        "date": "2025-04-18T17:08:15.672000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-18_Practice_2/TeamRadio/FERALO01_14_20250418_200759.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10022,
+        "meeting_key": 1258,
+        "driver_number": 14,
+        "date": "2025-04-20T17:46:49.758000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/TeamRadio/FERALO01_14_20250420_204622.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

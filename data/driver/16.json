@@ -9628,5 +9628,65 @@
         "meeting_name": "Bahrain Grand Prix",
         "session_name": "Practice 3",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10014,
+        "meeting_key": 1257,
+        "driver_number": 16,
+        "date": "2025-04-13T15:17:43.457000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/TeamRadio/CHALEC01_16_20250413_181720.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10014,
+        "meeting_key": 1257,
+        "driver_number": 16,
+        "date": "2025-04-13T16:34:22.102000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/TeamRadio/CHALEC01_16_20250413_193355.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10015,
+        "meeting_key": 1258,
+        "driver_number": 16,
+        "date": "2025-04-18T14:31:53.682000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-18_Practice_1/TeamRadio/CHALEC01_16_20250418_173145.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10016,
+        "meeting_key": 1258,
+        "driver_number": 16,
+        "date": "2025-04-18T17:03:09.792000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-18_Practice_2/TeamRadio/CHALEC01_16_20250418_200305.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10017,
+        "meeting_key": 1258,
+        "driver_number": 16,
+        "date": "2025-04-19T14:32:56.646000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-19_Practice_3/TeamRadio/CHALEC01_16_20250419_173225.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10022,
+        "meeting_key": 1258,
+        "driver_number": 16,
+        "date": "2025-04-20T18:06:13.092000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-04-20_Saudi_Arabian_Grand_Prix/2025-04-20_Race/TeamRadio/CHALEC01_16_20250420_210545.mp3",
+        "meeting_name": "Saudi Arabian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]
