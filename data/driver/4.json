@@ -11158,5 +11158,65 @@
         "meeting_name": "Saudi Arabian Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10023,
+        "meeting_key": 1259,
+        "driver_number": 4,
+        "date": "2025-05-02T16:33:33.240000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-02_Practice_1/TeamRadio/LANNOR01_4_20250502_123321.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10024,
+        "meeting_key": 1259,
+        "driver_number": 4,
+        "date": "2025-05-02T20:43:54.206000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-02_Sprint_Qualifying/TeamRadio/LANNOR01_4_20250502_164339.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10028,
+        "meeting_key": 1259,
+        "driver_number": 4,
+        "date": "2025-05-03T16:54:06.840000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Sprint/TeamRadio/LANNOR01_4_20250503_125343.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10028,
+        "meeting_key": 1259,
+        "driver_number": 4,
+        "date": "2025-05-03T17:05:51.258000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Sprint/TeamRadio/LANNOR01_4_20250503_130514.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10033,
+        "meeting_key": 1259,
+        "driver_number": 4,
+        "date": "2025-05-04T20:06:32.562000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-04_Race/TeamRadio/LANNOR01_4_20250504_160606.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10033,
+        "meeting_key": 1259,
+        "driver_number": 4,
+        "date": "2025-05-04T20:43:15.926000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-04_Race/TeamRadio/LANNOR01_4_20250504_164254.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

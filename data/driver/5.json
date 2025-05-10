@@ -58,5 +58,25 @@
         "meeting_name": "Saudi Arabian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10024,
+        "meeting_key": 1259,
+        "driver_number": 5,
+        "date": "2025-05-02T20:38:18.275000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-02_Sprint_Qualifying/TeamRadio/GABBOR01_5_20250502_163744.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10033,
+        "meeting_key": 1259,
+        "driver_number": 5,
+        "date": "2025-05-04T20:51:25.610000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-04_Race/TeamRadio/GABBOR01_5_20250504_165101.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

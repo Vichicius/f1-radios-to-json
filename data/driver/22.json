@@ -6298,5 +6298,35 @@
         "meeting_name": "Saudi Arabian Grand Prix",
         "session_name": "Practice 3",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10023,
+        "meeting_key": 1259,
+        "driver_number": 22,
+        "date": "2025-05-02T16:34:35.564000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-02_Practice_1/TeamRadio/YUKTSU01_22_20250502_123358.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10024,
+        "meeting_key": 1259,
+        "driver_number": 22,
+        "date": "2025-05-02T20:32:42.221000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-02_Sprint_Qualifying/TeamRadio/YUKTSU01_22_20250502_163217.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 10028,
+        "meeting_key": 1259,
+        "driver_number": 22,
+        "date": "2025-05-03T16:25:01.023000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Sprint/TeamRadio/YUKTSU01_22_20250503_122446.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
     }
 ]

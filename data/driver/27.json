@@ -6388,5 +6388,15 @@
         "meeting_name": "Bahrain Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 10029,
+        "meeting_key": 1259,
+        "driver_number": 27,
+        "date": "2025-05-03T20:36:00.011000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Qualifying/TeamRadio/NICHUL01_27_20250503_163540.mp3",
+        "meeting_name": "Miami Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
