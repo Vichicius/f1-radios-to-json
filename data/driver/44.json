@@ -10548,5 +10548,25 @@
         "meeting_name": "Emilia Romagna Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2025"
+    },
+    {
+        "session_key": 9982,
+        "meeting_key": 1260,
+        "driver_number": 44,
+        "date": "2025-05-17T11:26:27.461000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-18_Emilia_Romagna_Grand_Prix/2025-05-17_Practice_3/TeamRadio/LEWHAM01_44_20250517_132612.mp3",
+        "meeting_name": "Emilia Romagna Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "session_key": 9983,
+        "meeting_key": 1260,
+        "driver_number": 44,
+        "date": "2025-05-17T15:14:21.681000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-18_Emilia_Romagna_Grand_Prix/2025-05-17_Qualifying/TeamRadio/LEWHAM01_44_20250517_171412.mp3",
+        "meeting_name": "Emilia Romagna Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
