@@ -1,77 +1,67 @@
 [
     {
-        "date": "2023-10-27T18:46:25.638000+00:00",
-        "driver_number": 61,
-        "session_key": 9174,
         "meeting_key": 1223,
+        "session_key": 9174,
+        "driver_number": 61,
+        "date": "2023-10-27T18:46:25.638000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_194611.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2023"
     },
     {
-        "date": "2023-10-27T18:47:33.700000+00:00",
-        "driver_number": 61,
-        "session_key": 9174,
         "meeting_key": 1223,
+        "session_key": 9174,
+        "driver_number": 61,
+        "date": "2023-10-27T18:47:33.700000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_194712.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2023"
     },
     {
-        "date": "2023-10-27T18:57:40.490000+00:00",
-        "driver_number": 61,
-        "session_key": 9174,
         "meeting_key": 1223,
+        "session_key": 9174,
+        "driver_number": 61,
+        "date": "2023-10-27T18:57:40.490000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_195703.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2023"
     },
     {
-        "date": "2023-10-27T19:15:06.150000+00:00",
-        "driver_number": 61,
-        "session_key": 9174,
         "meeting_key": 1223,
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_201433.mp3",
-        "meeting_name": "Mexico City Grand Prix",
-        "session_name": "Practice 1",
-        "meeting_year": "2023"
-    },
-    {
-        "date": "2023-10-27T19:15:06.150000+00:00",
-        "driver_number": 61,
         "session_key": 9174,
-        "meeting_key": 1223,
+        "driver_number": 61,
+        "date": "2023-10-27T19:15:06.150000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_201450.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2023"
     },
     {
-        "date": "2023-10-27T19:17:21.069000+00:00",
-        "driver_number": 61,
-        "session_key": 9174,
         "meeting_key": 1223,
+        "session_key": 9174,
+        "driver_number": 61,
+        "date": "2023-10-27T19:17:21.069000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-29_Mexico_City_Grand_Prix/2023-10-27_Practice_1/TeamRadio/JACDOO01_61_20231027_201711.mp3",
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2023"
     },
     {
-        "date": "2023-11-24T09:59:10.011000+00:00",
-        "driver_number": 61,
-        "session_key": 9190,
         "meeting_key": 1226,
+        "session_key": 9190,
+        "driver_number": 61,
+        "date": "2023-11-24T09:59:10.011000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-11-26_Abu_Dhabi_Grand_Prix/2023-11-24_Practice_1/TeamRadio/JACDOO01_61_20231124_095856.mp3",
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2023"
     },
     {
-        "session_key": 9524,
         "meeting_key": 1237,
+        "session_key": 9524,
         "driver_number": 61,
         "date": "2024-06-07T18:30:12.810000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-06-09_Canadian_Grand_Prix/2024-06-07_Practice_1/TeamRadio/JACDOO01_61_20240607_142946.mp3",
@@ -80,8 +70,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9551,
         "meeting_key": 1240,
+        "session_key": 9551,
         "driver_number": 61,
         "date": "2024-07-05T11:20:29.722000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_122016.mp3",
@@ -90,18 +80,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9551,
         "meeting_key": 1240,
-        "driver_number": 61,
-        "date": "2024-07-05T11:21:01.369000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_122052.mp3",
-        "meeting_name": "British Grand Prix",
-        "session_name": "Practice 1",
-        "meeting_year": "2024"
-    },
-    {
         "session_key": 9551,
-        "meeting_key": 1240,
         "driver_number": 61,
         "date": "2024-07-05T11:21:01.369000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_122058.mp3",
@@ -110,8 +90,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9551,
         "meeting_key": 1240,
+        "session_key": 9551,
         "driver_number": 61,
         "date": "2024-07-05T12:12:56.205000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131237.mp3",
@@ -120,8 +100,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9551,
         "meeting_key": 1240,
+        "session_key": 9551,
         "driver_number": 61,
         "date": "2024-07-05T12:15:43.113000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131456.mp3",
@@ -130,8 +110,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9551,
         "meeting_key": 1240,
+        "session_key": 9551,
         "driver_number": 61,
         "date": "2024-07-05T12:16:51.437000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131638.mp3",
@@ -140,8 +120,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9551,
         "meeting_key": 1240,
+        "session_key": 9551,
         "driver_number": 61,
         "date": "2024-07-05T12:17:24.283000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131650.mp3",
@@ -150,8 +130,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9551,
         "meeting_key": 1240,
+        "session_key": 9551,
         "driver_number": 61,
         "date": "2024-07-05T12:17:26.548000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/TeamRadio/JACDOO01_61_20240705_131702.mp3",
@@ -160,8 +140,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9461,
         "meeting_key": 1252,
+        "session_key": 9461,
         "driver_number": 61,
         "date": "2024-12-06T09:32:25.916000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/JACDOO01_61_20241206_033159.mp3",
@@ -170,8 +150,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9461,
         "meeting_key": 1252,
+        "session_key": 9461,
         "driver_number": 61,
         "date": "2024-12-06T09:41:27.687000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/JACDOO01_61_20241206_034112.mp3",
@@ -180,8 +160,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9461,
         "meeting_key": 1252,
+        "session_key": 9461,
         "driver_number": 61,
         "date": "2024-12-06T09:42:00.381000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/JACDOO01_61_20241206_034141.mp3",
@@ -190,8 +170,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9461,
         "meeting_key": 1252,
+        "session_key": 9461,
         "driver_number": 61,
         "date": "2024-12-06T09:55:32.795000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/JACDOO01_61_20241206_035459.mp3",
@@ -200,8 +180,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9461,
         "meeting_key": 1252,
+        "session_key": 9461,
         "driver_number": 61,
         "date": "2024-12-06T10:14:05.363000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/JACDOO01_61_20241206_041350.mp3",
@@ -210,8 +190,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9461,
         "meeting_key": 1252,
+        "session_key": 9461,
         "driver_number": 61,
         "date": "2024-12-06T10:20:52.064000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_1/TeamRadio/JACDOO01_61_20241206_042024.mp3",
@@ -220,8 +200,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9656,
         "meeting_key": 1252,
+        "session_key": 9656,
         "driver_number": 61,
         "date": "2024-12-06T13:01:12.011000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/JACDOO01_61_20241206_070016.mp3",
@@ -230,8 +210,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9656,
         "meeting_key": 1252,
+        "session_key": 9656,
         "driver_number": 61,
         "date": "2024-12-06T13:11:56.748000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/JACDOO01_61_20241206_071133.mp3",
@@ -240,8 +220,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9656,
         "meeting_key": 1252,
+        "session_key": 9656,
         "driver_number": 61,
         "date": "2024-12-06T13:13:37.573000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/JACDOO01_61_20241206_171310.mp3",
@@ -250,8 +230,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9656,
         "meeting_key": 1252,
+        "session_key": 9656,
         "driver_number": 61,
         "date": "2024-12-06T13:28:49.025000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/JACDOO01_61_20241206_072830.mp3",
@@ -260,8 +240,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9656,
         "meeting_key": 1252,
+        "session_key": 9656,
         "driver_number": 61,
         "date": "2024-12-06T13:59:44.950000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-06_Practice_2/TeamRadio/JACDOO01_61_20241206_075934.mp3",
@@ -270,8 +250,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9657,
         "meeting_key": 1252,
+        "session_key": 9657,
         "driver_number": 61,
         "date": "2024-12-07T10:41:02.662000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Practice_3/TeamRadio/JACDOO01_61_20241207_044024.mp3",
@@ -280,8 +260,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9657,
         "meeting_key": 1252,
+        "session_key": 9657,
         "driver_number": 61,
         "date": "2024-12-07T11:20:23.615000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Practice_3/TeamRadio/JACDOO01_61_20241207_052014.mp3",
@@ -290,8 +270,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9657,
         "meeting_key": 1252,
+        "session_key": 9657,
         "driver_number": 61,
         "date": "2024-12-07T11:20:55.669000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-07_Practice_3/TeamRadio/JACDOO01_61_20241207_052036.mp3",
@@ -300,8 +280,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9662,
         "meeting_key": 1252,
+        "session_key": 9662,
         "driver_number": 61,
         "date": "2024-12-08T12:26:29.795000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-08_Race/TeamRadio/JACDOO01_61_20241208_062613.mp3",
@@ -310,8 +290,8 @@
         "meeting_year": "2024"
     },
     {
-        "session_key": 9662,
         "meeting_key": 1252,
+        "session_key": 9662,
         "driver_number": 61,
         "date": "2024-12-08T12:27:04.725000+00:00",
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-12-08_Abu_Dhabi_Grand_Prix/2024-12-08_Race/TeamRadio/JACDOO01_61_20241208_062630.mp3",
