@@ -7738,5 +7738,25 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 31,
+        "date": "2025-05-24T10:58:57.606000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/ESTOCO01_31_20250524_125834.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9975,
+        "driver_number": 31,
+        "date": "2025-05-24T14:58:20.128000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/TeamRadio/ESTOCO01_31_20250524_165740.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

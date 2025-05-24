@@ -10798,5 +10798,25 @@
         "meeting_name": "Emilia Romagna Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 4,
+        "date": "2025-05-24T11:03:02.432000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/LANNOR01_4_20250524_130247.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9975,
+        "driver_number": 4,
+        "date": "2025-05-24T15:17:11.780000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/TeamRadio/LANNOR01_4_20250524_171634.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

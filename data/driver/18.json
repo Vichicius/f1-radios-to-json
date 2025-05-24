@@ -4918,5 +4918,15 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9975,
+        "driver_number": 18,
+        "date": "2025-05-24T14:11:58.509000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/TeamRadio/LANSTR01_18_20250524_161146.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

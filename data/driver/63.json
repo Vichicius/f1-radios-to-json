@@ -12448,5 +12448,55 @@
         "meeting_name": "Emilia Romagna Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 63,
+        "date": "2025-05-24T11:22:54.783000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/GEORUS01_63_20250524_132227.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9975,
+        "driver_number": 63,
+        "date": "2025-05-24T14:33:54.601000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/TeamRadio/GEORUS01_63_20250524_163325.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9975,
+        "driver_number": 63,
+        "date": "2025-05-24T14:34:24.695000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/TeamRadio/GEORUS01_63_20250524_163413.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9975,
+        "driver_number": 63,
+        "date": "2025-05-24T14:35:25.366000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/TeamRadio/GEORUS01_63_20250524_163501.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9975,
+        "driver_number": 63,
+        "date": "2025-05-24T14:37:28.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/TeamRadio/GEORUS01_63_20250524_163713.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

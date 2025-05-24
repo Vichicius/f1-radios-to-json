@@ -5918,5 +5918,35 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 22,
+        "date": "2025-05-24T10:56:25.474000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/YUKTSU01_22_20250524_125559.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 22,
+        "date": "2025-05-24T11:14:45.086000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/YUKTSU01_22_20250524_131425.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9975,
+        "driver_number": 22,
+        "date": "2025-05-24T14:55:48.159000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/TeamRadio/YUKTSU01_22_20250524_165521.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

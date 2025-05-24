@@ -10188,5 +10188,65 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 44,
+        "date": "2025-05-24T10:25:20.711000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/LEWHAM01_44_20250524_122454.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 44,
+        "date": "2025-05-24T10:45:43.614000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/LEWHAM01_44_20250524_124513.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 44,
+        "date": "2025-05-24T10:51:49.589000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/LEWHAM01_44_20250524_125126.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 44,
+        "date": "2025-05-24T11:25:26.447000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/LEWHAM01_44_20250524_132519.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9974,
+        "driver_number": 44,
+        "date": "2025-05-24T11:30:01.355000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Practice_3/TeamRadio/LEWHAM01_44_20250524_132927.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9975,
+        "driver_number": 44,
+        "date": "2025-05-24T14:23:12.753000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-24_Qualifying/TeamRadio/LEWHAM01_44_20250524_162252.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
