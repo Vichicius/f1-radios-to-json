@@ -10248,5 +10248,25 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 44,
+        "date": "2025-05-25T13:26:25.490000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/LEWHAM01_44_20250525_152615.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 44,
+        "date": "2025-05-25T14:41:23.050000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/LEWHAM01_44_20250525_164035.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

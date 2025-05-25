@@ -12498,5 +12498,45 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 63,
+        "date": "2025-05-25T13:38:09.791000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/GEORUS01_63_20250525_153741.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 63,
+        "date": "2025-05-25T14:05:42.078000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/GEORUS01_63_20250525_160515.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 63,
+        "date": "2025-05-25T14:10:17.867000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/GEORUS01_63_20250525_160958.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 63,
+        "date": "2025-05-25T14:13:50.253000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/GEORUS01_63_20250525_161318.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

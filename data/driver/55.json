@@ -8058,5 +8058,15 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 55,
+        "date": "2025-05-25T14:22:59.897000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/CARSAI01_55_20250525_162241.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

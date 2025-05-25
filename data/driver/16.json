@@ -9778,5 +9778,55 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Practice 3",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 16,
+        "date": "2025-05-25T13:24:23.020000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/CHALEC01_16_20250525_152356.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 16,
+        "date": "2025-05-25T13:44:48.715000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/CHALEC01_16_20250525_154434.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 16,
+        "date": "2025-05-25T14:27:05.655000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/CHALEC01_16_20250525_162652.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 16,
+        "date": "2025-05-25T14:38:17.739000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/CHALEC01_16_20250525_163749.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 16,
+        "date": "2025-05-25T14:45:58.899000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/CHALEC01_16_20250525_164542.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

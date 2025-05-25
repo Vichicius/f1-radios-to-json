@@ -1328,5 +1328,15 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1261,
+        "session_key": 9979,
+        "driver_number": 30,
+        "date": "2025-05-25T14:01:36.410000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-05-25_Monaco_Grand_Prix/2025-05-25_Race/TeamRadio/LIALAW01_30_20250525_160126.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]
