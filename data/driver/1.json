@@ -11158,5 +11158,25 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9964,
+        "driver_number": 1,
+        "date": "2025-05-30T11:41:47.014000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-30_Practice_1/TeamRadio/MAXVER01_1_20250530_134120.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9965,
+        "driver_number": 1,
+        "date": "2025-05-30T15:55:52.313000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-30_Practice_2/TeamRadio/MAXVER01_1_20250530_175527.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]
