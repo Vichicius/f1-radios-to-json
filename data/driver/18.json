@@ -4938,5 +4938,25 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9966,
+        "driver_number": 18,
+        "date": "2025-05-31T10:39:59.722000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-31_Practice_3/TeamRadio/LANSTR01_18_20250531_123949.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9966,
+        "driver_number": 18,
+        "date": "2025-05-31T10:53:23.314000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-31_Practice_3/TeamRadio/LANSTR01_18_20250531_123949.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
     }
 ]

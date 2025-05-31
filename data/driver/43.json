@@ -1148,5 +1148,25 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9967,
+        "driver_number": 43,
+        "date": "2025-05-31T14:15:01.610000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-31_Qualifying/TeamRadio/FRACOL01_43_20250531_161434.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9967,
+        "driver_number": 43,
+        "date": "2025-05-31T14:23:12.282000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-31_Qualifying/TeamRadio/FRACOL01_43_20250531_162237.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

@@ -7988,5 +7988,35 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9966,
+        "driver_number": 81,
+        "date": "2025-05-31T10:54:02.242000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-31_Practice_3/TeamRadio/OSCPIA01_81_20250531_125332.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9967,
+        "driver_number": 81,
+        "date": "2025-05-31T14:54:47.243000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-31_Qualifying/TeamRadio/OSCPIA01_81_20250531_165423.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9967,
+        "driver_number": 81,
+        "date": "2025-05-31T15:01:55.785000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-31_Qualifying/TeamRadio/OSCPIA01_81_20250531_170127.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

@@ -10278,5 +10278,15 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9966,
+        "driver_number": 44,
+        "date": "2025-05-31T11:32:44.422000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-05-31_Practice_3/TeamRadio/LEWHAM01_44_20250531_133205.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
     }
 ]
