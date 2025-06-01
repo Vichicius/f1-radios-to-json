@@ -5878,5 +5878,15 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1262,
+        "session_key": 9971,
+        "driver_number": 23,
+        "date": "2025-06-01T13:36:23.093000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-01_Spanish_Grand_Prix/2025-06-01_Race/TeamRadio/ALEALB01_23_20250601_153614.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]
