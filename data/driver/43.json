@@ -1168,5 +1168,25 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9959,
+        "driver_number": 43,
+        "date": "2025-06-14T20:00:19.759000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/TeamRadio/FRACOL01_43_20250614_155838.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9959,
+        "driver_number": 43,
+        "date": "2025-06-14T20:50:28.730000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/TeamRadio/FRACOL01_43_20250614_165013.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

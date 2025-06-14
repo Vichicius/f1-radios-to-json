@@ -11288,5 +11288,85 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9956,
+        "driver_number": 1,
+        "date": "2025-06-13T17:34:13.119000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-13_Practice_1/TeamRadio/MAXVER01_1_20250613_133404.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9956,
+        "driver_number": 1,
+        "date": "2025-06-13T17:35:45.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-13_Practice_1/TeamRadio/MAXVER01_1_20250613_133513.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9956,
+        "driver_number": 1,
+        "date": "2025-06-13T18:07:53.671000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-13_Practice_1/TeamRadio/MAXVER01_1_20250613_140728.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9957,
+        "driver_number": 1,
+        "date": "2025-06-13T21:10:07.373000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-13_Practice_2/TeamRadio/MAXVER01_1_20250613_170946.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9957,
+        "driver_number": 1,
+        "date": "2025-06-13T21:12:39.264000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-13_Practice_2/TeamRadio/MAXVER01_1_20250613_171230.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9957,
+        "driver_number": 1,
+        "date": "2025-06-13T21:46:49.068000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-13_Practice_2/TeamRadio/MAXVER01_1_20250613_174615.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9958,
+        "driver_number": 1,
+        "date": "2025-06-14T17:05:26.932000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Practice_3/TeamRadio/MAXVER01_1_20250614_130506.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9959,
+        "driver_number": 1,
+        "date": "2025-06-14T21:01:10.547000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Qualifying/TeamRadio/MAXVER01_1_20250614_170051.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

@@ -6568,5 +6568,35 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9956,
+        "driver_number": 14,
+        "date": "2025-06-13T18:10:55.330000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-13_Practice_1/TeamRadio/FERALO01_14_20250613_141022.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9958,
+        "driver_number": 14,
+        "date": "2025-06-14T16:49:08.906000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Practice_3/TeamRadio/FERALO01_14_20250614_124843.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9958,
+        "driver_number": 14,
+        "date": "2025-06-14T17:31:23.408000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Practice_3/TeamRadio/FERALO01_14_20250614_133108.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
     }
 ]

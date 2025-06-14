@@ -8048,5 +8048,25 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9956,
+        "driver_number": 81,
+        "date": "2025-06-13T18:17:32.506000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-13_Practice_1/TeamRadio/OSCPIA01_81_20250613_141709.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9958,
+        "driver_number": 81,
+        "date": "2025-06-14T16:51:09.709000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-14_Practice_3/TeamRadio/OSCPIA01_81_20250614_125052.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
     }
 ]

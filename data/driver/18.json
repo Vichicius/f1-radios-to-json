@@ -4948,5 +4948,15 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Practice 3",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9957,
+        "driver_number": 18,
+        "date": "2025-06-13T21:07:33.385000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-13_Practice_2/TeamRadio/LANSTR01_18_20250613_170714.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]
