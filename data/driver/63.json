@@ -12668,5 +12668,45 @@
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 63,
+        "date": "2025-06-15T19:32:25.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/GEORUS01_63_20250615_153159.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 63,
+        "date": "2025-06-15T19:36:30.230000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/GEORUS01_63_20250615_153608.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 63,
+        "date": "2025-06-15T19:38:32.640000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/GEORUS01_63_20250615_153806.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 63,
+        "date": "2025-06-15T19:58:19.477000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/GEORUS01_63_20250615_155906.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

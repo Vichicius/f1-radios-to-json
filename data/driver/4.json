@@ -10968,5 +10968,55 @@
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 4,
+        "date": "2025-06-15T17:17:51.013000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/LANNOR01_4_20250615_131734.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 4,
+        "date": "2025-06-15T18:21:00.740000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/LANNOR01_4_20250615_142042.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 4,
+        "date": "2025-06-15T19:20:11.498000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/LANNOR01_4_20250615_151957.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 4,
+        "date": "2025-06-15T19:22:12.577000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/LANNOR01_4_20250615_152140.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 4,
+        "date": "2025-06-15T19:29:20.780000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/LANNOR01_4_20250615_152905.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

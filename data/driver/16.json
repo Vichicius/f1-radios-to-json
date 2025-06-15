@@ -9888,5 +9888,55 @@
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 16,
+        "date": "2025-06-15T18:15:54.779000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/CHALEC01_16_20250615_141545.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 16,
+        "date": "2025-06-15T18:33:48.063000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/CHALEC01_16_20250615_143330.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 16,
+        "date": "2025-06-15T18:39:24.053000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/CHALEC01_16_20250615_143912.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 16,
+        "date": "2025-06-15T18:41:55.745000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/CHALEC01_16_20250615_144123.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 16,
+        "date": "2025-06-15T19:09:26.826000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/CHALEC01_16_20250615_150854.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

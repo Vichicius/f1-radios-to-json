@@ -1378,5 +1378,15 @@
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1263,
+        "session_key": 9963,
+        "driver_number": 30,
+        "date": "2025-06-15T19:15:35.626000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-15_Canadian_Grand_Prix/2025-06-15_Race/TeamRadio/LIALAW01_30_20250615_151510.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]
