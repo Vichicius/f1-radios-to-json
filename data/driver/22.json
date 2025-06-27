@@ -5988,5 +5988,15 @@
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9948,
+        "driver_number": 22,
+        "date": "2025-06-27T11:47:22.214000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-27_Practice_1/TeamRadio/YUKTSU01_22_20250627_134701.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
     }
 ]
