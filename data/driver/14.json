@@ -6618,5 +6618,15 @@
         "meeting_name": "Austrian Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9949,
+        "driver_number": 14,
+        "date": "2025-06-27T15:50:04.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-27_Practice_2/TeamRadio/FERALO01_14_20250627_174952.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]
