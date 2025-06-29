@@ -8128,5 +8128,85 @@
         "meeting_name": "Austrian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 81,
+        "date": "2025-06-29T13:27:42.852000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/OSCPIA01_81_20250629_152718.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 81,
+        "date": "2025-06-29T13:44:35.920000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/OSCPIA01_81_20250629_154400.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 81,
+        "date": "2025-06-29T13:45:06.025000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/OSCPIA01_81_20250629_154451.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 81,
+        "date": "2025-06-29T13:46:37.690000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/OSCPIA01_81_20250629_154610.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 81,
+        "date": "2025-06-29T13:52:15.201000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/OSCPIA01_81_20250629_155157.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 81,
+        "date": "2025-06-29T14:05:34.794000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/OSCPIA01_81_20250629_160448.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 81,
+        "date": "2025-06-29T14:21:29.143000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/OSCPIA01_81_20250629_162116.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 81,
+        "date": "2025-06-29T14:44:02.133000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/OSCPIA01_81_20250629_164348.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]

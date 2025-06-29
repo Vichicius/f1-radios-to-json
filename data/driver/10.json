@@ -8188,5 +8188,25 @@
         "meeting_name": "Austrian Grand Prix",
         "session_name": "Practice 3",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 10,
+        "date": "2025-06-29T13:55:19.223000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/PIEGAS01_10_20250629_155446.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1264,
+        "session_key": 9955,
+        "driver_number": 10,
+        "date": "2025-06-29T14:01:59.158000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-06-29_Austrian_Grand_Prix/2025-06-29_Race/TeamRadio/PIEGAS01_10_20250629_160119.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]
