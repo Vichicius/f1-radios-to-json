@@ -1428,5 +1428,25 @@
         "meeting_name": "British Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1277,
+        "session_key": 9942,
+        "driver_number": 30,
+        "date": "2025-07-05T11:16:15.293000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-06_British_Grand_Prix/2025-07-05_Practice_3/TeamRadio/LIALAW01_30_20250705_121608.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1277,
+        "session_key": 9943,
+        "driver_number": 30,
+        "date": "2025-07-05T14:29:25.236000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-06_British_Grand_Prix/2025-07-05_Qualifying/TeamRadio/LIALAW01_30_20250705_152907.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

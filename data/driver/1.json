@@ -11538,5 +11538,45 @@
         "meeting_name": "British Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1277,
+        "session_key": 9942,
+        "driver_number": 1,
+        "date": "2025-07-05T11:10:08.020000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-06_British_Grand_Prix/2025-07-05_Practice_3/TeamRadio/MAXVER01_1_20250705_120950.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1277,
+        "session_key": 9943,
+        "driver_number": 1,
+        "date": "2025-07-05T14:39:37.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-06_British_Grand_Prix/2025-07-05_Qualifying/TeamRadio/MAXVER01_1_20250705_153916.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1277,
+        "session_key": 9943,
+        "driver_number": 1,
+        "date": "2025-07-05T15:02:36.282000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-06_British_Grand_Prix/2025-07-05_Qualifying/TeamRadio/MAXVER01_1_20250705_160212.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1277,
+        "session_key": 9943,
+        "driver_number": 1,
+        "date": "2025-07-05T15:11:49.008000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-06_British_Grand_Prix/2025-07-05_Qualifying/TeamRadio/MAXVER01_1_20250705_161128.mp3",
+        "meeting_name": "British Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
