@@ -208,5 +208,25 @@
         "meeting_name": "British Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9929,
+        "driver_number": 5,
+        "date": "2025-07-25T10:51:57.471000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-25_Practice_1/TeamRadio/GABBOR01_5_20250725_125144.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9930,
+        "driver_number": 5,
+        "date": "2025-07-25T15:09:24.358000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-25_Sprint_Qualifying/TeamRadio/GABBOR01_5_20250725_170913.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
     }
 ]
