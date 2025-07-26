@@ -228,5 +228,15 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Sprint Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9935,
+        "driver_number": 5,
+        "date": "2025-07-26T14:22:34.007000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/TeamRadio/GABBOR01_5_20250726_162219.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

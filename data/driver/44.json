@@ -10488,5 +10488,25 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9934,
+        "driver_number": 44,
+        "date": "2025-07-26T10:16:22.503000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Sprint/TeamRadio/LEWHAM01_44_20250726_121551.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9935,
+        "driver_number": 44,
+        "date": "2025-07-26T14:22:03.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/TeamRadio/LEWHAM01_44_20250726_162131.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

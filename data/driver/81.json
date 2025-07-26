@@ -8368,5 +8368,35 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Sprint Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9934,
+        "driver_number": 81,
+        "date": "2025-07-26T10:13:19.871000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Sprint/TeamRadio/OSCPIA01_81_20250726_121252.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9934,
+        "driver_number": 81,
+        "date": "2025-07-26T10:32:13.301000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Sprint/TeamRadio/OSCPIA01_81_20250726_123158.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9935,
+        "driver_number": 81,
+        "date": "2025-07-26T14:37:24.182000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/TeamRadio/OSCPIA01_81_20250726_163703.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

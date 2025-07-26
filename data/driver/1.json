@@ -11638,5 +11638,55 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Sprint Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9934,
+        "driver_number": 1,
+        "date": "2025-07-26T10:22:31.458000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Sprint/TeamRadio/MAXVER01_1_20250726_122216.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9934,
+        "driver_number": 1,
+        "date": "2025-07-26T10:31:43.048000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Sprint/TeamRadio/MAXVER01_1_20250726_123119.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9934,
+        "driver_number": 1,
+        "date": "2025-07-26T10:33:15.205000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Sprint/TeamRadio/MAXVER01_1_20250726_123235.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9935,
+        "driver_number": 1,
+        "date": "2025-07-26T14:53:43.401000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/TeamRadio/MAXVER01_1_20250726_165306.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9935,
+        "driver_number": 1,
+        "date": "2025-07-26T15:01:55.172000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-26_Qualifying/TeamRadio/MAXVER01_1_20250726_170133.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
