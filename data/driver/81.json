@@ -8398,5 +8398,85 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9939,
+        "driver_number": 81,
+        "date": "2025-07-27T12:23:26.761000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-27_Race/TeamRadio/OSCPIA01_81_20250727_142240.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9939,
+        "driver_number": 81,
+        "date": "2025-07-27T14:22:03.629000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-27_Race/TeamRadio/OSCPIA01_81_20250727_162134.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9939,
+        "driver_number": 81,
+        "date": "2025-07-27T14:42:28.684000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-27_Race/TeamRadio/OSCPIA01_81_20250727_164216.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9939,
+        "driver_number": 81,
+        "date": "2025-07-27T15:05:01.652000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-27_Race/TeamRadio/OSCPIA01_81_20250727_170421.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9939,
+        "driver_number": 81,
+        "date": "2025-07-27T15:25:55.307000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-27_Race/TeamRadio/OSCPIA01_81_20250727_172538.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9939,
+        "driver_number": 81,
+        "date": "2025-07-27T15:41:15.031000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-27_Race/TeamRadio/OSCPIA01_81_20250727_174038.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9939,
+        "driver_number": 81,
+        "date": "2025-07-27T15:46:54.074000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-27_Race/TeamRadio/OSCPIA01_81_20250727_174613.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1265,
+        "session_key": 9939,
+        "driver_number": 81,
+        "date": "2025-07-27T15:49:46.234000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-07-27_Belgian_Grand_Prix/2025-07-27_Race/TeamRadio/OSCPIA01_81_20250727_175751.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
     }
 ]
