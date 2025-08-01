@@ -1478,5 +1478,25 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Sprint Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9921,
+        "driver_number": 30,
+        "date": "2025-08-01T12:17:41.115000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_1/TeamRadio/LIALAW01_30_20250801_141721.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9922,
+        "driver_number": 30,
+        "date": "2025-08-01T15:50:50.896000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_2/TeamRadio/LIALAW01_30_20250801_175026.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]

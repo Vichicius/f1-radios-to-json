@@ -12838,5 +12838,55 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9921,
+        "driver_number": 63,
+        "date": "2025-08-01T11:35:15.512000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_1/TeamRadio/GEORUS01_63_20250801_133439.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9921,
+        "driver_number": 63,
+        "date": "2025-08-01T12:27:55.209000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_1/TeamRadio/GEORUS01_63_20250801_142751.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9922,
+        "driver_number": 63,
+        "date": "2025-08-01T14:51:05.213000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_2/TeamRadio/GEORUS01_63_20250801_165102.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9922,
+        "driver_number": 63,
+        "date": "2025-08-01T15:09:58.644000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_2/TeamRadio/GEORUS01_63_20250801_170950.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9922,
+        "driver_number": 63,
+        "date": "2025-08-01T15:40:36.905000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_2/TeamRadio/GEORUS01_63_20250801_174009.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]

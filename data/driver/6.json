@@ -348,5 +348,25 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9922,
+        "driver_number": 6,
+        "date": "2025-08-01T15:55:26.758000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_2/TeamRadio/ISAHAD01_6_20250801_175500.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9922,
+        "driver_number": 6,
+        "date": "2025-08-01T15:56:27.248000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_2/TeamRadio/ISAHAD01_6_20250801_175618.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]

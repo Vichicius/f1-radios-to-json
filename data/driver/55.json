@@ -8208,5 +8208,35 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9921,
+        "driver_number": 55,
+        "date": "2025-08-01T12:07:59.554000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_1/TeamRadio/CARSAI01_55_20250801_140741.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9922,
+        "driver_number": 55,
+        "date": "2025-08-01T15:45:45.049000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_2/TeamRadio/CARSAI01_55_20250801_174509.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9922,
+        "driver_number": 55,
+        "date": "2025-08-01T15:47:45.757000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_2/TeamRadio/CARSAI01_55_20250801_174710.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]

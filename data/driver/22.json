@@ -6008,5 +6008,25 @@
         "meeting_name": "Austrian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9921,
+        "driver_number": 22,
+        "date": "2025-08-01T12:33:33.923000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_1/TeamRadio/YUKTSU01_22_20250801_143250.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9922,
+        "driver_number": 22,
+        "date": "2025-08-01T15:16:37.659000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-01_Practice_2/TeamRadio/YUKTSU01_22_20250801_171612.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
     }
 ]
