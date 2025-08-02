@@ -6698,5 +6698,15 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9924,
+        "driver_number": 14,
+        "date": "2025-08-02T15:00:28.006000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/TeamRadio/FERALO01_14_20250802_170005.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]

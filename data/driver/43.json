@@ -1218,5 +1218,15 @@
         "meeting_name": "Hungarian Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1266,
+        "session_key": 9924,
+        "driver_number": 43,
+        "date": "2025-08-02T14:28:18.789000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-08-03_Hungarian_Grand_Prix/2025-08-02_Qualifying/TeamRadio/FRACOL01_43_20250802_162807.mp3",
+        "meeting_name": "Hungarian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
