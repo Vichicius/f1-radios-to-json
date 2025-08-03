@@ -351,6 +351,36 @@
     },
     {
         "meeting_key": 1249,
+        "session_key": 9627,
+        "driver_number": 50,
+        "date": "2024-11-03T10:40:15.837000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/OLIBEA01_50_20241103_044005.mp3",
+        "meeting_name": "S\u00e3o Paulo Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "meeting_key": 1249,
+        "session_key": 9627,
+        "driver_number": 50,
+        "date": "2024-11-03T10:47:34.541000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/OLIBEA01_50_20241103_044718.mp3",
+        "meeting_name": "S\u00e3o Paulo Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "meeting_key": 1249,
+        "session_key": 9627,
+        "driver_number": 50,
+        "date": "2024-11-03T10:59:57.339000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/OLIBEA01_50_20241103_045946.mp3",
+        "meeting_name": "S\u00e3o Paulo Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2024"
+    },
+    {
+        "meeting_key": 1249,
         "session_key": 9631,
         "driver_number": 50,
         "date": "2024-11-01T18:37:27.325000+00:00",
@@ -427,36 +457,6 @@
         "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Sprint/TeamRadio/OLIBEA01_50_20241102_094019.mp3",
         "meeting_name": "S\u00e3o Paulo Grand Prix",
         "session_name": "Sprint",
-        "meeting_year": "2024"
-    },
-    {
-        "meeting_key": 1249,
-        "session_key": 9627,
-        "driver_number": 50,
-        "date": "2024-11-03T10:40:15.837000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/OLIBEA01_50_20241103_044005.mp3",
-        "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Qualifying",
-        "meeting_year": "2024"
-    },
-    {
-        "meeting_key": 1249,
-        "session_key": 9627,
-        "driver_number": 50,
-        "date": "2024-11-03T10:47:34.541000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/OLIBEA01_50_20241103_044718.mp3",
-        "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Qualifying",
-        "meeting_year": "2024"
-    },
-    {
-        "meeting_key": 1249,
-        "session_key": 9627,
-        "driver_number": 50,
-        "date": "2024-11-03T10:59:57.339000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2024/2024-11-03_S\u00e3o_Paulo_Grand_Prix/2024-11-02_Qualifying/TeamRadio/OLIBEA01_50_20241103_045946.mp3",
-        "meeting_name": "S\u00e3o Paulo Grand Prix",
-        "session_name": "Qualifying",
         "meeting_year": "2024"
     },
     {

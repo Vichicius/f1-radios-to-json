@@ -711,36 +711,6 @@
     },
     {
         "meeting_key": 1221,
-        "session_key": 9298,
-        "driver_number": 40,
-        "date": "2023-10-07T13:29:39.596000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-08_Qatar_Grand_Prix/2023-10-07_Sprint_Shootout/TeamRadio/LIALAW01_40_20231007_142903.mp3",
-        "meeting_name": "Qatar Grand Prix",
-        "session_name": "Sprint Shootout",
-        "meeting_year": "2023"
-    },
-    {
-        "meeting_key": 1221,
-        "session_key": 9298,
-        "driver_number": 40,
-        "date": "2023-10-07T13:31:55+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-08_Qatar_Grand_Prix/2023-10-07_Sprint_Shootout/TeamRadio/LIALAW01_40_20231007_143143.mp3",
-        "meeting_name": "Qatar Grand Prix",
-        "session_name": "Sprint Shootout",
-        "meeting_year": "2023"
-    },
-    {
-        "meeting_key": 1221,
-        "session_key": 9298,
-        "driver_number": 40,
-        "date": "2023-10-07T13:51:08.339000+00:00",
-        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-08_Qatar_Grand_Prix/2023-10-07_Sprint_Shootout/TeamRadio/LIALAW01_40_20231007_145114.mp3",
-        "meeting_name": "Qatar Grand Prix",
-        "session_name": "Sprint Shootout",
-        "meeting_year": "2023"
-    },
-    {
-        "meeting_key": 1221,
         "session_key": 9220,
         "driver_number": 40,
         "date": "2023-10-07T17:30:19.520000+00:00",
@@ -837,6 +807,36 @@
         "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-08_Qatar_Grand_Prix/2023-10-08_Race/TeamRadio/LIALAW01_40_20231008_193657.mp3",
         "meeting_name": "Qatar Grand Prix",
         "session_name": "Race",
+        "meeting_year": "2023"
+    },
+    {
+        "meeting_key": 1221,
+        "session_key": 9298,
+        "driver_number": 40,
+        "date": "2023-10-07T13:29:39.596000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-08_Qatar_Grand_Prix/2023-10-07_Sprint_Shootout/TeamRadio/LIALAW01_40_20231007_142903.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Shootout",
+        "meeting_year": "2023"
+    },
+    {
+        "meeting_key": 1221,
+        "session_key": 9298,
+        "driver_number": 40,
+        "date": "2023-10-07T13:31:55+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-08_Qatar_Grand_Prix/2023-10-07_Sprint_Shootout/TeamRadio/LIALAW01_40_20231007_143143.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Shootout",
+        "meeting_year": "2023"
+    },
+    {
+        "meeting_key": 1221,
+        "session_key": 9298,
+        "driver_number": 40,
+        "date": "2023-10-07T13:51:08.339000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2023/2023-10-08_Qatar_Grand_Prix/2023-10-07_Sprint_Shootout/TeamRadio/LIALAW01_40_20231007_145114.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Shootout",
         "meeting_year": "2023"
     },
     {
