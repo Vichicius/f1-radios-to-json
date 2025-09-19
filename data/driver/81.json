@@ -8590,6 +8590,26 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1269,
+        "session_key": 9897,
+        "driver_number": 81,
+        "date": "2025-09-19T08:36:26.578000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-19_Practice_1/TeamRadio/OSCPIA01_81_20250919_123616.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1269,
+        "session_key": 9898,
+        "driver_number": 81,
+        "date": "2025-09-19T12:36:39.383000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-19_Practice_2/TeamRadio/OSCPIA01_81_20250919_163601.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9941,
         "driver_number": 81,
