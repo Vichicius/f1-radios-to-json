@@ -10200,6 +10200,36 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1269,
+        "session_key": 9899,
+        "driver_number": 16,
+        "date": "2025-09-20T09:10:55.548000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Practice_3/TeamRadio/CHALEC01_16_20250920_131038.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1269,
+        "session_key": 9899,
+        "driver_number": 16,
+        "date": "2025-09-20T09:13:57.821000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Practice_3/TeamRadio/CHALEC01_16_20250920_131325.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1269,
+        "session_key": 9900,
+        "driver_number": 16,
+        "date": "2025-09-20T12:53:19.045000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/TeamRadio/CHALEC01_16_20250920_165303.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 16,

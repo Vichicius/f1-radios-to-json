@@ -550,6 +550,66 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1269,
+        "session_key": 9900,
+        "driver_number": 12,
+        "date": "2025-09-20T11:58:36.011000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/TeamRadio/ANDANT01_12_20250920_155827.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1269,
+        "session_key": 9900,
+        "driver_number": 12,
+        "date": "2025-09-20T12:16:33.604000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/TeamRadio/ANDANT01_12_20250920_161604.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1269,
+        "session_key": 9900,
+        "driver_number": 12,
+        "date": "2025-09-20T12:22:11.013000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/TeamRadio/ANDANT01_12_20250920_162147.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1269,
+        "session_key": 9900,
+        "driver_number": 12,
+        "date": "2025-09-20T12:26:17.010000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/TeamRadio/ANDANT01_12_20250920_162545.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1269,
+        "session_key": 9900,
+        "driver_number": 12,
+        "date": "2025-09-20T13:25:03.526000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/TeamRadio/ANDANT01_12_20250920_172455.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1269,
+        "session_key": 9900,
+        "driver_number": 12,
+        "date": "2025-09-20T13:29:39.522000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/TeamRadio/ANDANT01_12_20250920_172905.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9942,
         "driver_number": 12,

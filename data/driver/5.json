@@ -290,6 +290,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1269,
+        "session_key": 9900,
+        "driver_number": 5,
+        "date": "2025-09-20T13:12:17.246000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-09-21_Azerbaijan_Grand_Prix/2025-09-20_Qualifying/TeamRadio/GABBOR01_5_20250920_171152.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 5,
