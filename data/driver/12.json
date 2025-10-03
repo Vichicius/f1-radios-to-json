@@ -610,6 +610,26 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1270,
+        "session_key": 9889,
+        "driver_number": 12,
+        "date": "2025-10-03T09:15:30.582000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-03_Practice_1/TeamRadio/ANDANT01_12_20251003_171526.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1270,
+        "session_key": 9889,
+        "driver_number": 12,
+        "date": "2025-10-03T10:05:36.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-03_Practice_1/TeamRadio/ANDANT01_12_20251003_180500.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9942,
         "driver_number": 12,
