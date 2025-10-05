@@ -8680,6 +8680,86 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1270,
+        "session_key": 9896,
+        "driver_number": 81,
+        "date": "2025-10-05T12:05:52.943000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/TeamRadio/OSCPIA01_81_20251005_200533.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1270,
+        "session_key": 9896,
+        "driver_number": 81,
+        "date": "2025-10-05T12:07:24.794000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/TeamRadio/OSCPIA01_81_20251005_200712.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1270,
+        "session_key": 9896,
+        "driver_number": 81,
+        "date": "2025-10-05T12:09:28.955000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/TeamRadio/OSCPIA01_81_20251005_200852.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1270,
+        "session_key": 9896,
+        "driver_number": 81,
+        "date": "2025-10-05T12:13:35.082000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/TeamRadio/OSCPIA01_81_20251005_201242.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1270,
+        "session_key": 9896,
+        "driver_number": 81,
+        "date": "2025-10-05T12:42:44.294000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/TeamRadio/OSCPIA01_81_20251005_204217.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1270,
+        "session_key": 9896,
+        "driver_number": 81,
+        "date": "2025-10-05T13:14:58.141000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/TeamRadio/OSCPIA01_81_20251005_211411.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1270,
+        "session_key": 9896,
+        "driver_number": 81,
+        "date": "2025-10-05T13:21:37.211000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/TeamRadio/OSCPIA01_81_20251005_212116.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1270,
+        "session_key": 9896,
+        "driver_number": 81,
+        "date": "2025-10-05T13:22:37.494000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-05_Singapore_Grand_Prix/2025-10-05_Race/TeamRadio/OSCPIA01_81_20251005_212225.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9941,
         "driver_number": 81,
