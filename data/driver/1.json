@@ -11940,6 +11940,36 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1271,
+        "session_key": 9878,
+        "driver_number": 1,
+        "date": "2025-10-17T17:26:13.173000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-17_Practice_1/TeamRadio/MAXVER01_1_20251017_122603.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9878,
+        "driver_number": 1,
+        "date": "2025-10-17T18:30:07.578000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-17_Practice_1/TeamRadio/MAXVER01_1_20251017_132952.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9879,
+        "driver_number": 1,
+        "date": "2025-10-17T22:15:41.215000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-17_Sprint_Qualifying/TeamRadio/MAXVER01_1_20251017_171523.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 1,

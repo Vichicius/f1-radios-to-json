@@ -500,6 +500,36 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1271,
+        "session_key": 9878,
+        "driver_number": 6,
+        "date": "2025-10-17T17:40:30.833000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-17_Practice_1/TeamRadio/ISAHAD01_6_20251017_124008.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9878,
+        "driver_number": 6,
+        "date": "2025-10-17T17:42:32.470000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-17_Practice_1/TeamRadio/ISAHAD01_6_20251017_124213.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9878,
+        "driver_number": 6,
+        "date": "2025-10-17T18:26:34.498000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-17_Practice_1/TeamRadio/ISAHAD01_6_20251017_132611.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 6,

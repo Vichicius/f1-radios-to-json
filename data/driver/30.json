@@ -1530,6 +1530,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1271,
+        "session_key": 9879,
+        "driver_number": 30,
+        "date": "2025-10-17T22:04:59.208000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-17_Sprint_Qualifying/TeamRadio/LIALAW01_30_20251017_170423.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 30,
