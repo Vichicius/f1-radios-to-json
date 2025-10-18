@@ -6108,5 +6108,25 @@
         "meeting_name": "United States Grand Prix",
         "session_name": "Sprint Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9884,
+        "driver_number": 22,
+        "date": "2025-10-18T21:43:59.003000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-18_Qualifying/TeamRadio/YUKTSU01_22_20251018_164326.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9884,
+        "driver_number": 22,
+        "date": "2025-10-18T21:55:43.822000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-18_Qualifying/TeamRadio/YUKTSU01_22_20251018_165512.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
