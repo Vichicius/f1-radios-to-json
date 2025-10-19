@@ -10270,6 +10270,36 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1271,
+        "session_key": 9888,
+        "driver_number": 16,
+        "date": "2025-10-19T19:27:17.062000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-19_Race/TeamRadio/CHALEC01_16_20251019_142659.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9888,
+        "driver_number": 16,
+        "date": "2025-10-19T20:29:43.323000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-19_Race/TeamRadio/CHALEC01_16_20251019_152936.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9888,
+        "driver_number": 16,
+        "date": "2025-10-19T20:40:42.059000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-19_Race/TeamRadio/CHALEC01_16_20251019_154035.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 16,

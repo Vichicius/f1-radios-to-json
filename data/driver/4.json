@@ -11700,6 +11700,46 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1271,
+        "session_key": 9888,
+        "driver_number": 4,
+        "date": "2025-10-19T19:40:05.716000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-19_Race/TeamRadio/LANNOR01_4_20251019_143933.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9888,
+        "driver_number": 4,
+        "date": "2025-10-19T19:58:32.471000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-19_Race/TeamRadio/LANNOR01_4_20251019_145757.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9888,
+        "driver_number": 4,
+        "date": "2025-10-19T20:11:19.678000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-19_Race/TeamRadio/LANNOR01_4_20251019_151105.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1271,
+        "session_key": 9888,
+        "driver_number": 4,
+        "date": "2025-10-19T20:20:33.431000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-19_Race/TeamRadio/LANNOR01_4_20251019_151958.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9947,
         "driver_number": 4,

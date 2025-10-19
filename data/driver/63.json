@@ -13160,6 +13160,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1271,
+        "session_key": 9888,
+        "driver_number": 63,
+        "date": "2025-10-19T19:26:46.832000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-19_United_States_Grand_Prix/2025-10-19_Race/TeamRadio/GEORUS01_63_20251019_142613.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 63,
