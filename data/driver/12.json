@@ -660,6 +660,36 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1272,
+        "session_key": 9871,
+        "driver_number": 12,
+        "date": "2025-10-24T22:01:48.796000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-24_Practice_2/TeamRadio/ANDANT01_12_20251024_160120.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1272,
+        "session_key": 9871,
+        "driver_number": 12,
+        "date": "2025-10-24T22:03:51.116000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-24_Practice_2/TeamRadio/ANDANT01_12_20251024_160325.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1272,
+        "session_key": 9871,
+        "driver_number": 12,
+        "date": "2025-10-24T22:55:28.339000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-24_Practice_2/TeamRadio/ANDANT01_12_20251024_165500.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9942,
         "driver_number": 12,

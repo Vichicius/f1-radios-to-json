@@ -6220,6 +6220,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1272,
+        "session_key": 9871,
+        "driver_number": 27,
+        "date": "2025-10-24T21:58:45.128000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-24_Practice_2/TeamRadio/NICHUL01_27_20251024_165820.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9941,
         "driver_number": 27,
