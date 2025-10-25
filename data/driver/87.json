@@ -350,6 +350,26 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1272,
+        "session_key": 9872,
+        "driver_number": 87,
+        "date": "2025-10-25T17:21:04.033000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-25_Practice_3/TeamRadio/OLIBEA01_87_20251025_122100.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1272,
+        "session_key": 9873,
+        "driver_number": 87,
+        "date": "2025-10-25T21:42:08.013000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-25_Qualifying/TeamRadio/OLIBEA01_87_20251025_154149.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9941,
         "driver_number": 87,

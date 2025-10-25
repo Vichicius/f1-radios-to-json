@@ -8800,6 +8800,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1272,
+        "session_key": 9873,
+        "driver_number": 81,
+        "date": "2025-10-25T21:33:29.145000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-10-26_Mexico_City_Grand_Prix/2025-10-25_Qualifying/TeamRadio/OSCPIA01_81_20251025_153308.mp3",
+        "meeting_name": "Mexico City Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9941,
         "driver_number": 81,
