@@ -12130,6 +12130,46 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1273,
+        "session_key": 9864,
+        "driver_number": 1,
+        "date": "2025-11-08T14:13:57.555000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-09_S\u00e3o_Paulo_Grand_Prix/2025-11-08_Sprint/TeamRadio/MAXVER01_1_20251108_111315.mp3",
+        "meeting_name": "S\u00e3o Paulo Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1273,
+        "session_key": 9865,
+        "driver_number": 1,
+        "date": "2025-11-08T18:19:06.803000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-09_S\u00e3o_Paulo_Grand_Prix/2025-11-08_Qualifying/TeamRadio/MAXVER01_1_20251108_151830.mp3",
+        "meeting_name": "S\u00e3o Paulo Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1273,
+        "session_key": 9865,
+        "driver_number": 1,
+        "date": "2025-11-08T18:20:10.477000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-09_S\u00e3o_Paulo_Grand_Prix/2025-11-08_Qualifying/TeamRadio/MAXVER01_1_20251108_151950.mp3",
+        "meeting_name": "S\u00e3o Paulo Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1273,
+        "session_key": 9865,
+        "driver_number": 1,
+        "date": "2025-11-08T18:24:16.222000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-09_S\u00e3o_Paulo_Grand_Prix/2025-11-08_Qualifying/TeamRadio/MAXVER01_1_20251108_152403.mp3",
+        "meeting_name": "S\u00e3o Paulo Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 1,
