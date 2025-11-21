@@ -11860,6 +11860,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1274,
+        "session_key": 9851,
+        "driver_number": 4,
+        "date": "2025-11-21T01:19:01.545000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-20_Practice_1/TeamRadio/LANNOR01_4_20251120_171840.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9947,
         "driver_number": 4,
