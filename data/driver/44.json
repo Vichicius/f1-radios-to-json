@@ -10750,6 +10750,56 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 44,
+        "date": "2025-11-23T04:27:48.395000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/LEWHAM01_44_20251122_202741.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 44,
+        "date": "2025-11-23T04:28:19.382000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/LEWHAM01_44_20251122_202805.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 44,
+        "date": "2025-11-23T04:29:53.866000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/LEWHAM01_44_20251122_202935.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 44,
+        "date": "2025-11-23T04:31:29.156000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/LEWHAM01_44_20251122_203117.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 44,
+        "date": "2025-11-23T04:31:59.208000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/LEWHAM01_44_20251122_203133.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9943,
         "driver_number": 44,

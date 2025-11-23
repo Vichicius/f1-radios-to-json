@@ -13300,6 +13300,96 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 63,
+        "date": "2025-11-23T04:27:15.404000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/GEORUS01_63_20251122_202637.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 63,
+        "date": "2025-11-23T04:28:18.725000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/GEORUS01_63_20251122_202748.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 63,
+        "date": "2025-11-23T04:29:53.866000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/GEORUS01_63_20251122_202941.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 63,
+        "date": "2025-11-23T04:30:54.973000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/GEORUS01_63_20251122_203030.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 63,
+        "date": "2025-11-23T04:30:55.082000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/GEORUS01_63_20251122_203038.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 63,
+        "date": "2025-11-23T04:30:55.207000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/GEORUS01_63_20251122_203042.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 63,
+        "date": "2025-11-23T04:31:26.903000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/GEORUS01_63_20251122_203108.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 63,
+        "date": "2025-11-23T04:57:59.248000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/GEORUS01_63_20251122_205745.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1274,
+        "session_key": 9858,
+        "driver_number": 63,
+        "date": "2025-11-23T05:27:26.650000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-22_Las_Vegas_Grand_Prix/2025-11-22_Race/TeamRadio/GEORUS01_63_20251122_212712.mp3",
+        "meeting_name": "Las Vegas Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 63,
