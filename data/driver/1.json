@@ -12320,6 +12320,86 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1275,
+        "session_key": 9840,
+        "driver_number": 1,
+        "date": "2025-11-28T13:43:39.367000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-28_Practice_1/TeamRadio/MAXVER01_1_20251128_164324.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1275,
+        "session_key": 9840,
+        "driver_number": 1,
+        "date": "2025-11-28T13:48:45.281000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-28_Practice_1/TeamRadio/MAXVER01_1_20251128_164828.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1275,
+        "session_key": 9840,
+        "driver_number": 1,
+        "date": "2025-11-28T14:08:35.003000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-28_Practice_1/TeamRadio/MAXVER01_1_20251128_170812.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1275,
+        "session_key": 9840,
+        "driver_number": 1,
+        "date": "2025-11-28T14:11:39.275000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-28_Practice_1/TeamRadio/MAXVER01_1_20251128_171106.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1275,
+        "session_key": 9841,
+        "driver_number": 1,
+        "date": "2025-11-28T17:48:26.824000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-28_Sprint_Qualifying/TeamRadio/MAXVER01_1_20251128_204750.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1275,
+        "session_key": 9841,
+        "driver_number": 1,
+        "date": "2025-11-28T18:09:46.914000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-28_Sprint_Qualifying/TeamRadio/MAXVER01_1_20251128_210915.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1275,
+        "session_key": 9841,
+        "driver_number": 1,
+        "date": "2025-11-28T18:12:21.143000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-28_Sprint_Qualifying/TeamRadio/MAXVER01_1_20251128_211141.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1275,
+        "session_key": 9841,
+        "driver_number": 1,
+        "date": "2025-11-28T18:20:13.613000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-28_Sprint_Qualifying/TeamRadio/MAXVER01_1_20251128_212600.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Sprint Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 1,
