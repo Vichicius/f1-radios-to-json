@@ -8990,6 +8990,26 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1275,
+        "session_key": 9846,
+        "driver_number": 81,
+        "date": "2025-11-29T19:08:13.730000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/TeamRadio/OSCPIA01_81_20251129_220728.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1275,
+        "session_key": 9846,
+        "driver_number": 81,
+        "date": "2025-11-29T19:14:30.680000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/TeamRadio/OSCPIA01_81_20251129_221601.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9941,
         "driver_number": 81,

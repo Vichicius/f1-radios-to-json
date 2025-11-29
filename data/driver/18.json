@@ -5060,6 +5060,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1275,
+        "session_key": 9846,
+        "driver_number": 18,
+        "date": "2025-11-29T18:21:57.227000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/TeamRadio/LANSTR01_18_20251129_212130.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9947,
         "driver_number": 18,

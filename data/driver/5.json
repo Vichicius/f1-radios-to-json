@@ -390,6 +390,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1275,
+        "session_key": 9846,
+        "driver_number": 5,
+        "date": "2025-11-29T18:21:26.727000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-11-30_Qatar_Grand_Prix/2025-11-29_Qualifying/TeamRadio/GABBOR01_5_20251129_212105.mp3",
+        "meeting_name": "Qatar Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 5,
