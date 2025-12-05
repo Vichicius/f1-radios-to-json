@@ -38,5 +38,15 @@
         "meeting_name": "Bahrain Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9832,
+        "driver_number": 46,
+        "date": "2025-12-05T09:36:21.652000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-05_Practice_1/TeamRadio/LUKBRO01_46_20251205_133548.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
     }
 ]

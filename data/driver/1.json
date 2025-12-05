@@ -12470,6 +12470,36 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1276,
+        "session_key": 9832,
+        "driver_number": 1,
+        "date": "2025-12-05T10:04:19.232000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-05_Practice_1/TeamRadio/MAXVER01_1_20251205_140403.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9832,
+        "driver_number": 1,
+        "date": "2025-12-05T10:21:05.189000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-05_Practice_1/TeamRadio/MAXVER01_1_20251205_142052.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9833,
+        "driver_number": 1,
+        "date": "2025-12-05T13:08:36.082000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-05_Practice_2/TeamRadio/MAXVER01_1_20251205_170817.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 1,

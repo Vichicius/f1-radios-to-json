@@ -820,6 +820,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1276,
+        "session_key": 9833,
+        "driver_number": 12,
+        "date": "2025-12-05T13:46:43.447000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-05_Practice_2/TeamRadio/ANDANT01_12_20251205_174620.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9942,
         "driver_number": 12,
