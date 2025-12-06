@@ -410,6 +410,16 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1276,
+        "session_key": 9835,
+        "driver_number": 5,
+        "date": "2025-12-06T15:08:22.160000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-06_Qualifying/TeamRadio/GABBOR01_5_20251206_191438.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 5,

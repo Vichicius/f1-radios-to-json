@@ -6268,5 +6268,45 @@
         "meeting_name": "Qatar Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9834,
+        "driver_number": 22,
+        "date": "2025-12-06T11:24:36.049000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-06_Practice_3/TeamRadio/YUKTSU01_22_20251206_152408.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9835,
+        "driver_number": 22,
+        "date": "2025-12-06T13:52:39.898000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-06_Qualifying/TeamRadio/YUKTSU01_22_20251206_175219.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9835,
+        "driver_number": 22,
+        "date": "2025-12-06T13:55:41.310000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-06_Qualifying/TeamRadio/YUKTSU01_22_20251206_175513.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9835,
+        "driver_number": 22,
+        "date": "2025-12-06T14:55:38.563000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-06_Qualifying/TeamRadio/YUKTSU01_22_20251206_185520.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2025"
     }
 ]
