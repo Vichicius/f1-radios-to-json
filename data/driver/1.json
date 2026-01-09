@@ -12530,6 +12530,56 @@
         "meeting_year": "2025"
     },
     {
+        "meeting_key": 1276,
+        "session_key": 9839,
+        "driver_number": 1,
+        "date": "2025-12-07T13:12:42.442000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/TeamRadio/MAXVER01_1_20251207_171228.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9839,
+        "driver_number": 1,
+        "date": "2025-12-07T13:54:00.427000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/TeamRadio/MAXVER01_1_20251207_175342.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9839,
+        "driver_number": 1,
+        "date": "2025-12-07T14:08:15.051000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/TeamRadio/MAXVER01_1_20251207_180801.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9839,
+        "driver_number": 1,
+        "date": "2025-12-07T14:13:51.813000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/TeamRadio/MAXVER01_1_20251207_181313.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1276,
+        "session_key": 9839,
+        "driver_number": 1,
+        "date": "2025-12-07T14:33:14.515000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2025/2025-12-07_Abu_Dhabi_Grand_Prix/2025-12-07_Race/TeamRadio/MAXVER01_1_20251207_183223.mp3",
+        "meeting_name": "Abu Dhabi Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2025"
+    },
+    {
         "meeting_key": 1277,
         "session_key": 9940,
         "driver_number": 1,
