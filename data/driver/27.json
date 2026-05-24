@@ -6288,5 +6288,15 @@
         "meeting_name": "British Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1285,
+        "session_key": 11287,
+        "driver_number": 27,
+        "date": "2026-05-23T20:46:13.095000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-23_Qualifying/TeamRadio/HUL_27_20260523_164546.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]

@@ -3168,5 +3168,45 @@
         "meeting_name": "Singapore Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
+    },
+    {
+        "meeting_key": 1285,
+        "session_key": 11286,
+        "driver_number": 3,
+        "date": "2026-05-23T16:11:14.700000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-23_Sprint/TeamRadio/VER_3_20260523_121056.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1285,
+        "session_key": 11287,
+        "driver_number": 3,
+        "date": "2026-05-23T20:34:00.913000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-23_Qualifying/TeamRadio/VER_3_20260523_163321.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1285,
+        "session_key": 11287,
+        "driver_number": 3,
+        "date": "2026-05-23T20:53:50.242000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-23_Qualifying/TeamRadio/VER_3_20260523_165322.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1285,
+        "session_key": 11287,
+        "driver_number": 3,
+        "date": "2026-05-23T21:06:52.512000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-23_Qualifying/TeamRadio/VER_3_20260523_170827.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]
