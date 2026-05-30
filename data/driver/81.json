@@ -9301,6 +9301,16 @@
     },
     {
         "meeting_key": 1285,
+        "session_key": 11286,
+        "driver_number": 81,
+        "date": "2026-05-23T15:21:59.100000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-23_Sprint/TeamRadio/PIA_81_20260523_112143.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Sprint",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1285,
         "session_key": 11287,
         "driver_number": 81,
         "date": "2026-05-23T20:02:31.834000+00:00",
@@ -9317,6 +9327,36 @@
         "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-23_Qualifying/TeamRadio/PIA_81_20260523_170718.mp3",
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1285,
+        "session_key": 11291,
+        "driver_number": 81,
+        "date": "2026-05-24T19:27:39.008000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/TeamRadio/PIA_81_20260524_152723.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1285,
+        "session_key": 11291,
+        "driver_number": 81,
+        "date": "2026-05-24T20:05:14.368000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/TeamRadio/PIA_81_20260524_160438.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1285,
+        "session_key": 11291,
+        "driver_number": 81,
+        "date": "2026-05-24T20:08:48.325000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/TeamRadio/PIA_81_20260524_160758.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
         "meeting_year": "2026"
     }
 ]

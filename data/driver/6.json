@@ -718,5 +718,15 @@
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Sprint",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1285,
+        "session_key": 11291,
+        "driver_number": 6,
+        "date": "2026-05-24T19:11:23.468000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-05-24_Canadian_Grand_Prix/2026-05-24_Race/TeamRadio/HAD_6_20260524_121726.mp3",
+        "meeting_name": "Canadian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]
