@@ -1688,5 +1688,25 @@
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Race",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11294,
+        "driver_number": 30,
+        "date": "2026-06-06T10:58:30.394000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Practice_3/TeamRadio/LAW_30_20260606_125814.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11294,
+        "driver_number": 30,
+        "date": "2026-06-06T11:07:41.371000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Practice_3/TeamRadio/LAW_30_20260606_130718.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
     }
 ]

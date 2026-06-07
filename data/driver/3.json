@@ -3228,5 +3228,45 @@
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Race",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11295,
+        "driver_number": 3,
+        "date": "2026-06-06T14:32:33.195000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Qualifying/TeamRadio/VER_3_20260606_163219.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11295,
+        "driver_number": 3,
+        "date": "2026-06-06T15:01:29.058000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Qualifying/TeamRadio/VER_3_20260606_170055.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11295,
+        "driver_number": 3,
+        "date": "2026-06-06T15:10:06.162000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Qualifying/TeamRadio/VER_3_20260606_171130.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11295,
+        "driver_number": 3,
+        "date": "2026-06-06T15:12:44.204000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Qualifying/TeamRadio/VER_3_20260606_171229.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]

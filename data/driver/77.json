@@ -3698,5 +3698,15 @@
         "meeting_name": "Abu Dhabi Grand Prix",
         "session_name": "Race",
         "meeting_year": "2024"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11294,
+        "driver_number": 77,
+        "date": "2026-06-06T10:36:10.998000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Practice_3/TeamRadio/BOT_77_20260606_123533.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
     }
 ]

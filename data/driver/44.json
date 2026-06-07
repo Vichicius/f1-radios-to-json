@@ -10960,6 +10960,26 @@
         "meeting_year": "2026"
     },
     {
+        "meeting_key": 1286,
+        "session_key": 11294,
+        "driver_number": 44,
+        "date": "2026-06-06T11:34:03.829000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Practice_3/TeamRadio/HAM_44_20260606_133337.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11295,
+        "driver_number": 44,
+        "date": "2026-06-06T14:03:03.686000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Qualifying/TeamRadio/HAM_44_20260606_160246.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
         "meeting_key": 1304,
         "session_key": 11467,
         "driver_number": 44,

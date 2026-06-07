@@ -7938,5 +7938,35 @@
         "meeting_name": "British Grand Prix",
         "session_name": "Race",
         "meeting_year": "2025"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11294,
+        "driver_number": 31,
+        "date": "2026-06-06T10:17:22.853000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Practice_3/TeamRadio/OCO_31_20260606_115235.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11294,
+        "driver_number": 31,
+        "date": "2026-06-06T10:55:29.256000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Practice_3/TeamRadio/OCO_31_20260606_125500.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11295,
+        "driver_number": 31,
+        "date": "2026-06-06T14:27:57.656000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-06_Qualifying/TeamRadio/OCO_31_20260606_162719.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]
