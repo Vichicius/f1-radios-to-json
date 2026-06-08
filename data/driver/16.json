@@ -10638,5 +10638,15 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 16,
+        "date": "2026-06-07T14:32:36.219000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/LEC_16_20260607_163159.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]

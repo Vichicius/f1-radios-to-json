@@ -748,5 +748,55 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 6,
+        "date": "2026-06-07T13:23:02.352000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/HAD_6_20260607_152233.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 6,
+        "date": "2026-06-07T13:29:08.460000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/HAD_6_20260607_152831.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 6,
+        "date": "2026-06-07T13:37:44.913000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/HAD_6_20260607_153707.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 6,
+        "date": "2026-06-07T13:48:24.822000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/HAD_6_20260607_154751.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 6,
+        "date": "2026-06-07T15:14:12.800000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/HAD_6_20260607_171340.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]

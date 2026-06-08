@@ -13668,5 +13668,55 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 63,
+        "date": "2026-06-07T13:24:02.518000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/RUS_63_20260607_152339.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 63,
+        "date": "2026-06-07T13:26:34.800000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/RUS_63_20260607_152610.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 63,
+        "date": "2026-06-07T13:38:45.988000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/RUS_63_20260607_153832.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 63,
+        "date": "2026-06-07T14:29:33.990000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/RUS_63_20260607_162906.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1286,
+        "session_key": 11299,
+        "driver_number": 63,
+        "date": "2026-06-07T14:57:58.903000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-07_Monaco_Grand_Prix/2026-06-07_Race/TeamRadio/RUS_63_20260607_165733.mp3",
+        "meeting_name": "Monaco Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]
