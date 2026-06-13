@@ -6208,5 +6208,15 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Race",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11301,
+        "driver_number": 23,
+        "date": "2026-06-12T15:31:15.082000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-12_Practice_2/TeamRadio/ALB_23_20260612_173031.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2026"
     }
 ]

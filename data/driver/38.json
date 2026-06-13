@@ -138,5 +138,15 @@
         "meeting_name": "Mexico City Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2024"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11300,
+        "driver_number": 38,
+        "date": "2026-06-12T11:59:12.147000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-12_Practice_1/TeamRadio/BEG_38_20260612_135833.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2026"
     }
 ]
