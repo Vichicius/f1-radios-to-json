@@ -1068,5 +1068,25 @@
         "meeting_name": "Barcelona Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11302,
+        "driver_number": 12,
+        "date": "2026-06-13T11:23:22.710000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Practice_3/TeamRadio/ANT_12_20260613_132300.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11302,
+        "driver_number": 12,
+        "date": "2026-06-13T11:24:54.236000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Practice_3/TeamRadio/ANT_12_20260613_132440.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
     }
 ]

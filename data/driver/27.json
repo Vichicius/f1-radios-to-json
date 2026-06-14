@@ -6298,5 +6298,25 @@
         "meeting_name": "Canadian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11303,
+        "driver_number": 27,
+        "date": "2026-06-13T14:44:51.126000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/TeamRadio/HUL_27_20260613_164419.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11303,
+        "driver_number": 27,
+        "date": "2026-06-13T15:17:07.465000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-13_Qualifying/TeamRadio/HUL_27_20260613_171913.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]
