@@ -13718,5 +13718,75 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Race",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11307,
+        "driver_number": 63,
+        "date": "2026-06-14T13:19:48.370000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/TeamRadio/RUS_63_20260614_151935.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11307,
+        "driver_number": 63,
+        "date": "2026-06-14T13:23:21.759000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/TeamRadio/RUS_63_20260614_152240.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11307,
+        "driver_number": 63,
+        "date": "2026-06-14T13:43:40.450000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/TeamRadio/RUS_63_20260614_154302.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11307,
+        "driver_number": 63,
+        "date": "2026-06-14T13:58:55.309000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/TeamRadio/RUS_63_20260614_155835.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11307,
+        "driver_number": 63,
+        "date": "2026-06-14T14:04:00.236000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/TeamRadio/RUS_63_20260614_160340.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11307,
+        "driver_number": 63,
+        "date": "2026-06-14T14:16:11.009000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/TeamRadio/RUS_63_20260614_161559.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11307,
+        "driver_number": 63,
+        "date": "2026-06-14T14:40:24.621000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/TeamRadio/RUS_63_20260614_164059.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]

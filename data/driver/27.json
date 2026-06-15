@@ -6318,5 +6318,15 @@
         "meeting_name": "Barcelona Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1287,
+        "session_key": 11307,
+        "driver_number": 27,
+        "date": "2026-06-14T13:37:35.204000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-14_Barcelona_Grand_Prix/2026-06-14_Race/TeamRadio/HUL_27_20260614_153713.mp3",
+        "meeting_name": "Barcelona Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]
