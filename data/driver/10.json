@@ -8428,5 +8428,15 @@
         "meeting_name": "Monaco Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1288,
+        "session_key": 11311,
+        "driver_number": 10,
+        "date": "2026-06-27T14:41:45.306000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-28_Austrian_Grand_Prix/2026-06-27_Qualifying/TeamRadio/GAS_10_20260627_164119.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]

@@ -13798,5 +13798,55 @@
         "meeting_name": "Austrian Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1288,
+        "session_key": 11310,
+        "driver_number": 63,
+        "date": "2026-06-27T10:59:44.905000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-28_Austrian_Grand_Prix/2026-06-27_Practice_3/TeamRadio/RUS_63_20260627_125915.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1288,
+        "session_key": 11311,
+        "driver_number": 63,
+        "date": "2026-06-27T14:13:22.807000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-28_Austrian_Grand_Prix/2026-06-27_Qualifying/TeamRadio/RUS_63_20260627_161240.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1288,
+        "session_key": 11311,
+        "driver_number": 63,
+        "date": "2026-06-27T14:35:44.239000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-28_Austrian_Grand_Prix/2026-06-27_Qualifying/TeamRadio/RUS_63_20260627_163526.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1288,
+        "session_key": 11311,
+        "driver_number": 63,
+        "date": "2026-06-27T15:11:16.389000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-28_Austrian_Grand_Prix/2026-06-27_Qualifying/TeamRadio/RUS_63_20260627_171113.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1288,
+        "session_key": 11311,
+        "driver_number": 63,
+        "date": "2026-06-27T15:12:02.471000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-28_Austrian_Grand_Prix/2026-06-27_Qualifying/TeamRadio/RUS_63_20260627_171131.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]

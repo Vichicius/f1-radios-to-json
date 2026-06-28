@@ -158,5 +158,15 @@
         "meeting_name": "Austrian Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1288,
+        "session_key": 11310,
+        "driver_number": 41,
+        "date": "2026-06-27T11:21:30.565000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-06-28_Austrian_Grand_Prix/2026-06-27_Practice_3/TeamRadio/LIN_41_20260627_132116.mp3",
+        "meeting_name": "Austrian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
     }
 ]
