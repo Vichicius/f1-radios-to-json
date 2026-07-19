@@ -1328,5 +1328,15 @@
         "meeting_name": "Belgian Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1290,
+        "session_key": 11330,
+        "driver_number": 12,
+        "date": "2026-07-18T15:11:27.190000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-07-19_Belgian_Grand_Prix/2026-07-18_Qualifying/TeamRadio/ANT_12_20260718_171053.mp3",
+        "meeting_name": "Belgian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]
