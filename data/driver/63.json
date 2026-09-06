@@ -14118,5 +14118,35 @@
         "meeting_name": "Italian Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11356,
+        "driver_number": 63,
+        "date": "2026-09-05T11:08:47.470000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-05_Practice_3/TeamRadio/RUS_63_20260905_130832.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11357,
+        "driver_number": 63,
+        "date": "2026-09-05T14:52:03.035000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-05_Qualifying/TeamRadio/RUS_63_20260905_165122.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11357,
+        "driver_number": 63,
+        "date": "2026-09-05T15:03:10.840000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-05_Qualifying/TeamRadio/RUS_63_20260905_170229.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]
