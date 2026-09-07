@@ -14148,5 +14148,65 @@
         "meeting_name": "Italian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11361,
+        "driver_number": 63,
+        "date": "2026-09-06T14:21:30.778000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-06_Race/TeamRadio/RUS_63_20260906_162110.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11361,
+        "driver_number": 63,
+        "date": "2026-09-06T14:28:06.385000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-06_Race/TeamRadio/RUS_63_20260906_162729.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11361,
+        "driver_number": 63,
+        "date": "2026-09-06T14:34:44.719000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-06_Race/TeamRadio/RUS_63_20260906_163422.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11361,
+        "driver_number": 63,
+        "date": "2026-09-06T14:44:23.860000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-06_Race/TeamRadio/RUS_63_20260906_164342.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11361,
+        "driver_number": 63,
+        "date": "2026-09-06T14:49:59.728000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-06_Race/TeamRadio/RUS_63_20260906_164942.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11361,
+        "driver_number": 63,
+        "date": "2026-09-06T15:00:11.505000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-06_Race/TeamRadio/RUS_63_20260906_165937.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]

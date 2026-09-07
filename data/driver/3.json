@@ -3708,5 +3708,15 @@
         "meeting_name": "Italian Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1293,
+        "session_key": 11361,
+        "driver_number": 3,
+        "date": "2026-09-06T15:01:54.371000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-06_Race/TeamRadio/VER_3_20260906_171046.mp3",
+        "meeting_name": "Italian Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]
