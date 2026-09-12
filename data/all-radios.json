@@ -119077,6 +119077,202 @@
         "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-06_Italian_Grand_Prix/2026-09-06_Race/TeamRadio/HAM_44_20260906_171131.mp3"
     },
     {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 16,
+        "date": "2026-09-11T11:26:11.345000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/LEC_16_20260911_132603.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 87,
+        "date": "2026-09-11T11:50:00.821000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/BEA_87_20260911_134933.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 41,
+        "date": "2026-09-11T11:56:05.965000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/LIN_41_20260911_135541.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 16,
+        "date": "2026-09-11T12:02:11.314000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/LEC_16_20260911_140136.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 22,
+        "date": "2026-09-11T12:08:47.543000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/TSU_22_20260911_140811.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 81,
+        "date": "2026-09-11T12:15:53.825000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/PIA_81_20260911_141515.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 27,
+        "date": "2026-09-11T12:25:00.439000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/HUL_27_20260911_142443.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 14,
+        "date": "2026-09-11T12:29:02.978000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/ALO_14_20260911_142833.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 55,
+        "date": "2026-09-11T12:29:33.760000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/SAI_55_20260911_142857.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 44,
+        "date": "2026-09-11T12:32:06.629000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/HAM_44_20260911_143136.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 44,
+        "date": "2026-09-11T12:33:37.513000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/HAM_44_20260911_143309.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 10,
+        "date": "2026-09-11T14:56:20.066000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/GAS_10_20260911_165549.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 1,
+        "date": "2026-09-11T15:05:57.709000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/NOR_1_20260911_170525.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 12,
+        "date": "2026-09-11T15:14:07.776000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/ANT_12_20260911_171354.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 44,
+        "date": "2026-09-11T15:16:38.563000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/HAM_44_20260911_171631.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 12,
+        "date": "2026-09-11T15:20:11.269000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/ANT_12_20260911_171935.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 30,
+        "date": "2026-09-11T15:29:20.439000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/LAW_30_20260911_172901.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 44,
+        "date": "2026-09-11T15:30:20.606000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/HAM_44_20260911_173014.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 41,
+        "date": "2026-09-11T15:31:20.794000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/LIN_41_20260911_173101.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 22,
+        "date": "2026-09-11T15:32:21.789000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/TSU_22_20260911_173204.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 63,
+        "date": "2026-09-11T15:35:24.233000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/RUS_63_20260911_173505.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 41,
+        "date": "2026-09-11T15:36:56.785000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/LIN_41_20260911_173619.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 30,
+        "date": "2026-09-11T15:38:27.033000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/LAW_30_20260911_173758.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 41,
+        "date": "2026-09-11T15:40:29.074000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/LIN_41_20260911_173956.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 3,
+        "date": "2026-09-11T15:49:36.498000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/VER_3_20260911_174915.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 18,
+        "date": "2026-09-11T15:58:45.508000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/STR_18_20260911_175823.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 87,
+        "date": "2026-09-11T16:02:47.032000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/BEA_87_20260911_180225.mp3"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 87,
+        "date": "2026-09-11T16:02:47.358000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/BEA_87_20260911_180236.mp3"
+    },
+    {
         "meeting_key": 1304,
         "session_key": 11467,
         "driver_number": 44,

@@ -258,5 +258,45 @@
         "meeting_name": "Dutch Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11362,
+        "driver_number": 41,
+        "date": "2026-09-11T11:56:05.965000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_1/TeamRadio/LIN_41_20260911_135541.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 41,
+        "date": "2026-09-11T15:31:20.794000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/LIN_41_20260911_173101.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 41,
+        "date": "2026-09-11T15:36:56.785000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/LIN_41_20260911_173619.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11363,
+        "driver_number": 41,
+        "date": "2026-09-11T15:40:29.074000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-11_Practice_2/TeamRadio/LIN_41_20260911_173956.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2026"
     }
 ]
