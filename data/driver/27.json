@@ -6398,5 +6398,25 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Practice 1",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11365,
+        "driver_number": 27,
+        "date": "2026-09-12T14:44:52.415000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-12_Qualifying/TeamRadio/HUL_27_20260912_164424.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1294,
+        "session_key": 11365,
+        "driver_number": 27,
+        "date": "2026-09-12T14:44:54.398000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-13_Spanish_Grand_Prix/2026-09-12_Qualifying/TeamRadio/HUL_27_20260912_164428.mp3",
+        "meeting_name": "Spanish Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]
