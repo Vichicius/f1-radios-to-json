@@ -3758,5 +3758,75 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Race",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11370,
+        "driver_number": 3,
+        "date": "2026-09-24T08:28:51.552000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-24_Practice_1/TeamRadio/VER_3_20260924_122834.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11370,
+        "driver_number": 3,
+        "date": "2026-09-24T08:36:28.452000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-24_Practice_1/TeamRadio/VER_3_20260924_123602.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11371,
+        "driver_number": 3,
+        "date": "2026-09-24T12:07:01.317000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-24_Practice_2/TeamRadio/VER_3_20260924_160623.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11371,
+        "driver_number": 3,
+        "date": "2026-09-24T12:58:18.603000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-24_Practice_2/TeamRadio/VER_3_20260924_165759.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11372,
+        "driver_number": 3,
+        "date": "2026-09-25T08:57:45.542000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Practice_3/TeamRadio/VER_3_20260925_125733.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11372,
+        "driver_number": 3,
+        "date": "2026-09-25T09:02:50.360000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Practice_3/TeamRadio/VER_3_20260925_130223.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11373,
+        "driver_number": 3,
+        "date": "2026-09-25T12:12:37.213000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Qualifying/TeamRadio/VER_3_20260925_161220.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]

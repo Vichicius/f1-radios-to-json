@@ -5118,5 +5118,25 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11372,
+        "driver_number": 18,
+        "date": "2026-09-25T09:02:19.789000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Practice_3/TeamRadio/STR_18_20260925_130159.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11373,
+        "driver_number": 18,
+        "date": "2026-09-25T12:05:00.485000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Qualifying/TeamRadio/STR_18_20260925_160428.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]

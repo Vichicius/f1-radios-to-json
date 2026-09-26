@@ -11650,6 +11650,36 @@
         "meeting_year": "2026"
     },
     {
+        "meeting_key": 1295,
+        "session_key": 11373,
+        "driver_number": 44,
+        "date": "2026-09-25T12:10:06.389000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Qualifying/TeamRadio/HAM_44_20260925_160936.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11373,
+        "driver_number": 44,
+        "date": "2026-09-25T12:32:26.497000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Qualifying/TeamRadio/HAM_44_20260925_163155.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11373,
+        "driver_number": 44,
+        "date": "2026-09-25T13:01:23.580000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Qualifying/TeamRadio/HAM_44_20260925_170059.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
         "meeting_key": 1304,
         "session_key": 11467,
         "driver_number": 44,

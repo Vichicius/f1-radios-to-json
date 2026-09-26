@@ -13218,5 +13218,35 @@
         "meeting_name": "Spanish Grand Prix",
         "session_name": "Race",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11373,
+        "driver_number": 1,
+        "date": "2026-09-25T12:16:12.849000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Qualifying/TeamRadio/NOR_1_20260925_161549.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11373,
+        "driver_number": 1,
+        "date": "2026-09-25T12:25:20.036000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Qualifying/TeamRadio/NOR_1_20260925_162503.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11373,
+        "driver_number": 1,
+        "date": "2026-09-25T12:52:16.310000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-25_Qualifying/TeamRadio/NOR_1_20260925_165157.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]
