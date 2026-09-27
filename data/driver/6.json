@@ -1008,5 +1008,125 @@
         "meeting_name": "Azerbaijan Grand Prix",
         "session_name": "Practice 3",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T10:12:35.858000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_141221.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T11:15:03.257000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_151448.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T11:33:19.187000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_153246.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T11:39:25.351000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_153854.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T11:39:56.452000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_153947.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T11:40:59.178000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_154025.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T11:42:29.534000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_154213.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T11:51:38.712000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_155106.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T12:03:20.168000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_160250.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T12:07:25.136000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_160652.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T12:22:08.435000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_162200.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1295,
+        "session_key": 11377,
+        "driver_number": 6,
+        "date": "2026-09-26T12:45:00.304000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/HAD_6_20260926_164420.mp3",
+        "meeting_name": "Azerbaijan Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]
