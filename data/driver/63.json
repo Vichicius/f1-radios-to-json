@@ -14378,5 +14378,25 @@
         "meeting_name": "Azerbaijan Grand Prix",
         "session_name": "Race",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11727,
+        "driver_number": 63,
+        "date": "2026-10-02T04:43:20.085000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-02_Practice_1/TeamRadio/RUS_63_20261002_124306.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11727,
+        "driver_number": 63,
+        "date": "2026-10-02T05:29:28.641000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-02_Practice_1/TeamRadio/RUS_63_20261002_132846.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2026"
     }
 ]
