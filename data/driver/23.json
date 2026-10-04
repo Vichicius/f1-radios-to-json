@@ -6378,5 +6378,15 @@
         "meeting_name": "Bahrain Grand Prix",
         "session_name": "Practice 2",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11729,
+        "driver_number": 23,
+        "date": "2026-10-03T04:25:54.240000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-03_Practice_3/TeamRadio/ALB_23_20261003_122544.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
     }
 ]

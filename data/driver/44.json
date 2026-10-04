@@ -11708,5 +11708,25 @@
         "meeting_name": "Pre-Season Testing",
         "session_name": "Day 3",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11729,
+        "driver_number": 44,
+        "date": "2026-10-03T05:33:18.173000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-03_Practice_3/TeamRadio/HAM_44_20261003_133251.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11730,
+        "driver_number": 44,
+        "date": "2026-10-03T09:02:49.450000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-03_Qualifying/TeamRadio/HAM_44_20261003_170203.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]
