@@ -11728,5 +11728,75 @@
         "meeting_name": "Bahrain Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11731,
+        "driver_number": 44,
+        "date": "2026-10-04T06:55:42.314000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-04_Race/TeamRadio/HAM_44_20261004_142600.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11731,
+        "driver_number": 44,
+        "date": "2026-10-04T07:43:20.745000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-04_Race/TeamRadio/HAM_44_20261004_154307.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11731,
+        "driver_number": 44,
+        "date": "2026-10-04T08:35:36.446000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-04_Race/TeamRadio/HAM_44_20261004_163505.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11731,
+        "driver_number": 44,
+        "date": "2026-10-04T08:44:43.038000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-04_Race/TeamRadio/HAM_44_20261004_164359.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11731,
+        "driver_number": 44,
+        "date": "2026-10-04T08:59:55.565000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-04_Race/TeamRadio/HAM_44_20261004_165924.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11731,
+        "driver_number": 44,
+        "date": "2026-10-04T09:38:32.148000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-04_Race/TeamRadio/HAM_44_20261004_173815.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1308,
+        "session_key": 11731,
+        "driver_number": 44,
+        "date": "2026-10-04T10:22:50.353000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-04_Bahrain_Grand_Prix/2026-10-04_Race/TeamRadio/HAM_44_20261004_182234.mp3",
+        "meeting_name": "Bahrain Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
     }
 ]
