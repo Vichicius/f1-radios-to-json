@@ -120288,6 +120288,174 @@
         "recording_url": "https://livetiming.formula1.com/static/2026/2026-09-26_Azerbaijan_Grand_Prix/2026-09-26_Race/TeamRadio/RUS_63_20260926_164454.mp3"
     },
     {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 11,
+        "date": "2026-10-09T08:25:32.549000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/PER_11_20261009_162528.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 63,
+        "date": "2026-10-09T08:32:38.628000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/RUS_63_20261009_163220.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 6,
+        "date": "2026-10-09T08:37:14.422000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/HAD_6_20261009_163633.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 6,
+        "date": "2026-10-09T08:38:44.704000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/HAD_6_20261009_163817.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 77,
+        "date": "2026-10-09T08:41:16.731000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/BOT_77_20261009_164056.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 18,
+        "date": "2026-10-09T09:03:05.276000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/STR_18_20261009_170237.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 27,
+        "date": "2026-10-09T09:09:10.347000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/HUL_27_20261009_170850.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 16,
+        "date": "2026-10-09T09:20:49.630000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/LEC_16_20261009_172036.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 55,
+        "date": "2026-10-09T09:27:24.810000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/SAI_55_20261009_172705.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11378,
+        "driver_number": 12,
+        "date": "2026-10-09T09:31:28.351000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Practice_1/TeamRadio/ANT_12_20261009_173059.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 23,
+        "date": "2026-10-09T12:26:37.569000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/ALB_23_20261009_202622.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 44,
+        "date": "2026-10-09T12:38:48.873000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/HAM_44_20261009_203838.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 3,
+        "date": "2026-10-09T12:39:18.975000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/VER_3_20261009_203847.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 55,
+        "date": "2026-10-09T12:55:01.424000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/SAI_55_20261009_205434.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 23,
+        "date": "2026-10-09T12:56:01.784000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/ALB_23_20261009_205527.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 44,
+        "date": "2026-10-09T13:17:20.169000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/HAM_44_20261009_211702.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 87,
+        "date": "2026-10-09T13:23:26.096000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/BEA_87_20261009_212258.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 3,
+        "date": "2026-10-09T13:24:26.237000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/VER_3_20261009_212404.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 87,
+        "date": "2026-10-09T13:25:26.385000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/BEA_87_20261009_212509.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 3,
+        "date": "2026-10-09T13:38:38.433000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/VER_3_20261009_213804.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 63,
+        "date": "2026-10-09T13:38:38.433000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/RUS_63_20261009_213826.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 16,
+        "date": "2026-10-09T13:39:08.533000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/LEC_16_20261009_213850.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 16,
+        "date": "2026-10-09T13:39:38.616000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/LEC_16_20261009_213913.mp3"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11379,
+        "driver_number": 3,
+        "date": "2026-10-09T13:41:09.666000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-09_Sprint_Qualifying/TeamRadio/VER_3_20261009_214031.mp3"
+    },
+    {
         "meeting_key": 1304,
         "session_key": 11467,
         "driver_number": 44,
