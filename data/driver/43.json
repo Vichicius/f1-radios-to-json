@@ -1368,5 +1368,15 @@
         "meeting_name": "Azerbaijan Grand Prix",
         "session_name": "Qualifying",
         "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1296,
+        "session_key": 11384,
+        "driver_number": 43,
+        "date": "2026-10-10T14:11:39.036000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-10_Qualifying/TeamRadio/COL_43_20261010_221116.mp3",
+        "meeting_name": "Singapore Grand Prix",
+        "session_name": "Qualifying",
+        "meeting_year": "2026"
     }
 ]
