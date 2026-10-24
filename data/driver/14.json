@@ -7020,6 +7020,16 @@
         "meeting_year": "2026"
     },
     {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 14,
+        "date": "2026-10-23T21:35:26.225000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/ALO_14_20261023_163454.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2026"
+    },
+    {
         "meeting_key": 1308,
         "session_key": 11730,
         "driver_number": 14,

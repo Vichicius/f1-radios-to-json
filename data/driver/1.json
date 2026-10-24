@@ -13340,6 +13340,36 @@
         "meeting_year": "2026"
     },
     {
+        "meeting_key": 1297,
+        "session_key": 11389,
+        "driver_number": 1,
+        "date": "2026-10-23T18:10:45.025000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/NOR_1_20261023_131026.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 1",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 1,
+        "date": "2026-10-23T21:08:01.890000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/NOR_1_20261023_160742.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 1,
+        "date": "2026-10-23T21:52:40.316000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/NOR_1_20261023_165229.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 2",
+        "meeting_year": "2026"
+    },
+    {
         "meeting_key": 1308,
         "session_key": 11731,
         "driver_number": 1,

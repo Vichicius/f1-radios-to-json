@@ -120904,6 +120904,146 @@
         "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-11_Singapore_Grand_Prix/2026-10-11_Race/TeamRadio/ANT_12_20261011_214827.mp3"
     },
     {
+        "meeting_key": 1297,
+        "session_key": 11389,
+        "driver_number": 27,
+        "date": "2026-10-23T17:27:36.720000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/HUL_27_20261023_122710.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11389,
+        "driver_number": 25,
+        "date": "2026-10-23T17:27:37.001000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/HER_25_20261023_122727.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11389,
+        "driver_number": 3,
+        "date": "2026-10-23T17:36:16.676000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/VER_3_20261023_123554.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11389,
+        "driver_number": 63,
+        "date": "2026-10-23T17:38:17.032000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/RUS_63_20261023_123745.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11389,
+        "driver_number": 63,
+        "date": "2026-10-23T17:46:54.628000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/RUS_63_20261023_124631.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11389,
+        "driver_number": 27,
+        "date": "2026-10-23T17:58:35.692000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/HUL_27_20261023_125804.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11389,
+        "driver_number": 1,
+        "date": "2026-10-23T18:10:45.025000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/NOR_1_20261023_131026.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11389,
+        "driver_number": 12,
+        "date": "2026-10-23T18:19:22.021000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_1/TeamRadio/ANT_12_20261023_131845.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 11,
+        "date": "2026-10-23T20:56:51.306000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/PER_11_20261023_155645.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 6,
+        "date": "2026-10-23T21:04:27.748000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/HAD_6_20261023_160404.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 12,
+        "date": "2026-10-23T21:07:31.261000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/ANT_12_20261023_160657.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 1,
+        "date": "2026-10-23T21:08:01.890000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/NOR_1_20261023_160742.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 6,
+        "date": "2026-10-23T21:26:19.541000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/HAD_6_20261023_162536.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 6,
+        "date": "2026-10-23T21:31:22.463000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/HAD_6_20261023_163040.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 55,
+        "date": "2026-10-23T21:33:25.838000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/SAI_55_20261023_163301.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 14,
+        "date": "2026-10-23T21:35:26.225000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/ALO_14_20261023_163454.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 31,
+        "date": "2026-10-23T21:41:02.163000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/OCO_31_20261023_164030.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 1,
+        "date": "2026-10-23T21:52:40.316000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/NOR_1_20261023_165229.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 23,
+        "date": "2026-10-23T21:54:42.171000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/ALB_23_20261023_165408.mp3"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11390,
+        "driver_number": 44,
+        "date": "2026-10-23T21:55:44.854000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-23_Practice_2/TeamRadio/HAM_44_20261023_165532.mp3"
+    },
+    {
         "meeting_key": 1304,
         "session_key": 11467,
         "driver_number": 44,
