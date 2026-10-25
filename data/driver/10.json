@@ -8650,6 +8650,16 @@
         "meeting_year": "2026"
     },
     {
+        "meeting_key": 1297,
+        "session_key": 11391,
+        "driver_number": 10,
+        "date": "2026-10-24T17:48:49.688000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-24_Practice_3/TeamRadio/GAS_10_20261024_124818.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Practice 3",
+        "meeting_year": "2026"
+    },
+    {
         "meeting_key": 1308,
         "session_key": 11728,
         "driver_number": 10,
