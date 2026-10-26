@@ -4040,6 +4040,56 @@
         "meeting_year": "2026"
     },
     {
+        "meeting_key": 1297,
+        "session_key": 11396,
+        "driver_number": 3,
+        "date": "2026-10-25T20:16:59.700000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-25_Race/TeamRadio/VER_3_20261025_151643.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11396,
+        "driver_number": 3,
+        "date": "2026-10-25T20:21:05.509000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-25_Race/TeamRadio/VER_3_20261025_152050.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11396,
+        "driver_number": 3,
+        "date": "2026-10-25T20:43:24.770000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-25_Race/TeamRadio/VER_3_20261025_154309.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11396,
+        "driver_number": 3,
+        "date": "2026-10-25T20:53:34.224000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-25_Race/TeamRadio/VER_3_20261025_155317.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
+        "meeting_key": 1297,
+        "session_key": 11396,
+        "driver_number": 3,
+        "date": "2026-10-25T20:55:36.954000+00:00",
+        "recording_url": "https://livetiming.formula1.com/static/2026/2026-10-25_United_States_Grand_Prix/2026-10-25_Race/TeamRadio/VER_3_20261025_155517.mp3",
+        "meeting_name": "United States Grand Prix",
+        "session_name": "Race",
+        "meeting_year": "2026"
+    },
+    {
         "meeting_key": 1308,
         "session_key": 11728,
         "driver_number": 3,
